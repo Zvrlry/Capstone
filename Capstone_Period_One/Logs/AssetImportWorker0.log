@@ -15,11 +15,11 @@ C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52363
+62197
 Successfully changed project path to: C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 87.99 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 109.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,190 +35,100 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002092 seconds.
+Registered in 0.001846 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 86.67 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 104.46 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.260 seconds
+- Completed reload, in  1.409 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002650 seconds.
+Registered in 0.002623 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 86.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 88.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.037 seconds
+- Completed reload, in  1.165 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.8 MB.
-System memory in use after: 129.0 MB.
+System memory in use before: 128.9 MB.
+System memory in use after: 129.1 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3831.
-Total: 2.838300 ms (FindLiveObjects: 0.302600 ms CreateObjectMapping: 0.194200 ms MarkObjects: 2.262900 ms  DeleteObjects: 0.077200 ms)
+Total: 2.114200 ms (FindLiveObjects: 0.243500 ms CreateObjectMapping: 0.159200 ms MarkObjects: 1.653400 ms  DeleteObjects: 0.057200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/Dungeon Pack/atlas_16x.png
-  artifactKey: Guid(3f431c23de5528242bdbee22ce870e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/atlas_16x.png using Guid(3f431c23de5528242bdbee22ce870e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d474c3bb817a1dfee8f2bc8816584d2') in 0.094527 seconds 
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f459027541867fd0959fe38e14ccbc') in 0.052658 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000361 seconds.
-  path: Assets/Art/Dungeon Pack/atlas_32x.png
-  artifactKey: Guid(3d59f3106e68b2a479be25e3cb08e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/atlas_32x.png using Guid(3d59f3106e68b2a479be25e3cb08e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d31ac71c94e9f1c06153fb0ecfcee10') in 0.009365 seconds 
+  Time since last request: 36.699785 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8177c94022fb4fa3609de902a01d4d75') in 0.003209 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Art/Dungeon Pack/atlas_48x.png
-  artifactKey: Guid(47323223480529546bf521b34d8a84f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/atlas_48x.png using Guid(47323223480529546bf521b34d8a84f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd5e8f39261d52ab69bc0620fe6d9c3') in 0.011965 seconds 
+  Time since last request: 20.529335 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d97b91b6856c93b7478e9c0d21f4c5b') in 0.002938 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000407 seconds.
-  path: Assets/Art/Dungeon Pack
-  artifactKey: Guid(61b9d002af6905e469ca950dda1eff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack using Guid(61b9d002af6905e469ca950dda1eff6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd64287006e891c20524ef387629fdeb') in 0.002318 seconds 
+  Time since last request: 26.704736 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f491003f50276811f257cdb5243b98') in 0.004425 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.430162 seconds.
-  path: Assets/Art/Super Retro World Battle Pack 1.7/color_palette.png
-  artifactKey: Guid(84dcf212f2ab2e2438bfbe87cd5f63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Super Retro World Battle Pack 1.7/color_palette.png using Guid(84dcf212f2ab2e2438bfbe87cd5f63b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d05fbd312612da7e797b62bfc193ebd') in 0.005634 seconds 
+  Time since last request: 9.224580 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2865dfb922a394787fd34e1195d979') in 0.003216 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.082544 seconds.
-  path: Assets/Art/Dungeon Pack/animation
-  artifactKey: Guid(3244fac6c906b3744aa50938053c0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation using Guid(3244fac6c906b3744aa50938053c0626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c417c1e91edf6fcf59a559e2ea35cf0') in 0.001468 seconds 
+  Time since last request: 23.417633 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_1.asset
+  artifactKey: Guid(194e31338d500884184229c8bd1d1c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_1.asset using Guid(194e31338d500884184229c8bd1d1c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f5e6eb38b48dfaafb9327168439846') in 0.042584 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.068446 seconds.
-  path: Assets/Art/Dungeon Pack/animation/bubble_001.png
-  artifactKey: Guid(76d9885962b90a2458cd1a6e089487f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/bubble_001.png using Guid(76d9885962b90a2458cd1a6e089487f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba032e35c0d5be0c4e0e5fc58510acb0') in 0.005672 seconds 
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_2.asset
+  artifactKey: Guid(23096d17a9bdcb1429f4a066154d75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_2.asset using Guid(23096d17a9bdcb1429f4a066154d75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1450716e022c852c5ffc1d06752e1d') in 0.007539 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_004.png
-  artifactKey: Guid(f784ca0dd5fab554aaf0aaf537c4ca9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_004.png using Guid(f784ca0dd5fab554aaf0aaf537c4ca9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b91267c67207f9650b59dd93b9932e') in 0.007209 seconds 
+  Time since last request: 10.049180 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaecb931230e3e0a2485183890aed9de') in 0.130278 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_005.png
-  artifactKey: Guid(cea00e82a1bf2634e91efc2bff9af5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_005.png using Guid(cea00e82a1bf2634e91efc2bff9af5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dee93168717b35d2aec5a3ba2650d73') in 0.005556 seconds 
+  Time since last request: 7.859594 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54f0e5f0615ee71c74e4dd264e55413') in 0.055936 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_007.png
-  artifactKey: Guid(6ba4d462251e40e4c9ef15c651bb5f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_007.png using Guid(6ba4d462251e40e4c9ef15c651bb5f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91ad630432e3b549cf50fb940492a84') in 0.005100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Art/Dungeon Pack/animation/door_001.png
-  artifactKey: Guid(3d6f1d0aff15baf4bad171e24a6f8d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/door_001.png using Guid(3d6f1d0aff15baf4bad171e24a6f8d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f40a48a03e8ab432efa4dc430a653a') in 0.006836 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_001.png
-  artifactKey: Guid(2089a689c5c01324fac4302bb7a737e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_001.png using Guid(2089a689c5c01324fac4302bb7a737e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c83716448a027146e6e6e831d90f963') in 0.005716 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_003.png
-  artifactKey: Guid(5ee155105aa83a04aae303b96933f70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_003.png using Guid(5ee155105aa83a04aae303b96933f70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf0bfb0ce97bd81c94cc1e078cb8169') in 0.005877 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_002.png
-  artifactKey: Guid(6e58fb7303068444e8f79b5ffd2e596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_002.png using Guid(6e58fb7303068444e8f79b5ffd2e596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a56664f2de113ea739236badd5fe3f4') in 0.005743 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Art/Dungeon Pack/animation/fire.png
-  artifactKey: Guid(23e730f4d45e6f446a5e7136f2a4a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/fire.png using Guid(23e730f4d45e6f446a5e7136f2a4a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6aae17f83c2116e87f24f6aac683550') in 0.005096 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Art/Dungeon Pack/animation/fire2.png
-  artifactKey: Guid(92116da2efbeb2049999999f80f5a29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/fire2.png using Guid(92116da2efbeb2049999999f80f5a29a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5978e85d14fa71e6d3cb444016bc16') in 0.007438 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000387 seconds.
-  path: Assets/Art/Dungeon Pack/animation/chest_006.png
-  artifactKey: Guid(1330982fa9df38c4f8f4255d71b51694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/animation/chest_006.png using Guid(1330982fa9df38c4f8f4255d71b51694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa1a1b752edc70c90e4b0a1d45962bd') in 0.005637 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.391056 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker
-  artifactKey: Guid(126561b1d2a6bc54894bb39cd9ce7dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker using Guid(126561b1d2a6bc54894bb39cd9ce7dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1cd73464a4f6458e6ab6f7a2a405b92') in 0.001668 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.799129 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B.png
-  artifactKey: Guid(05c9c524a313f05449c58da84474f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B.png using Guid(05c9c524a313f05449c58da84474f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd786a346fe4d772aff72b728a326d9c') in 0.103064 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_D.png
-  artifactKey: Guid(de5b4b8a0831dcb4e92c1e366618d35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_D.png using Guid(de5b4b8a0831dcb4e92c1e366618d35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6152155a3b03ff67ae778948e1273c0') in 0.015842 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_C.png
-  artifactKey: Guid(102b890b993e2194db40f0c4879522d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_C.png using Guid(102b890b993e2194db40f0c4879522d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de270b45d5b561a28d218e3f26ca3ca2') in 0.011068 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 38.050382 seconds.
-  path: Assets/Art/Dungeon Pack/sample/samples.png
-  artifactKey: Guid(4a124aa36022bc84fa6b353f1ca6194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/sample/samples.png using Guid(4a124aa36022bc84fa6b353f1ca6194c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40df5edd78aedc6484d0af1d12efe77a') in 0.006049 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 70.199308 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_D.png
-  artifactKey: Guid(de5b4b8a0831dcb4e92c1e366618d35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_D.png using Guid(de5b4b8a0831dcb4e92c1e366618d35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2099228f7ddc9ccdf4f2496efec662b3') in 0.021916 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 84.078045 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B.png
-  artifactKey: Guid(05c9c524a313f05449c58da84474f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B.png using Guid(05c9c524a313f05449c58da84474f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1a4760a05f163f631b3438cea8dae4') in 0.085369 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.225433 seconds.
-  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_C.png
-  artifactKey: Guid(102b890b993e2194db40f0c4879522d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_C.png using Guid(102b890b993e2194db40f0c4879522d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd75a4f4a8e0e952d74bc22c62d3e10') in 0.010313 seconds 
+  Time since last request: 13.624715 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b502fcd3d48422e7ae34ac377d089cd') in 0.062257 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
