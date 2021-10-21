@@ -1,0 +1,134 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16247 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62197
+Successfully changed project path to: C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
+C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 109.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 450 (ID=0x682b)
+    Vendor:   ATI
+    VRAM:     4076 MB
+    Driver:   24.20.11020.3002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001846 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 104.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002623 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.9 MB.
+System memory in use after: 129.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3831.
+Total: 2.114200 ms (FindLiveObjects: 0.243500 ms CreateObjectMapping: 0.159200 ms MarkObjects: 1.653400 ms  DeleteObjects: 0.057200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f459027541867fd0959fe38e14ccbc') in 0.052658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.699785 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8177c94022fb4fa3609de902a01d4d75') in 0.003209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.529335 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d97b91b6856c93b7478e9c0d21f4c5b') in 0.002938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.704736 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f491003f50276811f257cdb5243b98') in 0.004425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.224580 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab
+  artifactKey: Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/MainPalette.prefab using Guid(ec0ebd8eaf73d1d43ad34ab7fd7d87df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2865dfb922a394787fd34e1195d979') in 0.003216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.417633 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_1.asset
+  artifactKey: Guid(194e31338d500884184229c8bd1d1c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_1.asset using Guid(194e31338d500884184229c8bd1d1c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f5e6eb38b48dfaafb9327168439846') in 0.042584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_2.asset
+  artifactKey: Guid(23096d17a9bdcb1429f4a066154d75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_2.asset using Guid(23096d17a9bdcb1429f4a066154d75c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1450716e022c852c5ffc1d06752e1d') in 0.007539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.049180 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaecb931230e3e0a2485183890aed9de') in 0.130278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.859594 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd54f0e5f0615ee71c74e4dd264e55413') in 0.055936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.624715 seconds.
+  path: Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png
+  artifactKey: Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/rpgmaker/tileset_B_set1.png using Guid(22ea82b2c1dcbc3499469283a400cf50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b502fcd3d48422e7ae34ac377d089cd') in 0.062257 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
