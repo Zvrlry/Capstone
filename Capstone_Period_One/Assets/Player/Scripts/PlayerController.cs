@@ -7,8 +7,8 @@ public class PlayerController : MonoBehaviour
     [Header("Movement Variables")] // header attribute
     public float moveSpeed;
 
-    [Header("Animation")]
-    public Animator myAnim;
+    [Header("Animation")] // header attribute
+    public Animator myAnim; // animator componenent 
 
 
     [Header("RigidBody")] // header attribute 
@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+
     }
 
     // Update is called once per frame
@@ -29,8 +29,7 @@ public class PlayerController : MonoBehaviour
         myAnim.SetFloat("moveX", rb.velocity.x); // setting float for animation in blend tree
         myAnim.SetFloat("moveY", rb.velocity.y); // setting float for animation in blend tree
 
-        if(Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1
-         || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1) // if moving left or right
+        if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1) // if moving left or right
         {
             myAnim.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal")); // set float in blend tree
             myAnim.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical")); // Set float in blend tree
