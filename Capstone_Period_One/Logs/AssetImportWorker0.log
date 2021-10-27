@@ -11,19 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
+C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63746
-Successfully changed project path to: C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
-C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
+59734
+Successfully changed project path to: C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
+C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 88.97 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 85.90 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One/Assets
+[Subsystems] Discovering subsystems at path C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,99 +35,63 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001770 seconds.
+Registered in 0.002047 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 90.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 86.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.215 seconds
+- Completed reload, in  1.239 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002530 seconds.
+Registered in 0.002498 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 95.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 86.67 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.043 seconds
+- Completed reload, in  1.013 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 127.8 MB.
 System memory in use after: 128.0 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3831.
-Total: 2.171700 ms (FindLiveObjects: 0.246400 ms CreateObjectMapping: 0.181600 ms MarkObjects: 1.693200 ms  DeleteObjects: 0.049500 ms)
+Total: 2.710800 ms (FindLiveObjects: 0.297600 ms CreateObjectMapping: 0.227900 ms MarkObjects: 2.118600 ms  DeleteObjects: 0.065300 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6498a9996aa6018458b4a6adaa3eee3c') in 0.009796 seconds 
+  path: Assets/Art/Dungeon Pack/wall tile.png
+  artifactKey: Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/wall tile.png using Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e08327520d317fa996b530a5141038') in 0.110571 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.979678 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dd59bf514e95e63bea34f2fd7e9d92') in 0.002280 seconds 
+  Time since last request: 16.762265 seconds.
+  path: Assets/Art/Dungeon Pack/wall tile.png
+  artifactKey: Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/wall tile.png using Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b9fd728dde8b29446ab35d7cf66840') in 0.005596 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.554895 seconds.
-  path: Assets/Scenes/Level_7.unity
-  artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b769926fb0e0f29c4e869a8813b89cda') in 0.002107 seconds 
+  Time since last request: 20.928548 seconds.
+  path: Assets/Art/Dungeon Pack/wall tile.png
+  artifactKey: Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/wall tile.png using Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51991162940299f2309c164ec2a9dd0') in 0.038996 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.054817 seconds.
-  path: Assets/Scenes/Level_8.unity
-  artifactKey: Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_8.unity using Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3dcec688173efba2675bd03f28133e') in 0.002280 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.484243 seconds.
-  path: Assets/Scenes/Level_9.unity
-  artifactKey: Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_9.unity using Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855fddaa0b98c71ba1d487eaa9726747') in 0.002248 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 242.598078 seconds.
-  path: Assets/Scenes/Level_9.unity
-  artifactKey: Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_9.unity using Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5577a16ec8cd3c4e1aa28da5af7443') in 0.001980 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.562072 seconds.
-  path: Assets/Scenes/Level_10.unity
-  artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca01d7431e9b62d2334ec01733d1728') in 0.001983 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 316.700316 seconds.
-  path: Assets/Scenes/Level_3.unity
-  artifactKey: Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_3.unity using Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507c612fe8f21a1e92b6f7c3b4207232') in 0.002111 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 24.503226 seconds.
-  path: Assets/Scenes/Level_4.unity
-  artifactKey: Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_4.unity using Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dc1b89903ca114cb7a44a6d2c25a95') in 0.002295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.940595 seconds.
-  path: Assets/Scenes/Level_5.unity
-  artifactKey: Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_5.unity using Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e84b47fb4f2e42d5eb43d768f274965') in 0.002436 seconds 
+  Time since last request: 69.197057 seconds.
+  path: Assets/Art/Dungeon Pack/wall tile.png
+  artifactKey: Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/wall tile.png using Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '350232a995f404f7c6e222b79044be1e') in 0.008320 seconds 
