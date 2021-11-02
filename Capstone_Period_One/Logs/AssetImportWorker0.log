@@ -11,35 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-<<<<<<< HEAD
-C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
--logFile
-Logs/AssetImportWorker0.log
--srvPort
-55262
-Successfully changed project path to: C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
-C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 88.21 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.1.7f1 (d91830b65d9b)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/BX.LK/Documents/GitHubFiles/Capstone/Capstone_Period_One/Assets
-=======
 C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61672
+54103
 Successfully changed project path to: C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.75 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 90.12 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One/Assets
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -51,662 +35,823 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< HEAD
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< HEAD
-Registered in 0.001881 seconds.
+Registered in 0.001628 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 99.46 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 92.07 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.394 seconds
+- Completed reload, in  1.171 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004497 seconds.
+Registered in 0.002455 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 98.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 86.76 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.170 seconds
+- Completed reload, in  1.109 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-=======
-Registered in 0.001871 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 101.40 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.437 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.003123 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 99.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.165 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.9 MB.
-System memory in use after: 128.1 MB.
+System memory in use before: 127.8 MB.
+System memory in use after: 128.0 MB.
 
-<<<<<<< HEAD
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3832.
-Total: 2.728200 ms (FindLiveObjects: 0.379300 ms CreateObjectMapping: 0.232800 ms MarkObjects: 2.031200 ms  DeleteObjects: 0.083700 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3831.
+Total: 2.153500 ms (FindLiveObjects: 0.246900 ms CreateObjectMapping: 0.171100 ms MarkObjects: 1.684600 ms  DeleteObjects: 0.050200 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Scenes/Level_6.unity
   artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f08fc62d7c15d483deeb2c4ef3c3292') in 0.012859 seconds 
+Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f9bc55b48395ce390180a50cd96936') in 0.014959 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.7 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3831.
+Total: 2.402900 ms (FindLiveObjects: 0.235900 ms CreateObjectMapping: 0.151600 ms MarkObjects: 2.002400 ms  DeleteObjects: 0.012400 ms)
+
 ========================================================================
 Received Import Request.
-  Time since last request: 79.711930 seconds.
-  path: Assets/Scenes/Level_1.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3092892d570ed5c53a919ea7050d67') in 0.016258 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 73.013476 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ec482bd9cb8870c5269a93864eea87') in 0.001956 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 687.774374 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1dbc1c588291c55e1903c1016dbe15e') in 0.004102 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 157.846264 seconds.
+  Time since last request: 139.709568 seconds.
   path: Assets/Scenes/Level_7.unity
   artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5609edcbe20a28ad059324f8661cc17') in 0.007670 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.787479 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe61304a1f81d5e297c6bc9d36d450ec') in 0.006125 seconds 
+Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63cb4dc304e99e0f8cffa020d24528b9') in 0.007524 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002767 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-=======
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3831.
-Total: 3.248800 ms (FindLiveObjects: 0.280200 ms CreateObjectMapping: 0.205600 ms MarkObjects: 2.706400 ms  DeleteObjects: 0.055600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/Level_2.unity
-  artifactKey: Guid(78ad6f496dcefaa4d886d0e3bce73624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_2.unity using Guid(78ad6f496dcefaa4d886d0e3bce73624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b0d95ece19fdf9b482736745f8c4a7') in 0.022597 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 45.334179 seconds.
-  path: Assets/Scenes/Level_1.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a19032b0eedd22b8bbe55d2ebc5a81') in 0.001899 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 48.563211 seconds.
-  path: Assets/Scenes/Level_3.unity
-  artifactKey: Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_3.unity using Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ea34feaa47e17526d311bd661d067') in 0.002689 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002340 seconds.
+Registered in 0.002494 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.831 seconds
+- Completed reload, in  0.837 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 127.3 MB.
 System memory in use after: 127.6 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3835.
-Total: 2.117800 ms (FindLiveObjects: 0.256500 ms CreateObjectMapping: 0.156900 ms MarkObjects: 1.688000 ms  DeleteObjects: 0.015500 ms)
+Total: 2.151500 ms (FindLiveObjects: 0.248900 ms CreateObjectMapping: 0.179400 ms MarkObjects: 1.704800 ms  DeleteObjects: 0.017500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002369 seconds.
+Registered in 0.002313 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.842 seconds
+- Completed reload, in  0.823 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 127.4 MB.
 System memory in use after: 127.6 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3839.
-Total: 2.167300 ms (FindLiveObjects: 0.252600 ms CreateObjectMapping: 0.156100 ms MarkObjects: 1.740200 ms  DeleteObjects: 0.017600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002406 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.845 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.4 MB.
-System memory in use after: 127.6 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3843.
-Total: 2.147800 ms (FindLiveObjects: 0.238800 ms CreateObjectMapping: 0.150400 ms MarkObjects: 1.741600 ms  DeleteObjects: 0.016200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002333 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.836 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.4 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3847.
-Total: 2.136700 ms (FindLiveObjects: 0.242400 ms CreateObjectMapping: 0.154200 ms MarkObjects: 1.723500 ms  DeleteObjects: 0.015600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002337 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  0.975 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-=======
-- Completed reload, in  0.826 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.4 MB.
-System memory in use after: 127.7 MB.
-
-<<<<<<< HEAD
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3836.
-Total: 2.130500 ms (FindLiveObjects: 0.243300 ms CreateObjectMapping: 0.197900 ms MarkObjects: 1.672900 ms  DeleteObjects: 0.015700 ms)
-=======
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3851.
-Total: 2.113300 ms (FindLiveObjects: 0.243200 ms CreateObjectMapping: 0.170100 ms MarkObjects: 1.682300 ms  DeleteObjects: 0.017000 ms)
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
+Total: 2.053700 ms (FindLiveObjects: 0.243300 ms CreateObjectMapping: 0.158300 ms MarkObjects: 1.635900 ms  DeleteObjects: 0.015400 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 321.044446 seconds.
-  path: Assets/Scenes/Level_7.unity
-  artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d3b79bd8e335dbddddbaf5546da26a') in 0.011012 seconds 
+  Time since last request: 116.832996 seconds.
+  path: Assets/Scenes/Level_2.unity
+  artifactKey: Guid(78ad6f496dcefaa4d886d0e3bce73624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_2.unity using Guid(78ad6f496dcefaa4d886d0e3bce73624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ec0bc67f6f69377e06ab4a0a4f3316') in 0.012902 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 573.888272 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81f9839af44cba027886087c4471052') in 0.002399 seconds 
+  Time since last request: 268.425818 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7
+  artifactKey: Guid(63ceb819b2049c34fbcc2fa152ea49c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7 using Guid(63ceb819b2049c34fbcc2fa152ea49c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f178c373d57512a852be3e4d27b6acf6') in 0.001594 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-<<<<<<< HEAD
-Registered in 0.002639 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\BX.LK\Documents\GitHubFiles\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-=======
-Registered in 0.002347 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.842 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3855.
-Total: 2.067400 ms (FindLiveObjects: 0.238800 ms CreateObjectMapping: 0.154000 ms MarkObjects: 1.660700 ms  DeleteObjects: 0.012900 ms)
-
+Received Import Request.
+  Time since last request: 5.462586 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1
+  artifactKey: Guid(0cfe0ff64855cf648981442f0f77f5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1 using Guid(0cfe0ff64855cf648981442f0f77f5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842e6e101906786f98951d9b01966628') in 0.001631 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002318 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.839 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3859.
-Total: 2.144900 ms (FindLiveObjects: 0.280200 ms CreateObjectMapping: 0.179100 ms MarkObjects: 1.671000 ms  DeleteObjects: 0.014000 ms)
-
+Received Import Request.
+  Time since last request: 0.083104 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/BlackMagusA.png
+  artifactKey: Guid(27f9013e80f0e5c418a4e6a81ff6915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/BlackMagusA.png using Guid(27f9013e80f0e5c418a4e6a81ff6915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc547c33826793e7cbe9274759de1d76') in 0.120893 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002308 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.827 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3863.
-Total: 2.257700 ms (FindLiveObjects: 0.246500 ms CreateObjectMapping: 0.170200 ms MarkObjects: 1.821600 ms  DeleteObjects: 0.018300 ms)
-
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostC.png
+  artifactKey: Guid(0846fbb4e77d2bd4081bd7afd3284099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostC.png using Guid(0846fbb4e77d2bd4081bd7afd3284099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c65fda44bddabce67369ff9f0a8464') in 0.020189 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002335 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.845 seconds
-Platform modules already initialized, skipping
-<<<<<<< HEAD
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-=======
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3867.
-Total: 2.219700 ms (FindLiveObjects: 0.255800 ms CreateObjectMapping: 0.173400 ms MarkObjects: 1.773000 ms  DeleteObjects: 0.016800 ms)
-
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GeniusB.png
+  artifactKey: Guid(a337757db016b7144921ab80be73cf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GeniusB.png using Guid(a337757db016b7144921ab80be73cf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6037872cc0e6883cb36885ec882e5014') in 0.011021 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002319 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.862 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3871.
-Total: 2.332200 ms (FindLiveObjects: 0.241900 ms CreateObjectMapping: 0.154400 ms MarkObjects: 1.917300 ms  DeleteObjects: 0.017700 ms)
-
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroD.png
+  artifactKey: Guid(1772e8e0b0fcbfa4094b94f9102f0956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroD.png using Guid(1772e8e0b0fcbfa4094b94f9102f0956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508b68872541c01759e75fab419ffba9') in 0.014270 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002348 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.832 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3875.
-Total: 2.188400 ms (FindLiveObjects: 0.275000 ms CreateObjectMapping: 0.163900 ms MarkObjects: 1.731900 ms  DeleteObjects: 0.016700 ms)
-
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaB.png
+  artifactKey: Guid(026963213d9c42d4fbc5f4f453731d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaB.png using Guid(026963213d9c42d4fbc5f4f453731d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f422a8f61378f9f9388923520219fd9') in 0.012125 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002318 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.827 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.7 MB.
-
-<<<<<<< HEAD
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3840.
-Total: 2.110000 ms (FindLiveObjects: 0.237800 ms CreateObjectMapping: 0.160900 ms MarkObjects: 1.694900 ms  DeleteObjects: 0.015800 ms)
-=======
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3879.
-Total: 2.132600 ms (FindLiveObjects: 0.244700 ms CreateObjectMapping: 0.162400 ms MarkObjects: 1.709500 ms  DeleteObjects: 0.015300 ms)
-
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GeniusA.png
+  artifactKey: Guid(0aa6f93db54b37744a17aa514613b3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GeniusA.png using Guid(0aa6f93db54b37744a17aa514613b3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464611e0345b01c83620c4fcb903626b') in 0.033184 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002327 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.830 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3883.
-Total: 2.190900 ms (FindLiveObjects: 0.246700 ms CreateObjectMapping: 0.179900 ms MarkObjects: 1.749700 ms  DeleteObjects: 0.013900 ms)
-
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroC.png
+  artifactKey: Guid(9e0870e454ea749468d6e4261f7c33fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroC.png using Guid(9e0870e454ea749468d6e4261f7c33fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa338b79e4a2ea8d3328f10f0d499be') in 0.029256 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002340 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.832 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3887.
-Total: 2.133100 ms (FindLiveObjects: 0.245200 ms CreateObjectMapping: 0.164700 ms MarkObjects: 1.709500 ms  DeleteObjects: 0.012900 ms)
-
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroA.png
+  artifactKey: Guid(d6f6159c8cfb07a42b00d49a126df331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroA.png using Guid(d6f6159c8cfb07a42b00d49a126df331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47ec904d759e89370c099530c6f85ad') in 0.012114 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002358 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.837 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.5 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3891.
-Total: 2.235700 ms (FindLiveObjects: 0.249900 ms CreateObjectMapping: 0.165500 ms MarkObjects: 1.799400 ms  DeleteObjects: 0.020000 ms)
-
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostB.png
+  artifactKey: Guid(5b905788481b23f41a56125d315eeedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostB.png using Guid(5b905788481b23f41a56125d315eeedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfc121a9ed9b8befa79bf4ea6ff830d') in 0.012420 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002345 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.895 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3895.
-Total: 2.156600 ms (FindLiveObjects: 0.282600 ms CreateObjectMapping: 0.145800 ms MarkObjects: 1.711300 ms  DeleteObjects: 0.016000 ms)
-
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostA.png
+  artifactKey: Guid(2066704f7ec44c24091219d3b0cb7690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/GhostA.png using Guid(2066704f7ec44c24091219d3b0cb7690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfe7e6944fefdb55b0b475b39a563e1') in 0.039577 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002469 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.889 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3899.
-Total: 2.161900 ms (FindLiveObjects: 0.252100 ms CreateObjectMapping: 0.173200 ms MarkObjects: 1.719300 ms  DeleteObjects: 0.016500 ms)
-
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaA.png
+  artifactKey: Guid(aaaeac14f10139f40b5d98f21af05dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaA.png using Guid(aaaeac14f10139f40b5d98f21af05dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0215d0eb9b2500bed89602a9be6c0c6c') in 0.017470 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002510 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.911 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3903.
-Total: 2.180500 ms (FindLiveObjects: 0.247700 ms CreateObjectMapping: 0.153700 ms MarkObjects: 1.764400 ms  DeleteObjects: 0.014000 ms)
-
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/BlackMagusB.png
+  artifactKey: Guid(f3b4f6f62160da342b6cc07220d5bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/BlackMagusB.png using Guid(f3b4f6f62160da342b6cc07220d5bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67bfd8d10bff7bedf9538a521fbc1c8b') in 0.021818 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002364 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.822 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3907.
-Total: 2.118600 ms (FindLiveObjects: 0.238800 ms CreateObjectMapping: 0.151100 ms MarkObjects: 1.712400 ms  DeleteObjects: 0.015600 ms)
-
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroB.png
+  artifactKey: Guid(1a221075e8d731d4597e0a813e1d5524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/HeroB.png using Guid(1a221075e8d731d4597e0a813e1d5524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4ad0fa3300e3a3bbf9f522154550be') in 0.006783 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002508 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.820 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3911.
-Total: 2.163300 ms (FindLiveObjects: 0.249400 ms CreateObjectMapping: 0.166300 ms MarkObjects: 1.731900 ms  DeleteObjects: 0.014900 ms)
-
+Received Import Request.
+  Time since last request: 14.197845 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaC.png
+  artifactKey: Guid(437bde699aea130468b84ebbd2dcf0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/LamiaC.png using Guid(437bde699aea130468b84ebbd2dcf0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7a9151ec09bf5cc2eeeffcddf554cd') in 0.033203 seconds 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002345 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.807 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.6 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3915.
-Total: 2.501500 ms (FindLiveObjects: 0.247700 ms CreateObjectMapping: 0.168900 ms MarkObjects: 2.068000 ms  DeleteObjects: 0.016000 ms)
->>>>>>> 7758f00d539deb5a8c74259c884c2e6a3916d832
-
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MinotaurB.png
+  artifactKey: Guid(87a1fb608c2b830428ca22aedf186407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MinotaurB.png using Guid(87a1fb608c2b830428ca22aedf186407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656dca4ec6f301517acefe2ee6e39b39') in 0.039276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MinotaurA.png
+  artifactKey: Guid(62da0484a2af62b4c91034b93d1ca4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MinotaurA.png using Guid(62da0484a2af62b4c91034b93d1ca4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3124fb36c5ecaa5f8d643ca240d81fb0') in 0.021903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.735469 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomA.png
+  artifactKey: Guid(4b51a51d039258b4fa6e7ca9bc45aa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomA.png using Guid(4b51a51d039258b4fa6e7ca9bc45aa56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06eb65196797fcfbd43b6087f4acb89f') in 0.026634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000528 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionC.png
+  artifactKey: Guid(a1d597156724e4d4eb7b311a1475d0df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionC.png using Guid(a1d597156724e4d4eb7b311a1475d0df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f43dbfc769e9322ba374aa382d58dc') in 0.031188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomB.png
+  artifactKey: Guid(4241f168160f19448a723b5406fce858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomB.png using Guid(4241f168160f19448a723b5406fce858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673cdb7829061cda044c1c416fa6fc51') in 0.018042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionA.png
+  artifactKey: Guid(bd3494262d836dd44aa90da253f1f11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionA.png using Guid(bd3494262d836dd44aa90da253f1f11a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d258ddb98c7355bb6e6b7047b3abac') in 0.031743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionB.png
+  artifactKey: Guid(4b71a44610940f6488d4447671e9b78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/ScorpionB.png using Guid(4b71a44610940f6488d4447671e9b78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04f5d666247a52c7a8c8310410c131f') in 0.006607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomC.png
+  artifactKey: Guid(c0c68da1e17bead4e8f4f29aba54a498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/MushroomC.png using Guid(c0c68da1e17bead4e8f4f29aba54a498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d4b883e420359f1734e353a5dd0544') in 0.030514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.109728 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonA.png
+  artifactKey: Guid(f0eb571d6bfa45841a3b011c0d6cfd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonA.png using Guid(f0eb571d6bfa45841a3b011c0d6cfd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9eda5298b519da0d323ea1afe303dc8') in 0.012284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonB.png
+  artifactKey: Guid(2b600f45ed73f4449a4ac43e8a649044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonB.png using Guid(2b600f45ed73f4449a4ac43e8a649044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44378b4e7486d05fc6fcb00bda5901be') in 0.030461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonC.png
+  artifactKey: Guid(b6adb454857514c428a0382a078ece7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonC.png using Guid(b6adb454857514c428a0382a078ece7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424b9ca087be695a5dc9496114055ba8') in 0.015856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.122962 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorA.png
+  artifactKey: Guid(58ec470b8777ce647896354541f732c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorA.png using Guid(58ec470b8777ce647896354541f732c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfdcdca5180ead17ff6398e23bebf65') in 0.029371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorB.png
+  artifactKey: Guid(ebaf444a841c9b34694c85801d79bf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorB.png using Guid(ebaf444a841c9b34694c85801d79bf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f54dd975fb64a4b9616566eb027aaa2') in 0.013739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorC.png
+  artifactKey: Guid(12d9ffc0b67df0045b43ed062d5efcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SkeletonwarriorC.png using Guid(12d9ffc0b67df0045b43ed062d5efcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d5940a9fb7d7b1a9fc17051c5862d5') in 0.010568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.155290 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeA.png
+  artifactKey: Guid(c8e96c9ba21580947a8dffc4e4fe891f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeA.png using Guid(c8e96c9ba21580947a8dffc4e4fe891f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf2c6a719ec64d73bdb0e114684b729') in 0.029949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeB.png
+  artifactKey: Guid(2b98a40ccb994a04fa5affe34f5ee7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeB.png using Guid(2b98a40ccb994a04fa5affe34f5ee7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9647916f9bedddff866a3e14a89d74bf') in 0.006740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeC.png
+  artifactKey: Guid(fce0d5da91292e54886d05a909620633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeC.png using Guid(fce0d5da91292e54886d05a909620633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45090c2bf123a59403d843737625e1b6') in 0.013215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022020 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeswordA.png
+  artifactKey: Guid(0fa3c94ecd30bd54686775525538da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SlimeswordA.png using Guid(0fa3c94ecd30bd54686775525538da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1230b712387ddce964012692093eee9') in 0.019076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SuccubusA.png
+  artifactKey: Guid(bf51d674e5e22194c89972dc45c919b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SuccubusA.png using Guid(bf51d674e5e22194c89972dc45c919b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0873c370ce822e5b8313b294cf72dd26') in 0.029869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SuccubusB.png
+  artifactKey: Guid(cf597778446910d4287148219cbc4690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X1/SuccubusB.png using Guid(cf597778446910d4287148219cbc4690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946eb59d9ed4db8594abc880abb6d699') in 0.025809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.770020 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package
+  artifactKey: Guid(8478ba0b74845f341b2fc10861ebb04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package using Guid(8478ba0b74845f341b2fc10861ebb04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312b227080da90a30a653507c43d95a3') in 0.001955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057751 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_16x.png
+  artifactKey: Guid(d129963e7bf93c04c8e81a63a011a969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_16x.png using Guid(d129963e7bf93c04c8e81a63a011a969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4602c9d638b0879d3431cd9ce4b8afc') in 0.054410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_48x.png
+  artifactKey: Guid(67d29f4206eafc24787d9611393dda69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_48x.png using Guid(67d29f4206eafc24787d9611393dda69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f027d0e197f5c73c2c8510cb693a2ade') in 0.026739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_32x.png
+  artifactKey: Guid(9db98ab55ab0bfa4d8cce2c07eb4b7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/atlas_32x.png using Guid(9db98ab55ab0bfa4d8cce2c07eb4b7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0676802b5b25fd6ec1bd215f35f959') in 0.010413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.027338 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker
+  artifactKey: Guid(5a4b012809769b14ba8cc1b67a0122a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker using Guid(5a4b012809769b14ba8cc1b67a0122a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9f3ce2318921d5c6b0354fe48e1f35') in 0.002184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.041608 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/$character_01.png
+  artifactKey: Guid(399f0475ac2a43242a34f5486770f62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/$character_01.png using Guid(399f0475ac2a43242a34f5486770f62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13c2f5ee2dfdbb55aaa86b702876f7e') in 0.028854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_D.png
+  artifactKey: Guid(1a8d5078129f0574ea2ccf09de266ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_D.png using Guid(1a8d5078129f0574ea2ccf09de266ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f945f61ea7b321e8c202fbab10da41d') in 0.028382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_C.png
+  artifactKey: Guid(f71493c9d857c4443a5ebc7a0d7726c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_C.png using Guid(f71493c9d857c4443a5ebc7a0d7726c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee5ea9c918d61dacb768122966d9c49') in 0.027393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/animated_autotiles.png
+  artifactKey: Guid(31081cec24c91144a9337bb6f4d1ac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/animated_autotiles.png using Guid(31081cec24c91144a9337bb6f4d1ac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a1b1b073d8f1abdc809fc542ebb366') in 0.033507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/autotile.png
+  artifactKey: Guid(10c8c920012331c4fbfb661c5a0fcb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/autotile.png using Guid(10c8c920012331c4fbfb661c5a0fcb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70a054fadc03e2f0637d58c31973703') in 0.036706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/$character_02.png
+  artifactKey: Guid(72831952130c28942aa986275ee939e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/$character_02.png using Guid(72831952130c28942aa986275ee939e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ec9c094925260b86580092d0d5107a') in 0.017937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_B.png
+  artifactKey: Guid(cdf740a052df2d245a8866449792493d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_B.png using Guid(cdf740a052df2d245a8866449792493d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c6a68d4ead509f2a059b2f4c76049a') in 0.035836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_E.png
+  artifactKey: Guid(9339fa94658efa747a5e248abe7f6f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super_Retro_World_Exterior_pack_week35/Package/rpgmaker/tileset_E.png using Guid(9339fa94658efa747a5e248abe7f6f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e0626a81932407cfa7351885fbd50c') in 0.017974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.621708 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DesertA.png
+  artifactKey: Guid(f95c7333d811e2848918b0b12ac6eaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DesertA.png using Guid(f95c7333d811e2848918b0b12ac6eaf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7741090b79f50e090fd9972dbb49057c') in 0.027127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonB.png
+  artifactKey: Guid(e881a207922aed94d9f0d3ee6e835dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonB.png using Guid(e881a207922aed94d9f0d3ee6e835dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226e5209325aea5874175f906a6b6d5a') in 0.021558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DesertB.png
+  artifactKey: Guid(e407f8b64d77de84f93d2d385105b900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DesertB.png using Guid(e407f8b64d77de84f93d2d385105b900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d550d661b4f63aa1740f5a685559ba') in 0.028782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonC.png
+  artifactKey: Guid(89d2f849825a2b345a8a900b02b32a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonC.png using Guid(89d2f849825a2b345a8a900b02b32a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7fb91a84c5996e9254a174de360245') in 0.032338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonA.png
+  artifactKey: Guid(de351f6050ef00148b23a9eab9dae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonA.png using Guid(de351f6050ef00148b23a9eab9dae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de1e6ad7ef3a0105574395e84fb5648') in 0.012475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.409845 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonD.png
+  artifactKey: Guid(290697b8909a8554480824353ab2521d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/DungeonD.png using Guid(290697b8909a8554480824353ab2521d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6629dab3d577749a6830278df322ed69') in 0.012615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/ForestB.png
+  artifactKey: Guid(ce2fee44e3d853b43b646df879b99420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/ForestB.png using Guid(ce2fee44e3d853b43b646df879b99420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96be021bc4c98368e35712f34b911e3') in 0.007507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/ForestA.png
+  artifactKey: Guid(be0d264aef496774395f3defeeb8ab19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/ForestA.png using Guid(be0d264aef496774395f3defeeb8ab19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c3780ca1b3b6007128df23d382f46e') in 0.006762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/PlainA.png
+  artifactKey: Guid(93c2912c48e259c41ae6691d2c4381a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/PlainA.png using Guid(93c2912c48e259c41ae6691d2c4381a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203721586f312e12d7cb09088b4a0d4a') in 0.024752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065266 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/PlainB.png
+  artifactKey: Guid(1673ff9e86db21c4ab7c1d28943b8839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X1/PlainB.png using Guid(1673ff9e86db21c4ab7c1d28943b8839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d072f9a37caa80f63fe0c7cb9a3df88') in 0.016415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.065615 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonA.png
+  artifactKey: Guid(34249186ee8eb314fbb79ebeeb0a5d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonA.png using Guid(34249186ee8eb314fbb79ebeeb0a5d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2498f972d4019f8b971b79a0939e1f') in 0.042861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonB.png
+  artifactKey: Guid(699888726913ce64b8401a87a2e76df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonB.png using Guid(699888726913ce64b8401a87a2e76df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14289ae5c594354982daae6504fa177e') in 0.019054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/PlainA.png
+  artifactKey: Guid(1680721e20bf9e544b396e92ecdc5f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/PlainA.png using Guid(1680721e20bf9e544b396e92ecdc5f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2c46cd459ac33ad146c4ed34253a65') in 0.018210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonC.png
+  artifactKey: Guid(1bd24798180f67245b5bbd487661c0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonC.png using Guid(1bd24798180f67245b5bbd487661c0ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29c0705f39fef2f0d78f3ce4d5fb08b') in 0.022394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/PlainB.png
+  artifactKey: Guid(76128941f5536b743a8ab98a0e12dc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/PlainB.png using Guid(76128941f5536b743a8ab98a0e12dc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb0ceff6fd79f6db792bc7c6b9795be') in 0.039594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/ForestB.png
+  artifactKey: Guid(4ba8a4653fb5df1499e8c2f77a4d5b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/ForestB.png using Guid(4ba8a4653fb5df1499e8c2f77a4d5b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33407da352b6a58f75bd14052e4c52a9') in 0.021634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonD.png
+  artifactKey: Guid(ef9acb4eda306a14587a8279f2607187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DungeonD.png using Guid(ef9acb4eda306a14587a8279f2607187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b7ba011057a48556b5377121d6ccaf') in 0.016550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/ForestA.png
+  artifactKey: Guid(1d10a9b00ee011f44bdc910a157d7411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/ForestA.png using Guid(1d10a9b00ee011f44bdc910a157d7411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9c67ebedc7b674e87fe7789b2a799a') in 0.031978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.116051 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DesertA.png
+  artifactKey: Guid(0cbe458d9f2ceb946b1b27dab3fb9f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DesertA.png using Guid(0cbe458d9f2ceb946b1b27dab3fb9f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7ab92c9c102449b768e92d31df9f66') in 0.027115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DesertB.png
+  artifactKey: Guid(b821064967968d14597f11fe8f948bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Battleback X2/DesertB.png using Guid(b821064967968d14597f11fe8f948bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c3a3f093cc49e4e9ed5dafac660e8b') in 0.031702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.565932 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/BlackMagusA.png
+  artifactKey: Guid(1f3c0f6e2ed1b1e459d87919eecf8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/BlackMagusA.png using Guid(1f3c0f6e2ed1b1e459d87919eecf8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7c875a346ce558eb77de9afbe8ee08') in 0.033120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GeniusA.png
+  artifactKey: Guid(c2a319d30f9472341b2fe0bb2c3d978e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GeniusA.png using Guid(c2a319d30f9472341b2fe0bb2c3d978e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53fc9355858db2c3177af1e1b53869ef') in 0.034364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostC.png
+  artifactKey: Guid(b39c08a61f3bbb8478972e482783082f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostC.png using Guid(b39c08a61f3bbb8478972e482783082f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc2b971d4297cccf0729cbefd03f28e') in 0.028018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/BlackMagusB.png
+  artifactKey: Guid(963cb507aa98e3a43a95f6a6524b2fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/BlackMagusB.png using Guid(963cb507aa98e3a43a95f6a6524b2fa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd827c645dbb462b87dd7c5f52004e410') in 0.015370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostB.png
+  artifactKey: Guid(8bdcf6b65680c374eb6d290464744f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostB.png using Guid(8bdcf6b65680c374eb6d290464744f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9919d98122de456b192f7ed7237290') in 0.011946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostA.png
+  artifactKey: Guid(dbc9e6084f5cd8c4f9e6dd2badbf0b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GhostA.png using Guid(dbc9e6084f5cd8c4f9e6dd2badbf0b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b328a9a1d5db2ed451b030d5e9d4f9') in 0.017587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroA.png
+  artifactKey: Guid(abc5d7241dc9bd8438b07323c44fa5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroA.png using Guid(abc5d7241dc9bd8438b07323c44fa5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd338c38f6eaa880b21155fb663414e19') in 0.015446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GeniusB.png
+  artifactKey: Guid(1116c362e45f07d4997266bd3c9743d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/GeniusB.png using Guid(1116c362e45f07d4997266bd3c9743d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd135c25de2c9ca05253b195dd74a0aa1') in 0.027279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroB.png
+  artifactKey: Guid(5156c91232669f74a94e5c86ee5cc408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroB.png using Guid(5156c91232669f74a94e5c86ee5cc408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11eb9dd9409fa204c5800bce9f43089c') in 0.015526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.795195 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroC.png
+  artifactKey: Guid(b8790cf7a48f6cf42acdfbf299303305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroC.png using Guid(b8790cf7a48f6cf42acdfbf299303305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b461067aac005ecc0d736a5b5c19afbd') in 0.017590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaA.png
+  artifactKey: Guid(a6fb338b0b86fdf4dbc1c48569bf2747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaA.png using Guid(a6fb338b0b86fdf4dbc1c48569bf2747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d35233bfd7a2445bb9e869f13f59cf') in 0.006726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaB.png
+  artifactKey: Guid(debfa1970b46f6a4ba108f8e1d8ea5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaB.png using Guid(debfa1970b46f6a4ba108f8e1d8ea5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83681fb13310db87d1c4617e944959cf') in 0.020304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroD.png
+  artifactKey: Guid(4e41fca0e3a278a42aa9f19fe0178c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/HeroD.png using Guid(4e41fca0e3a278a42aa9f19fe0178c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069ef11c39f67192824e6297c2e2f425') in 0.031511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.488344 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaC.png
+  artifactKey: Guid(b0823abe1a49e32418681e2f400e940c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/LamiaC.png using Guid(b0823abe1a49e32418681e2f400e940c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6251ece8a565b49838c7f36ef4c7fbfa') in 0.036929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MinotaurA.png
+  artifactKey: Guid(8a730a11dcc8a9844b71df2b7d345880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MinotaurA.png using Guid(8a730a11dcc8a9844b71df2b7d345880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838f22ea8c203a257ed4553fa5c68ed8') in 0.016708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MinotaurB.png
+  artifactKey: Guid(c25c7228ff649a646ac3b0abe49f4e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MinotaurB.png using Guid(c25c7228ff649a646ac3b0abe49f4e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2c4f4431e2407862af903d41158c45') in 0.006504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomC.png
+  artifactKey: Guid(f3c7b5718ee99a3459e4a0ddff70e150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomC.png using Guid(f3c7b5718ee99a3459e4a0ddff70e150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7876ed27ca2e161a870b3f152f635da') in 0.019023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionB.png
+  artifactKey: Guid(d1290fa90d0dd55449c2226ef7ab0d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionB.png using Guid(d1290fa90d0dd55449c2226ef7ab0d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04618e05ff1ee06de33acd6a7a46da8') in 0.014535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionC.png
+  artifactKey: Guid(7907400675a112e4fbd429e0783e78b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionC.png using Guid(7907400675a112e4fbd429e0783e78b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7586482975611aea2a687f53d3a36682') in 0.020387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomA.png
+  artifactKey: Guid(f78597a31f0e89547aad0c74ebe7f185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomA.png using Guid(f78597a31f0e89547aad0c74ebe7f185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e00c9bb04c2f6b159b7d500eb19c07') in 0.014480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomB.png
+  artifactKey: Guid(44ffedf82f1b1c6428c140566ac11cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/MushroomB.png using Guid(44ffedf82f1b1c6428c140566ac11cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84090789acbc7a32eabe5c40b399a633') in 0.011945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionA.png
+  artifactKey: Guid(e9060a9be5184a44586854e1b3345039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ScorpionA.png using Guid(e9060a9be5184a44586854e1b3345039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b70de1b0a86ccf1808ab8a3a0ba40a4') in 0.014243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.122321 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonA.png
+  artifactKey: Guid(11944dd452e63364eb3a14a675c41c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonA.png using Guid(11944dd452e63364eb3a14a675c41c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd0898b7ccdfb8d326da7eb106ff594') in 0.015273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorB.png
+  artifactKey: Guid(09d4f22c13c15aa439d4e0d8a07565fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorB.png using Guid(09d4f22c13c15aa439d4e0d8a07565fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b1e31d767f14389b6d5038b2a2671d') in 0.016384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonB.png
+  artifactKey: Guid(14962cc2f24ed274da85ac2e80fea9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonB.png using Guid(14962cc2f24ed274da85ac2e80fea9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaedbb72950e351357ac8930597b5167') in 0.011431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorC.png
+  artifactKey: Guid(d1d3faf692951d441ba0d404fdd25110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorC.png using Guid(d1d3faf692951d441ba0d404fdd25110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d5d2ae3f77f6ca3b8b0d5e64b95bf0') in 0.006763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorA.png
+  artifactKey: Guid(35e136214ad67e541bda2881362ff31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonwarriorA.png using Guid(35e136214ad67e541bda2881362ff31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de23156b21fbfe9e967032328071af6') in 0.026157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonC.png
+  artifactKey: Guid(aff60ba9700255c49aaa148b9fc02c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SkeletonC.png using Guid(aff60ba9700255c49aaa148b9fc02c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbca1552e6383dfe1f6ed7ea22021f34') in 0.049257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195009 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeA.png
+  artifactKey: Guid(3736dba398470294cb38311c0b662b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeA.png using Guid(3736dba398470294cb38311c0b662b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c1d09ef80b2d03dd890b96a51983fe') in 0.022749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SuccubusA.png
+  artifactKey: Guid(faf94e99dc719fd4eae092478b700754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SuccubusA.png using Guid(faf94e99dc719fd4eae092478b700754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2915958106c2ccc1c7b6710c02d7ce6f') in 0.017703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeB.png
+  artifactKey: Guid(d8001a884f9c5b6499e9e4ef87acea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeB.png using Guid(d8001a884f9c5b6499e9e4ef87acea94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29215486cff2bc8878f506a210b459ed') in 0.018764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspB.png
+  artifactKey: Guid(f0a014cee60ffee41bc02a0f7f04038b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspB.png using Guid(f0a014cee60ffee41bc02a0f7f04038b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc69dfb9fae82f0788d72157a2ce7a81') in 0.010943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspA.png
+  artifactKey: Guid(90a55137aff75dc47ab1d0e5cb3dbc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspA.png using Guid(90a55137aff75dc47ab1d0e5cb3dbc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796f4983ff209c7165c483047e67194f') in 0.010853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormB.png
+  artifactKey: Guid(394517e788f4a394699f7bf1f31a6de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormB.png using Guid(394517e788f4a394699f7bf1f31a6de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e75483bf5cd44d16ad7a564c0afc46') in 0.016139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiA.png
+  artifactKey: Guid(b2ed9500b0c45b644b859129c3fdb5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiA.png using Guid(b2ed9500b0c45b644b859129c3fdb5e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5112e06a4eb4dd95c2c126c2f2a198d5') in 0.022380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiC.png
+  artifactKey: Guid(b7f49a25427f48147b288d269c25301a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiC.png using Guid(b7f49a25427f48147b288d269c25301a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a259d1b6bc1259b3428b82ea99c7a42') in 0.014459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiB.png
+  artifactKey: Guid(c9338e64dda86fb44be82c3e8f522938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/ZombiB.png using Guid(c9338e64dda86fb44be82c3e8f522938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7c1c7003e6cb77ce8a270c9304ecf4') in 0.014203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspC.png
+  artifactKey: Guid(2803a97c9659f0746afd8121fe248cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WaspC.png using Guid(2803a97c9659f0746afd8121fe248cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a71864423dc18949f5bd029ffe0e7cd') in 0.030946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormA.png
+  artifactKey: Guid(892a2b338d6ce5c4dadd184658bd04f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormA.png using Guid(892a2b338d6ce5c4dadd184658bd04f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc6349c1187e66fe54200dfacceea83') in 0.012956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SuccubusB.png
+  artifactKey: Guid(da093f45a728c1449b9927d78d2e2249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SuccubusB.png using Guid(da093f45a728c1449b9927d78d2e2249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0767af2750ca1342d60079ce751a3cd0') in 0.011425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeC.png
+  artifactKey: Guid(e71f243676b64c8449062ddab5a69585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeC.png using Guid(e71f243676b64c8449062ddab5a69585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395bae356915d504ef2a5b0317fa29a0') in 0.015161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormC.png
+  artifactKey: Guid(0938fc490931a2e499553cebfb24786e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/WormC.png using Guid(0938fc490931a2e499553cebfb24786e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e0ebae35ae7fb1292b0fadf896cda3') in 0.012391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeswordA.png
+  artifactKey: Guid(47f754476b9d683429b2d84751ed8d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Super Retro World Battle Pack 1.7/Monsters X2/SlimeswordA.png using Guid(47f754476b9d683429b2d84751ed8d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea45b91e191d4bb4c414eea8067aa37') in 0.005707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.336661 seconds.
+  path: Assets/Art/Winter Pack/Package
+  artifactKey: Guid(53c67bad4c290924bb7f1877c5141481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package using Guid(53c67bad4c290924bb7f1877c5141481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92beb3cfeb961409a760efe62b42ed01') in 0.002264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.066879 seconds.
+  path: Assets/Art/Winter Pack/Package/atlas_16x.png
+  artifactKey: Guid(3ebafec7b55beda44bfffd321534b907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package/atlas_16x.png using Guid(3ebafec7b55beda44bfffd321534b907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aaf7fae5cb71bf8dd1420786fa5f62e') in 0.034232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Art/Winter Pack/Package/atlas_48x.png
+  artifactKey: Guid(412ac1b955c50f846b5cd0fe6b62f53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package/atlas_48x.png using Guid(412ac1b955c50f846b5cd0fe6b62f53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a4dfc499bf5db24d2f5d3ed97de543b') in 0.030476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/Winter Pack/Package/atlas_32x.png
+  artifactKey: Guid(b402cb8b7f0c013408c2ea615aefd772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package/atlas_32x.png using Guid(b402cb8b7f0c013408c2ea615aefd772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b68856b5b643a96d84188c57345303a') in 0.039355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.875614 seconds.
+  path: Assets/Art/Winter Pack/Package/unity
+  artifactKey: Guid(54835ab437a4b6b4285d7c48b23c89e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package/unity using Guid(54835ab437a4b6b4285d7c48b23c89e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40cc3cc47e736da29fa6dbf4ff4b8cfa') in 0.005612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.995277 seconds.
+  path: Assets/Art/Winter Pack/Package/unity/tile_palette.unitypackage
+  artifactKey: Guid(36195acd775a7c24eba53e66a68bb8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Winter Pack/Package/unity/tile_palette.unitypackage using Guid(36195acd775a7c24eba53e66a68bb8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef26cbc462758aceee90686aa89f2ad1') in 0.024767 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
