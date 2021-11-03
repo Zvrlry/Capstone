@@ -11,6 +11,7 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< Updated upstream
 C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
@@ -24,6 +25,21 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One/Assets
+=======
+D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50588
+Successfully changed project path to: D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 109.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One/Assets
+>>>>>>> Stashed changes
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,11 +51,16 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+>>>>>>> Stashed changes
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream
 Registered in 0.002064 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -64,12 +85,39 @@ Platform modules already initialized, skipping
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+=======
+Registered in 0.002037 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 110.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002724 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 110.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.9 MB.
-System memory in use after: 128.1 MB.
+System memory in use before: 127.8 MB.
+System memory in use after: 128.0 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3832.
+<<<<<<< Updated upstream
 Total: 2.160900 ms (FindLiveObjects: 0.240400 ms CreateObjectMapping: 0.173000 ms MarkObjects: 1.696400 ms  DeleteObjects: 0.050000 ms)
 
 ========================================================================
@@ -2635,10 +2683,293 @@ System memory in use after: 209.5 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 5154.
 Total: 2.514700 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.174700 ms MarkObjects: 1.982500 ms  DeleteObjects: 0.015800 ms)
+=======
+Total: 2.126200 ms (FindLiveObjects: 0.237000 ms CreateObjectMapping: 0.143700 ms MarkObjects: 1.693500 ms  DeleteObjects: 0.051200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/BG.png
+  artifactKey: Guid(d6da106da8d201f4daf0b938d2b82f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/BG.png using Guid(d6da106da8d201f4daf0b938d2b82f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5652bac428d8695327170aeb09eea7') in 0.186342 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.370378 seconds.
+  path: Assets/Art/Dungeon Pack/atlas_16x.png
+  artifactKey: Guid(3f431c23de5528242bdbee22ce870e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/atlas_16x.png using Guid(3f431c23de5528242bdbee22ce870e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d474c3bb817a1dfee8f2bc8816584d2') in 0.045492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Art/Dungeon Pack/atlas_32x.png
+  artifactKey: Guid(3d59f3106e68b2a479be25e3cb08e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/atlas_32x.png using Guid(3d59f3106e68b2a479be25e3cb08e307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d31ac71c94e9f1c06153fb0ecfcee10') in 0.054490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Art/Dungeon Pack/wall tile.png
+  artifactKey: Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/wall tile.png using Guid(fd998c5c31b2a80478ba2c27a573c000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4213d441ebdafe5ed293451641a89c9') in 0.042392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/Dungeon Pack/atlas_48x.png
+  artifactKey: Guid(47323223480529546bf521b34d8a84f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Dungeon Pack/atlas_48x.png using Guid(47323223480529546bf521b34d8a84f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd5e8f39261d52ab69bc0620fe6d9c3') in 0.052387 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.6 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3847.
+Total: 2.784800 ms (FindLiveObjects: 0.278000 ms CreateObjectMapping: 0.170600 ms MarkObjects: 2.319400 ms  DeleteObjects: 0.016000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.033712 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_49.asset
+  artifactKey: Guid(3eb4aae840856d143a10da87c48e52ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_49.asset using Guid(3eb4aae840856d143a10da87c48e52ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6cdf44e69cb99489ae2bfd3079eec62') in 0.085809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_55.asset
+  artifactKey: Guid(2591d92a9084e6a4588e682aeec613aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_55.asset using Guid(2591d92a9084e6a4588e682aeec613aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ebc4fafd0b452a88e8e7d1447b0dd1') in 0.057837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_50.asset
+  artifactKey: Guid(b62448fdc49a36540a564c3fd53fcbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_50.asset using Guid(b62448fdc49a36540a564c3fd53fcbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28f483d528fa6453786c16069cc49ef') in 0.051880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_52.asset
+  artifactKey: Guid(d4cc4098892fe764a8f44d3246534f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_52.asset using Guid(d4cc4098892fe764a8f44d3246534f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a1ca983ee65ae5f58ed30c5d28a8b7') in 0.059664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_56.asset
+  artifactKey: Guid(6594a02741c9fd04aa00ab464d230c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_56.asset using Guid(6594a02741c9fd04aa00ab464d230c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f58516187ec4feeefa6b518d47f2196') in 0.061845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_58.asset
+  artifactKey: Guid(ef5cbda3e96a8fc439fb20667513801f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_58.asset using Guid(ef5cbda3e96a8fc439fb20667513801f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31219e216356e7bc454a9ede5072e017') in 0.059301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_51.asset
+  artifactKey: Guid(6c4fa6e6bbd1d0541b2a9a5399e2dbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_51.asset using Guid(6c4fa6e6bbd1d0541b2a9a5399e2dbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b9f4d173da149669dfb9532f1d0851') in 0.057022 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_53.asset
+  artifactKey: Guid(b16997cb221983a4c8d89dce7216753f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_53.asset using Guid(b16997cb221983a4c8d89dce7216753f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77079cc236ecc17308e2624748a05f6a') in 0.064148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_59.asset
+  artifactKey: Guid(2176eafaa5ed7ea44b0efa231ae32822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_59.asset using Guid(2176eafaa5ed7ea44b0efa231ae32822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379016d3e47518dc06ddb1dfefd5ce53') in 0.051929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_54.asset
+  artifactKey: Guid(725fda916448e6640a66d4192224d29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_54.asset using Guid(725fda916448e6640a66d4192224d29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f8b9f7bda08c4977b4ffee3a17c180c') in 0.050797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_57.asset
+  artifactKey: Guid(0ed8071ec882c144db318602a145d72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_57.asset using Guid(0ed8071ec882c144db318602a145d72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8295b71984c7029a720fc296b354f3') in 0.053273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.179961 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_123.asset
+  artifactKey: Guid(ff6d2388409c1194a9f8181e22c6d5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_123.asset using Guid(ff6d2388409c1194a9f8181e22c6d5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbbe3f284c6de24b87ffa2298a3dce8') in 0.057469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_133.asset
+  artifactKey: Guid(1d9051ee144e7af4fad2f686750468a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_133.asset using Guid(1d9051ee144e7af4fad2f686750468a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57efd81bb92b0a20d29918f7308d5d0e') in 0.058327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_124.asset
+  artifactKey: Guid(0a5cca6becf125448a24f51112777386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_124.asset using Guid(0a5cca6becf125448a24f51112777386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8369e82b15f01c75b892daa81ae308fb') in 0.064807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_132.asset
+  artifactKey: Guid(1ab16b088996adf4e9ada88cf7e966e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_132.asset using Guid(1ab16b088996adf4e9ada88cf7e966e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed0f884a554d80706174160eece96e4') in 0.068898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_125.asset
+  artifactKey: Guid(f48eeb93418ad43419aefc0bfce98aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_125.asset using Guid(f48eeb93418ad43419aefc0bfce98aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5ef4824e81192db864db34eeddd84d') in 0.061444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_130.asset
+  artifactKey: Guid(894b574b041eb7e439dd89c67591aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_130.asset using Guid(894b574b041eb7e439dd89c67591aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afe82746597b15652485b5cd8c4bcd3') in 0.061538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_128.asset
+  artifactKey: Guid(c17c48b7f993a984db7775f7283d3893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_128.asset using Guid(c17c48b7f993a984db7775f7283d3893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e562679754ead3b1dd5d69c960f2fa') in 0.050961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_127.asset
+  artifactKey: Guid(58616d8c111b29e419b263a1935acac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_127.asset using Guid(58616d8c111b29e419b263a1935acac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8efd41d655fe11c66ecffc7610954f') in 0.059130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_129.asset
+  artifactKey: Guid(5f826f1e13c148f43898b5f70651eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_129.asset using Guid(5f826f1e13c148f43898b5f70651eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b79a69e5dc8ec680b347eba85f22c97') in 0.063246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_126.asset
+  artifactKey: Guid(f9c5b298d603a6846aa9ba8fd1bc4e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_126.asset using Guid(f9c5b298d603a6846aa9ba8fd1bc4e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b15a1428b8c85608457df9400a91645') in 0.056504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_131.asset
+  artifactKey: Guid(8109ff28a9be0fa419d3a5a9d128d05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_131.asset using Guid(8109ff28a9be0fa419d3a5a9d128d05e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8fdd91e226b2cfbe64e331a38fce9c') in 0.054881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.111434 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_134.asset
+  artifactKey: Guid(a097dceb4b838c2488be61bc741c58a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_134.asset using Guid(a097dceb4b838c2488be61bc741c58a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d10b53881a31827ac9c47bd2281c8b') in 0.054562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_136.asset
+  artifactKey: Guid(ff504e370fa92c6409b8e2b0ffdf6a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_136.asset using Guid(ff504e370fa92c6409b8e2b0ffdf6a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac39315906977f58e7b7b00d782de58') in 0.058580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_137.asset
+  artifactKey: Guid(98374fd0f0c8b4a4699a9b36d4909550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_137.asset using Guid(98374fd0f0c8b4a4699a9b36d4909550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd45f3da4722235e410c0df946e419a') in 0.065074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_139.asset
+  artifactKey: Guid(1a94fdb456ed35248be23a4ced939e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_139.asset using Guid(1a94fdb456ed35248be23a4ced939e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7f8cc0d87d7d649d712299a85d170a') in 0.061700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_141.asset
+  artifactKey: Guid(533b4023734d01342875a5a04debe7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_141.asset using Guid(533b4023734d01342875a5a04debe7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a17dad62f497a838783083e6dcc76e3') in 0.060888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_142.asset
+  artifactKey: Guid(95898ad6ce5104647990017bfc92d3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_142.asset using Guid(95898ad6ce5104647990017bfc92d3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1f456920cfb97f74474d19d56eb7c82') in 0.062859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_140.asset
+  artifactKey: Guid(0b054edff18a7014eb50670317dcb946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_140.asset using Guid(0b054edff18a7014eb50670317dcb946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ade4c275d128a8e307253d3fd1e9bc7') in 0.061285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_138.asset
+  artifactKey: Guid(2d71f1b3c09777c4bb049f254fb0f33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_138.asset using Guid(2d71f1b3c09777c4bb049f254fb0f33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfddde0f5ac0ee3918d7605e7b02cf71') in 0.059466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_143.asset
+  artifactKey: Guid(067b9576176fa6041a774b1812cafbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_143.asset using Guid(067b9576176fa6041a774b1812cafbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59df1b76f03bc75ff90fe75450a0994e') in 0.059821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_135.asset
+  artifactKey: Guid(3c01b5a56f95da544b307b666a0376ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_135.asset using Guid(3c01b5a56f95da544b307b666a0376ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082d225b1e307a0c776d6248170d3a79') in 0.058406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.412741 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_144.asset
+  artifactKey: Guid(a607ba5b61cb2ce488dd955ac92924c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_144.asset using Guid(a607ba5b61cb2ce488dd955ac92924c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199f89833562893abfa60ad2ac491026') in 0.065767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_146.asset
+  artifactKey: Guid(7591ac033a735554d94a7c0230400372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_146.asset using Guid(7591ac033a735554d94a7c0230400372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36b3d51286732df3d4889c0963989be') in 0.056768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_145.asset
+  artifactKey: Guid(826b7328077409a4dbc87d9618d44a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_145.asset using Guid(826b7328077409a4dbc87d9618d44a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bd9212d4222d4dfd931e8f47cdbbb8') in 0.056150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_147.asset
+  artifactKey: Guid(8664e26b5a0e91c48bc64f88fdc4f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_147.asset using Guid(8664e26b5a0e91c48bc64f88fdc4f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3c4f9cad0a9cf3982e40b71de82ab0') in 0.058296 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002663 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.1 MB.
+System memory in use after: 135.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3924.
+Total: 2.152300 ms (FindLiveObjects: 0.246900 ms CreateObjectMapping: 0.145200 ms MarkObjects: 1.742900 ms  DeleteObjects: 0.016700 ms)
+>>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 Registered in 0.003017 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -3252,4 +3583,101 @@ UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityE
 [C:\buildslave\unity\build\Editor/Src/SceneManager/EditorSceneManager.cpp line 672]
 
  -> (artifact id: '0f34778f7871cb22a7b4d5f777c06074') in 0.008197 seconds 
+=======
+Registered in 0.002577 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.0 MB.
+System memory in use after: 135.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3928.
+Total: 2.272200 ms (FindLiveObjects: 0.250500 ms CreateObjectMapping: 0.145000 ms MarkObjects: 1.858600 ms  DeleteObjects: 0.017400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002602 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.0 MB.
+System memory in use after: 135.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3932.
+Total: 2.185100 ms (FindLiveObjects: 0.246800 ms CreateObjectMapping: 0.142400 ms MarkObjects: 1.777200 ms  DeleteObjects: 0.017800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002585 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.0 MB.
+System memory in use after: 135.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3936.
+Total: 2.215700 ms (FindLiveObjects: 0.252600 ms CreateObjectMapping: 0.157600 ms MarkObjects: 1.788600 ms  DeleteObjects: 0.016100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002590 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.1 MB.
+System memory in use after: 135.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3940.
+Total: 2.077100 ms (FindLiveObjects: 0.234800 ms CreateObjectMapping: 0.142200 ms MarkObjects: 1.684200 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 756.074282 seconds.
+  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_129.asset
+  artifactKey: Guid(5f826f1e13c148f43898b5f70651eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_129.asset using Guid(5f826f1e13c148f43898b5f70651eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a2ed865667ddb0405d745a53e41988') in 0.067009 seconds 
+>>>>>>> Stashed changes
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
