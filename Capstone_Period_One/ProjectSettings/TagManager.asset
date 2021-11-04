@@ -50,6 +50,9 @@ TagManager:
   - name: Foreground
     uniqueID: 10352951
     locked: 0
+  - name: BackgroundObjects
+    uniqueID: 720178013
+    locked: 0
   - name: Battle BG
     uniqueID: 4163973835
     locked: 0
