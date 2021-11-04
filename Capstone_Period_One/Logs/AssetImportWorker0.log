@@ -11,19 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55319
-Successfully changed project path to: D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
-D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+61153
+Successfully changed project path to: C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One
+C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 109.55 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 118.03 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One/Assets
+[Subsystems] Discovering subsystems at path C:/Users/br.nx/Documents/Capstone-Period-One/Capstone/Capstone_Period_One/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,188 +35,110 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001757 seconds.
+Registered in 0.001819 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 111.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 119.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.286 seconds
+- Completed reload, in  1.326 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002584 seconds.
+Registered in 0.002672 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 117.17 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 150.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.077 seconds
+- Completed reload, in  1.274 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3375 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 127.9 MB.
 System memory in use after: 128.1 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3834.
-Total: 2.525500 ms (FindLiveObjects: 0.306800 ms CreateObjectMapping: 0.216300 ms MarkObjects: 1.944500 ms  DeleteObjects: 0.056900 ms)
+Total: 2.319400 ms (FindLiveObjects: 0.240000 ms CreateObjectMapping: 0.154600 ms MarkObjects: 1.866100 ms  DeleteObjects: 0.057700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_197.asset
-  artifactKey: Guid(5496145fbc9479547bb256057e015061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_197.asset using Guid(5496145fbc9479547bb256057e015061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0eb4db6e15a735ee6c08da3769b2e9c') in 0.133488 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_206.asset
-  artifactKey: Guid(30142051b8a02104e965944ea63e8d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_206.asset using Guid(30142051b8a02104e965944ea63e8d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dbe8df57d1014185fa99abc5bbcc809') in 0.035543 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_192.asset
-  artifactKey: Guid(ed173ce53270836408d25b1bf2fec051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_192.asset using Guid(ed173ce53270836408d25b1bf2fec051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db0df6a690c0a88c440993af35ff046') in 0.034421 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_204.asset
-  artifactKey: Guid(d33b52a835e724e40bde0f6ea43ffa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_204.asset using Guid(d33b52a835e724e40bde0f6ea43ffa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '015fee2dd16d00effb4a2deba137d393') in 0.049105 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_193.asset
-  artifactKey: Guid(ffa15da2787e87947b5f839812b707a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_193.asset using Guid(ffa15da2787e87947b5f839812b707a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e8188ce6d63235243a0e6a57f78912') in 0.034825 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_203.asset
-  artifactKey: Guid(c3e5bda0d5bdfa746940ef645661fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_203.asset using Guid(c3e5bda0d5bdfa746940ef645661fb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef207e34d10dec8d6d79098052033dc8') in 0.050321 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_200.asset
-  artifactKey: Guid(4a2674c0ae94acb4ca4014f982d7eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_200.asset using Guid(4a2674c0ae94acb4ca4014f982d7eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c38710677d4376346d7428c492f8a70') in 0.036518 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_194.asset
-  artifactKey: Guid(6455077aaf7bcb4478aef72d2346990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_194.asset using Guid(6455077aaf7bcb4478aef72d2346990f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4928e122065a79f7069d1c3198560e83') in 0.034060 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_195.asset
-  artifactKey: Guid(148f4c1da1ac0e04a887b88c8ab70ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_195.asset using Guid(148f4c1da1ac0e04a887b88c8ab70ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e73512877a9d8bc1e59d2d131aa0dca') in 0.035609 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_196.asset
-  artifactKey: Guid(c70e12e8450508f4abdd81fdb6c240ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_196.asset using Guid(c70e12e8450508f4abdd81fdb6c240ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de156819dd8e5d3c31158cae8c7c518') in 0.034958 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_198.asset
-  artifactKey: Guid(9110e52eefeca724d864b10910dec469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_198.asset using Guid(9110e52eefeca724d864b10910dec469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5431b1ff5bc3485c6def5cabde9626') in 0.034160 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_202.asset
-  artifactKey: Guid(19997d662da9c2146bf5d1827ee5744a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_202.asset using Guid(19997d662da9c2146bf5d1827ee5744a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a704bf5e094650311a6d8ed1111ced07') in 0.036793 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_199.asset
-  artifactKey: Guid(4256e62cc2e7d5c4c991a44920925904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_199.asset using Guid(4256e62cc2e7d5c4c991a44920925904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da9dfefcb19a60f8a13b14079b16e7e') in 0.051490 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_191.asset
-  artifactKey: Guid(c5be3ac3a77becb4d90a01f1e4d8a06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_191.asset using Guid(c5be3ac3a77becb4d90a01f1e4d8a06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd8d334962c414170d2a04c0357b338') in 0.034066 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_201.asset
-  artifactKey: Guid(ebf9355e60ac35f488c7e5fe4cfda888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_201.asset using Guid(ebf9355e60ac35f488c7e5fe4cfda888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49c4296536724ad0a4eaedc0048fef5') in 0.046547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_205.asset
-  artifactKey: Guid(d08f194e24ef3dd40aeffa1119c88496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/RetroWorld/atlas_16x_205.asset using Guid(d08f194e24ef3dd40aeffa1119c88496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f696ad3594e70f50b92f56b45f574bf6') in 0.037109 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 633.496166 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8342afcd0cde7d987e938aabb5363e7b') in 0.024625 seconds 
+  path: Assets/Scripts/BattleManager.cs
+  artifactKey: Guid(fe312d9464f897744bec088ef0b758c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BattleManager.cs using Guid(fe312d9464f897744bec088ef0b758c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e6a07ed13fb72b92102b67685960cf') in 0.171624 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002747 seconds.
+Registered in 0.002723 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.864 seconds
+- Completed reload, in  0.898 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.0 MB.
-System memory in use after: 131.2 MB.
+System memory in use before: 127.4 MB.
+System memory in use after: 127.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3842.
-Total: 2.118400 ms (FindLiveObjects: 0.249800 ms CreateObjectMapping: 0.175800 ms MarkObjects: 1.674700 ms  DeleteObjects: 0.017400 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3838.
+Total: 2.142000 ms (FindLiveObjects: 0.257800 ms CreateObjectMapping: 0.156200 ms MarkObjects: 1.708800 ms  DeleteObjects: 0.018400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1415.235556 seconds.
+  path: Assets/Scripts/BattleManager.cs
+  artifactKey: Guid(fe312d9464f897744bec088ef0b758c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BattleManager.cs using Guid(fe312d9464f897744bec088ef0b758c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74b2fa239682acfd8e81b5103be7f88') in 0.009688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.741859 seconds.
+  path: Assets/Scenes/Level_1.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59331f5f31e9f1238db2df09daf95d03') in 0.009840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.713479 seconds.
+  path: Assets/Scenes/Code_TestRoom.unity
+  artifactKey: Guid(e37fd881842b03948a1dc59593dabaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Code_TestRoom.unity using Guid(e37fd881842b03948a1dc59593dabaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e764db61f248ec5d1d0b86e2323da3e0') in 0.004354 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002656 seconds.
+Registered in 0.002716 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\br.nx\Documents\Capstone-Period-One\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.905 seconds
+- Completed reload, in  0.842 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.0 MB.
-System memory in use after: 131.3 MB.
+System memory in use before: 127.5 MB.
+System memory in use after: 127.7 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3846.
-Total: 2.151000 ms (FindLiveObjects: 0.234500 ms CreateObjectMapping: 0.159700 ms MarkObjects: 1.739500 ms  DeleteObjects: 0.016300 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 2.116800 ms (FindLiveObjects: 0.273300 ms CreateObjectMapping: 0.163700 ms MarkObjects: 1.663100 ms  DeleteObjects: 0.015900 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

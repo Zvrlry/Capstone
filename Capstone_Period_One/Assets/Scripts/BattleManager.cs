@@ -41,6 +41,23 @@ public class BattleManager : MonoBehaviour
             battleActive = true;
             transform.position = new Vector3(xCamPos, yCamPos, zCamPos);
             battleScene.SetActive(true);
+
+            for (int i = 0; i < playerPositions.Length; i++)
+            {
+                /*
+                if (GameManager.instance.playerStat[i].gameObject.activeInHierarchy)
+                {
+                    for(int j = 0; j < playerPrefabs.length; j++)
+                    {
+                        if(playerPrefabs[j].charName == GameManager.instance.playerStats[i].charName)
+                        {
+                            BattleChar.newPlayer = Instantiate(playerPrefabs[j], playerPositions[i].position, playerPositions[i].rotation);
+                            newPlayer.transform.parent = playerPositions[i];
+                        }
+                    }
+                }
+                */
+            }
         }
     }
 }
