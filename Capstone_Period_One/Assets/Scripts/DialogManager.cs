@@ -14,6 +14,7 @@ public class DialogManager : MonoBehaviour
     public string[] dialogLines; 
 
     public int currentLine; 
+    private bool justStarted; 
 
     public static DialogManager instance; 
 
@@ -33,14 +34,24 @@ public class DialogManager : MonoBehaviour
         {
             if(Input.GetButtonUp("Fire1"))
             {
-                currentLine++;
-                
-                if(currentLine >= dialogLines.Length)
+                if(!justStarted)
                 {
-                    dialogBox.SetActive(false);
+                    currentLine++;
+                
+                    if(currentLine >= dialogLines.Length)
+                    {
+                        dialogBox.SetActive(false);
+
+                        PlayerController.instance.canMove = true; 
+                    } else 
+                    {
+                        CheckIfName(); 
+
+                        dialogText.text = dialogLines[currentLine]; 
+                    }
                 } else 
                 {
-                    dialogText.text = dialogLines[currentLine]; 
+                    justStarted = false; 
                 }
                  
                 
@@ -55,7 +66,22 @@ public class DialogManager : MonoBehaviour
 
         currentLine = 0; 
 
-        dialogText.text = dialogLines[0]; 
+        CheckIfName();
+
+        dialogText.text = dialogLines[currentLine]; 
         dialogBox.SetActive(true); 
+
+        justStarted = true; 
+
+        PlayerController.instance.canMove = false; 
+    }
+
+    public void CheckIfName()
+    {
+        if(dialogLines[currentLine].StartsWith("n-"))
+        {
+            nameText.text = dialogLines[currentLine].Replace("n-", ""); 
+            currentLine++; 
+        }
     }
 }
