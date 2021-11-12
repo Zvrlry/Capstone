@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameMenu : MonoBehaviour
 {
     public GameObject theMenu;
-
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -20,9 +20,11 @@ public class GameMenu : MonoBehaviour
             if(theMenu.activeInHierarchy)
             {
                 theMenu.SetActive(false);
+                GameManager.instance.gameMenuOpen = false;
             } else
             {
                 theMenu.SetActive(true);
+                GameManager.instance.gameMenuOpen = true;
             }
         }
     }
