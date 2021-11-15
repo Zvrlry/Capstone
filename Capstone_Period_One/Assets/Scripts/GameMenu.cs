@@ -79,6 +79,7 @@ public class GameMenu : MonoBehaviour
 
         for (int i = 0; i < windows.Length; i++)
         {
+            // if the window is equal to i; for example, the stats window is = to 0
             if (i == windowNumber)
             {
                 windows[i].SetActive(!windows[i].activeInHierarchy);
@@ -108,6 +109,7 @@ public class GameMenu : MonoBehaviour
 
         StatusChar(0);
 
+        // setting players name to the buttons in order
         for (int i = 0; i < statusButton.Length; i++)
         {
             statusButton[i].SetActive(playerStats[i].gameObject.activeInHierarchy);
@@ -115,6 +117,7 @@ public class GameMenu : MonoBehaviour
         }
     }
 
+    // setting the main screen with the stats of the char
     public void StatusChar(int selected)
     {
         statusName.text = "Name: " + playerStats[selected].charName;
