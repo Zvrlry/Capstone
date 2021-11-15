@@ -22,40 +22,41 @@ public class GameMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StatusChar(0);
+        OpenStatus(); // Load Game with stats
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire2"))
+        //if escape clicked
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (theMenu.activeInHierarchy)
+            if (theMenu.activeInHierarchy) // if the menu is open in hierarchy
             {
-                // theMenu.SetActive(false);
-                //GameManager.instance.gameMenuOpen = false;
-
-                CloseMenu();
+                CloseMenu(); // close the menu
             }
-            else
+            else if (!theMenu.activeInHierarchy) // if the menu isnt active in hierarchy
             {
-                theMenu.SetActive(true);
-                UpdateMainStats();
-                GameManager.instance.gameMenuOpen = true;
+                theMenu.SetActive(true); // open menu
+                UpdateMainStats(); // update the stats of the player
+                GameManager.instance.gameMenuOpen = true; // set bool for menu true in game manager
             }
         }
     }
 
     public void UpdateMainStats()
     {
-        playerStats = GameManager.instance.playerStats;
+        playerStats = GameManager.instance.playerStats; // player stats script
 
         for (int i = 0; i < playerStats.Length; i++)
         {
+            // if index of player is active in hierarchy
             if (playerStats[i].gameObject.activeInHierarchy)
             {
+                // set active the index of the char info game object
                 charStatHolder[i].SetActive(true);
 
+                // setting UI text
                 nameTest[i].text = "Name: " + playerStats[i].charName;
                 hptext[i].text = "HP: " + playerStats[i].currentHP + "/" + playerStats[i].maxHP;
                 mpText[i].text = "MP: " + playerStats[i].currentMP + "/" + playerStats[i].maxMP;
@@ -67,6 +68,7 @@ public class GameMenu : MonoBehaviour
             }
             else
             {
+                // unset active the index of the char info game object 
                 charStatHolder[i].SetActive(false);
             }
         }
