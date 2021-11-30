@@ -5,11 +5,19 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
 
+
     public static GameManager instance;
     public CharStats[] playerStats;
+
+    [Header("Bool's")]
     public bool gameMenuOpen;
     public bool dialogActive;
     public bool fadingBetweenAreas;
+
+    [Header("Items")]
+    public string[] itemsHeld;
+    public int[] numberOfItems;
+    public Item[] referenceItems;
 
     // Start is called before the first frame update
     void Start()
@@ -22,12 +30,30 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-            if (gameMenuOpen || dialogActive || fadingBetweenAreas)
+        if (gameMenuOpen || dialogActive || fadingBetweenAreas)
+        {
+            PlayerController.instance.canMove = false;
+        }
+        else
+        {
+            PlayerController.instance.canMove = true;
+        }
+    }
+
+    public Item GetItemDetails(string itemToGrab)
+    {
+
+        // search for the item in array
+        for (int i = 0; i < referenceItems.Length; i++)
+        {
+            if (referenceItems[i].itemName == itemToGrab)
             {
-                PlayerController.instance.canMove = false;
-            } else
-            {
-                PlayerController.instance.canMove = true;
+                // if found item then return the proper item
+                return referenceItems[i];
             }
+        }
+
+        // if no item returned, return nothing at end of loop
+        return null;
     }
 }

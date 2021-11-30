@@ -19,10 +19,14 @@ public class GameMenu : MonoBehaviour
     public Text statusName, StatusHP, StatusMP, statusStr, StatusDef, statusWpnEpn, statusWpnPwr, statusArmrEqpd, statusArmrPwr, statusExp;
     public Image statusImage;
 
+    public ItemButton[] itemButtons;
+
     // Start is called before the first frame update
     void Start()
     {
-        OpenStatus(); // Load Game with stats
+        // Load Game with stats
+        OpenStatus();
+        ShowItems();
     }
 
     // Update is called once per frame
@@ -139,4 +143,27 @@ public class GameMenu : MonoBehaviour
         statusImage.sprite = playerStats[selected].charImage;
     }
 
+
+    public void ShowItems()
+    {
+        // setting value of button to its value
+        for (int i = 0; i < itemButtons.Length; i++)
+        {
+            itemButtons[i].buttonValue = i;
+
+            // if there is a name
+            if (GameManager.instance.itemsHeld[i] != "")
+            {
+                // setting image
+                itemButtons[i].buttonImage.gameObject.SetActive(true);
+                itemButtons[i].buttonImage.sprite = GameManager.instance.GetItemDetails(GameManager.instance.itemsHeld[i]).itemSprite;
+                itemButtons[i].amountText.text = GameManager.instance.numberOfItems[i].ToString();
+            }
+            else
+            {
+                itemButtons[i].buttonImage.gameObject.SetActive(false);
+                itemButtons[i].amountText.text = "";
+            }
+        }
+    }
 }
