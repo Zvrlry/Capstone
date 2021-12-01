@@ -56,4 +56,30 @@ public class GameManager : MonoBehaviour
         // if no item returned, return nothing at end of loop
         return null;
     }
+
+    public void SortItems()
+    {
+        bool itemsAfterSpace = true;
+
+        while (itemsAfterSpace)
+        {
+            itemsAfterSpace = false;
+            for (int i = 0; i < itemsHeld.Length - 1; i++)
+            {
+                if (itemsHeld[i] == "")
+                {
+                    itemsHeld[i] = itemsHeld[i + 1];
+                    itemsHeld[i + 1] = "";
+
+                    numberOfItems[i] = numberOfItems[i + 1];
+                    numberOfItems[i + 1] = 0;
+
+                    if (itemsHeld[i] != "")
+                    {
+                        itemsAfterSpace = true;
+                    }
+                }
+            }
+        }
+    }
 }
