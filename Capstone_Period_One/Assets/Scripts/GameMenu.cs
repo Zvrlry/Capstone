@@ -26,6 +26,9 @@ public class GameMenu : MonoBehaviour
     public Text itemName, itemDescription, useButtonText;
     [HideInInspector] public static GameMenu instance;
 
+    public GameObject itemCharChoiceMenu;
+    public Text[] itemCharChoiceNames;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -100,6 +103,8 @@ public class GameMenu : MonoBehaviour
                 windows[i].SetActive(false);
             }
         }
+
+        itemCharChoiceMenu.SetActive(false);
     }
 
     public void CloseMenu()
@@ -112,6 +117,8 @@ public class GameMenu : MonoBehaviour
         theMenu.SetActive(false);
 
         GameManager.instance.gameMenuOpen = false;
+
+        itemCharChoiceMenu.SetActive(false);
     }
 
     public void OpenStatus()
@@ -133,19 +140,19 @@ public class GameMenu : MonoBehaviour
     {
         statusName.text = "Name: " + playerStats[selected].charName;
         StatusHP.text = "HP: " + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
-        StatusMP.text = "MP: " + playerStats[selected].currentHP + "/" + playerStats[selected].maxMP;
+        StatusMP.text = "MP: " + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
         statusStr.text = "Strength: " + playerStats[selected].strength.ToString();
         StatusDef.text = "Defense: " + playerStats[selected].defence.ToString();
         if (playerStats[selected].equippedWeapon != "")
         {
-            statusWpnEpn.text = playerStats[selected].equippedWeapon;
+            statusWpnEpn.text = "Equipped Weapon: " + playerStats[selected].equippedWeapon;
         }
         statusWpnPwr.text = "Weapon Power: " + playerStats[selected].weaponPower.ToString();
         if (playerStats[selected].equippedArmor != "")
         {
-            statusArmrEqpd.text = "Equipped Armor" + playerStats[selected].equippedArmor;
+            statusArmrEqpd.text = "Equipped Armor: " + playerStats[selected].equippedArmor;
         }
-        statusArmrPwr.text = "Armor Power: " + playerStats[selected].armor.ToString();
+        statusArmrPwr.text = "Armor Power: " + playerStats[selected].armorPower.ToString();
         statusExp.text = "Exp To Next Level: " + (playerStats[selected].expToNextLevel[playerStats[selected].playerLevel] - playerStats[selected].currentEXP).ToString();
         statusImage.sprite = playerStats[selected].charImage;
     }
@@ -191,5 +198,36 @@ public class GameMenu : MonoBehaviour
 
         itemName.text = activeItem.itemName;
         itemDescription.text = activeItem.description;
+    }
+
+
+    public void DiscardItem()
+    {
+        if (activeItem != null)
+        {
+            GameManager.instance.RemoveItem(activeItem.itemName);
+        }
+    }
+
+    public void OpenItemCharChoice()
+    {
+        itemCharChoiceMenu.SetActive(true);
+
+        for (int i = 0; i < itemCharChoiceNames.Length; i++)
+        {
+            itemCharChoiceNames[i].text = GameManager.instance.playerStats[i].charName;
+            itemCharChoiceNames[i].transform.parent.gameObject.SetActive(GameManager.instance.playerStats[i].gameObject.activeInHierarchy);
+        }
+    }
+
+    public void CloseItemCharChoice()
+    {
+        itemCharChoiceMenu.SetActive(false);
+    }
+
+    public void UseItem(int selectChar)
+    {
+        activeItem.Use(selectChar);
+        CloseItemCharChoice();
     }
 }

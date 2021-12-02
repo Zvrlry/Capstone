@@ -11,6 +11,9 @@ GameObject:
   - component: {fileID: 8560464813236461023}
   - component: {fileID: 2527707494252547067}
   - component: {fileID: 5391396160533017822}
+  - component: {fileID: 749766344}
+  - component: {fileID: 8130622864284710820}
+  - component: {fileID: 2588991062200527992}
   m_Layer: 0
   m_Name: Mana Potion
   m_TagString: Untagged
@@ -109,3 +112,50 @@ MonoBehaviour:
   affectStrength: 0
   weaponStrength: 0
   armorStrength: 0
+--- !u!114 &749766344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656238800423780308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &8130622864284710820
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656238800423780308}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a740d248443f9384ba26374f0cf5b285, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!58 &2588991062200527992
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656238800423780308}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 1.4
