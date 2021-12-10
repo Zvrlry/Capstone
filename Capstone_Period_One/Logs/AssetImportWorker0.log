@@ -15,11 +15,11 @@ C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60998
+50619
 Successfully changed project path to: C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 114.57 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 121.09 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,730 +35,349 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002066 seconds.
+Registered in 0.001994 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 113.40 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 144.07 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.351 seconds
+- Completed reload, in  1.386 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003129 seconds.
+Registered in 0.003158 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 116.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 119.08 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.056 seconds
+- Completed reload, in  1.078 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3387 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 129.2 MB.
 System memory in use after: 129.4 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3845.
-Total: 2.136600 ms (FindLiveObjects: 0.233500 ms CreateObjectMapping: 0.152900 ms MarkObjects: 1.683400 ms  DeleteObjects: 0.065800 ms)
+Total: 2.132300 ms (FindLiveObjects: 0.233300 ms CreateObjectMapping: 0.155500 ms MarkObjects: 1.690800 ms  DeleteObjects: 0.052000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Art/Cave assets/PreviewSmall_1.png
-  artifactKey: Guid(a40047d7546692849b52a4c67ba9606f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1.png using Guid(a40047d7546692849b52a4c67ba9606f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ab563ce0f2dd0e0f08ce86694e2b38') in 0.248694 seconds 
+  path: Assets/Scenes/Level_3.unity
+  artifactKey: Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_3.unity using Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734ca8b56ca07f7df47aca33b49fc071') in 0.011815 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_7.asset
-  artifactKey: Guid(f2dea3c14b32e9247b88e63608b968a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_7.asset using Guid(f2dea3c14b32e9247b88e63608b968a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9575245ad0ef75ae54c7e5cbcca5632') in 0.030642 seconds 
+  Time since last request: 444.540093 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/lava_02.png
+  artifactKey: Guid(15a7d7c3f2f50b3448f179de49cac339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/lava_02.png using Guid(15a7d7c3f2f50b3448f179de49cac339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4cc6483c0890bfeb020ce2ed331c45') in 0.200296 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_4.asset
-  artifactKey: Guid(0218c9ae531888a45bccb44f5bf37ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_4.asset using Guid(0218c9ae531888a45bccb44f5bf37ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeeb76b83d12eea22c06f2c687577f6b') in 0.004951 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_3.asset
-  artifactKey: Guid(2fedb936a3be4754bb4a96195662a280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_3.asset using Guid(2fedb936a3be4754bb4a96195662a280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457ec9484dc791ccd4deb9de0817ee9e') in 0.006557 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_2.asset
-  artifactKey: Guid(0594f962fefab7b41a5efcc3dd8ea3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_2.asset using Guid(0594f962fefab7b41a5efcc3dd8ea3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cdf2a261d5a49cb19b82c5f98add11') in 0.005743 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Art/Grass and Trees/desk1.png
-  artifactKey: Guid(83c5107043867634d912b53fdfeff537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/desk1.png using Guid(83c5107043867634d912b53fdfeff537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a484295433355a88df9075d398163d37') in 0.007747 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000359 seconds.
-  path: Assets/Art/Grass and Trees/Grass 4.png
-  artifactKey: Guid(927f318044fe78241b9bde2189560bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 4.png using Guid(927f318044fe78241b9bde2189560bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275c67601e47c73cb8a7a54838ae9ed2') in 0.013897 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Art/Grass and Trees/desk1.asset
-  artifactKey: Guid(6dc19eff99d76534cb7c41e21206f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/desk1.asset using Guid(6dc19eff99d76534cb7c41e21206f409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16264b8fba1f7cd1568542db0b16b26') in 0.004856 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000329 seconds.
-  path: Assets/Art/Grass and Trees/Grass 2.png
-  artifactKey: Guid(d750847c46385a04aa398f9f273f0749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 2.png using Guid(d750847c46385a04aa398f9f273f0749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcb67d6269de69ba79afd9eb2214742') in 0.012762 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_1.asset
-  artifactKey: Guid(499d269e7f45124418357785d9ee3fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_1.asset using Guid(499d269e7f45124418357785d9ee3fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd60e55e5e0f0953b66695fbee38afd') in 0.005321 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000396 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_9.asset
-  artifactKey: Guid(0371dbd6b0f692b43b4301f818e0e97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_9.asset using Guid(0371dbd6b0f692b43b4301f818e0e97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a2049566165615750fec8dd8e3d132') in 0.005423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/Art/Grass and Trees/bed.png
-  artifactKey: Guid(b0b8894df99e1374da2e4500b0039c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/bed.png using Guid(b0b8894df99e1374da2e4500b0039c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497d011cb6a195421ec80eac2f73ee55') in 0.007990 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/Art/Materials/toilet.mat
-  artifactKey: Guid(b3e03e99d61d5af458da559835ebe281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Materials/toilet.mat using Guid(b3e03e99d61d5af458da559835ebe281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd648090c2919e2e3ffd7b7f2f6c0fdb9') in 0.142601 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Art/Grass and Trees/Grass 3.asset
-  artifactKey: Guid(e9d400c19606d7d40a6d8ad67e6e969d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 3.asset using Guid(e9d400c19606d7d40a6d8ad67e6e969d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b555092d3b9b09fe8653a993fed1107') in 0.008227 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_11.asset
-  artifactKey: Guid(fb5873fd22b186b40929178e46c4f211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_11.asset using Guid(fb5873fd22b186b40929178e46c4f211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a800f460310b78acc6ccc722afd066') in 0.006885 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Art/Grass and Trees/Grass 1.png
-  artifactKey: Guid(dbbf81603d589994ebf93de27a37057d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 1.png using Guid(dbbf81603d589994ebf93de27a37057d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca79c3a9777c5c6b8cf52bdbbbbe6adb') in 0.010648 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_6.asset
-  artifactKey: Guid(d376f0184f36e2a47948c7408b38e3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_6.asset using Guid(d376f0184f36e2a47948c7408b38e3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a01abbb2a68d2c83de979740904d2c5') in 0.004239 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/Art/Grass and Trees/Grass 4.asset
-  artifactKey: Guid(e4367ca89f9f0fb46b93f6303ca5fce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 4.asset using Guid(e4367ca89f9f0fb46b93f6303ca5fce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6154cba9579acd200f1780c33c5cc304') in 0.007768 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Art/Grass and Trees/Grass 2.asset
-  artifactKey: Guid(94716b9dffc4a96469d893b304782881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 2.asset using Guid(94716b9dffc4a96469d893b304782881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bd00e0beb5ff4bbb7cc30d27052db8c') in 0.007274 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_5.asset
-  artifactKey: Guid(ba91ddd610c8cbb4083d3736704b2d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_5.asset using Guid(ba91ddd610c8cbb4083d3736704b2d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5841474aff89f11dcccbb5e6cb54f3') in 0.006040 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_10.asset
-  artifactKey: Guid(b108bd5312074904584fecd8eb05f54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_10.asset using Guid(b108bd5312074904584fecd8eb05f54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f78bf327ea4b50d3d1735851d2d515') in 0.004931 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_0.asset
-  artifactKey: Guid(c860698d884e211468015a44e1c229a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_0.asset using Guid(c860698d884e211468015a44e1c229a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1633e0d8470d6427028736d23072a298') in 0.004449 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Art/Cave assets/PreviewSmall_1_8.asset
-  artifactKey: Guid(4c2b63dee45a98842a3dd4f05cbc98f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Cave assets/PreviewSmall_1_8.asset using Guid(4c2b63dee45a98842a3dd4f05cbc98f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a507411062dd0982863e07ec786fbf') in 0.005777 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Art/Grass and Trees/Grass 1.asset
-  artifactKey: Guid(94333ed3d06726845af2680e00b4025a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 1.asset using Guid(94333ed3d06726845af2680e00b4025a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4101b4b11c60849f91cc87521e2dd76b') in 0.007495 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Art/Grass and Trees/chair1.png
-  artifactKey: Guid(f6cfdb268862fb24d825502a223c3d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/chair1.png using Guid(f6cfdb268862fb24d825502a223c3d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a230f7752b77287ab928314180f5f4') in 0.006800 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000365 seconds.
-  path: Assets/Art/Grass and Trees/Grass 3.png
-  artifactKey: Guid(7e8d35f0a8d629a4db251fa20c0d1264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/Grass 3.png using Guid(7e8d35f0a8d629a4db251fa20c0d1264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c18a7938c7b9e5deca613d2bd425087') in 0.011276 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Art/Grass and Trees/chair1.asset
-  artifactKey: Guid(4e665cfac660d7544ac64de296e1ff68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Grass and Trees/chair1.asset using Guid(4e665cfac660d7544ac64de296e1ff68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f204c2072c1af3df5f714667ab799cad') in 0.004570 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.197682 seconds.
-  path: Assets/Art/Tile_Palettes/Dungeon.prefab
-  artifactKey: Guid(dfbb98896164ac34d9f2ece3f1eca688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/Dungeon.prefab using Guid(dfbb98896164ac34d9f2ece3f1eca688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3f5d80b39a09d72c8e5f9acd8b0924') in 0.013291 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Art/Tile_Palettes/Winter.prefab
-  artifactKey: Guid(76ddd165351f7dc47bb786bc00da512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/Winter.prefab using Guid(76ddd165351f7dc47bb786bc00da512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40e1aebb8bc2ddb603be39313e46332') in 0.004275 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Art/Tile_Palettes/Winter.png
-  artifactKey: Guid(fccfe6d38e5600543bb7451e836bf2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/Winter.png using Guid(fccfe6d38e5600543bb7451e836bf2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc8a427051c8ba03d79dc2965d45da7') in 0.706329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.772802 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_16x.png
-  artifactKey: Guid(f97ccb4b59ab77a4dbfa1888f6d4f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_16x.png using Guid(f97ccb4b59ab77a4dbfa1888f6d4f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a00c85ac04ce38da9ce5bbd1c4b878') in 0.025188 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000193 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_48x.png
-  artifactKey: Guid(ffdae837d62a42c48922c43751cf8ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_48x.png using Guid(ffdae837d62a42c48922c43751cf8ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355ce2dfee3300a0ec79bb6091997d2c') in 0.010853 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_32x.png
-  artifactKey: Guid(b0fa0a0e86ddfce4ca996da9e709102d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/atlas_32x.png using Guid(b0fa0a0e86ddfce4ca996da9e709102d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1dbe77b2c3a009df2aa574150b92d3') in 0.014524 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.559771 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites
-  artifactKey: Guid(e2f7bf5ec5112a34b91934513e20276f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites using Guid(e2f7bf5ec5112a34b91934513e20276f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089b04122fdb94162435699bf8804d9b') in 0.001604 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.056329 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!chests.png
-  artifactKey: Guid(d8916248018532945a1feda8eab561d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!chests.png using Guid(d8916248018532945a1feda8eab561d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c9236139feef17beffa72c3253b45c') in 0.009657 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$kart.png
-  artifactKey: Guid(ebd49a92b4f181a44be0961110433085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$kart.png using Guid(ebd49a92b4f181a44be0961110433085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c389829a16b17fddda3e5944448b7052') in 0.008285 seconds 
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).gif
+  artifactKey: Guid(be80c8885430e6d41b21090af07352a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).gif using Guid(be80c8885430e6d41b21090af07352a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f6286e825d73890a78a0b515e95939') in 0.043653 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000322 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!doors_02.png
-  artifactKey: Guid(2007995c3d2aafb449312584cd354801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!doors_02.png using Guid(2007995c3d2aafb449312584cd354801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ce78a6984555e477549e65c0a7ce7c') in 0.008812 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$campfire.png
-  artifactKey: Guid(084b2ea3c689427468b500b95c63db5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$campfire.png using Guid(084b2ea3c689427468b500b95c63db5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a252f03ee424d0f19e14ad92dabf92bb') in 0.008364 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!torches.png
-  artifactKey: Guid(f39131cfb99d9af439c69394a2c135d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!torches.png using Guid(f39131cfb99d9af439c69394a2c135d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3674eec182e8a9ddda09aaafbadc32') in 0.008165 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!doors_01.png
-  artifactKey: Guid(e4cf72853ac5f47468ef11ee7743277f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!doors_01.png using Guid(e4cf72853ac5f47468ef11ee7743277f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86aad5e1935e6f9b7b5dad97bb9ec540') in 0.008100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000435 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!cristals.png
-  artifactKey: Guid(88b6e51a52bef0f419aceb4c3a8b488d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!cristals.png using Guid(88b6e51a52bef0f419aceb4c3a8b488d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f68ceb0a82967bf4e002ae167d14164') in 0.011555 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!switches.png
-  artifactKey: Guid(bf0c27c6bdb0ac6488728f250a1b1890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/!switches.png using Guid(bf0c27c6bdb0ac6488728f250a1b1890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6659dfc56d6de860da6f8472bfeb6533') in 0.008196 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$fire.png
-  artifactKey: Guid(05daf8a5ed590f9458035250e2268ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$fire.png using Guid(05daf8a5ed590f9458035250e2268ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cce2a9c34a9b6fec611b1b80009fa79') in 0.008640 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.553937 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$lava.png
-  artifactKey: Guid(29adef993aee3be4a82047ad4d4097ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$lava.png using Guid(29adef993aee3be4a82047ad4d4097ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4aab04919b132277c076523d1579d3') in 0.008948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$lavafall_effects.png
-  artifactKey: Guid(59a759f00fd50594d8460b8098470a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$lavafall_effects.png using Guid(59a759f00fd50594d8460b8098470a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d0cd117a9a32856feadafc89b4b962') in 0.007786 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000364 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$water.png
-  artifactKey: Guid(362f81d517f173a4d8d6433692e9b94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$water.png using Guid(362f81d517f173a4d8d6433692e9b94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f2767a802821b17e6ee68a9e82969a') in 0.008129 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$waterfall_effects.png
-  artifactKey: Guid(383939b883050fb40bfd0100cd704fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/sprites/$waterfall_effects.png using Guid(383939b883050fb40bfd0100cd704fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9315a9d8245664ac00b059e9d1c72a55') in 0.007820 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.537325 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV
-  artifactKey: Guid(33241433eecb3fa4d8faed90f9f6f610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV using Guid(33241433eecb3fa4d8faed90f9f6f610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9244c3ccb0ec99eba533711aa045410') in 0.002034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 22.500385 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets
-  artifactKey: Guid(a8baaae91f319fe40b08fa5a262d6563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets using Guid(a8baaae91f319fe40b08fa5a262d6563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b60413dd833e051280078368909d69') in 0.002203 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.763250 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png
-  artifactKey: Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png using Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd04089bd79da27b528c1d9eaae5b46') in 0.010279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png
-  artifactKey: Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png using Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2262466a51e0aff8744575788fde8e') in 0.010381 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png
-  artifactKey: Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png using Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f385e644e92891627582f7fc1c45e9f0') in 0.008646 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png
-  artifactKey: Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png using Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09617906cc89e741537aa7a326f5b488') in 0.009856 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.034782 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters
-  artifactKey: Guid(11b8b68c5ae7ddc4e94fef5a3fe95892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters using Guid(11b8b68c5ae7ddc4e94fef5a3fe95892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276fd5329c9eb080f37e7359cad04a3a') in 0.001971 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.088817 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!chests.png
-  artifactKey: Guid(3f1dcccdff2c6d34c890ae6a42620100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!chests.png using Guid(3f1dcccdff2c6d34c890ae6a42620100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d728314fd7057a14d02daa6cd9148a') in 0.008878 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!cristals.png
-  artifactKey: Guid(1465c73c949f193409b667fd44925fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!cristals.png using Guid(1465c73c949f193409b667fd44925fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472557cb8ff3cbd969e9f50fb2cfd1cc') in 0.010161 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$fire.png
-  artifactKey: Guid(6ff3c8cc7a7c2cc44920c765ef856398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$fire.png using Guid(6ff3c8cc7a7c2cc44920c765ef856398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db98d0b2956200f8f9c8e8a43f99cf20') in 0.008235 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000312 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!doors_01.png
-  artifactKey: Guid(c64bdb8343c855b49a6707e448b70fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!doors_01.png using Guid(c64bdb8343c855b49a6707e448b70fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebac45f6c20f191fca1e21e2b9609357') in 0.008307 seconds 
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (3).PNG
+  artifactKey: Guid(5b0099f5c87ee5c4abf09a51bffd6556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (3).PNG using Guid(5b0099f5c87ee5c4abf09a51bffd6556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005df8a6780c8be7be30947962a103c7') in 0.051006 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000353 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!doors_02.png
-  artifactKey: Guid(be415dc32e64acf46816d87229f114f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!doors_02.png using Guid(be415dc32e64acf46816d87229f114f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fb4187bc79341857c746bb214e4150') in 0.008461 seconds 
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).gif
+  artifactKey: Guid(10f73cc07494c9e48932b3f4de7dc223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).gif using Guid(10f73cc07494c9e48932b3f4de7dc223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15a1fe477e49e426c7c430e9f3e5e6f') in 0.049262 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$campfire.png
-  artifactKey: Guid(23bd0f9465ed26049862103386de0ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$campfire.png using Guid(23bd0f9465ed26049862103386de0ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e98e81d3b1c4c2b793a1f9dc75fbcb9') in 0.007517 seconds 
+  Time since last request: 0.000308 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).png
+  artifactKey: Guid(b4cafb98aad00d446ab8508ac30dc3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).png using Guid(b4cafb98aad00d446ab8508ac30dc3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367f887be6ecf2e49ede32247d9c1e36') in 0.056403 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!torches.png
-  artifactKey: Guid(3cf9ccec068917c4ca9dae2fba1aca39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!torches.png using Guid(3cf9ccec068917c4ca9dae2fba1aca39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc3f58dc7cd4e8e760dda79947275a0') in 0.009591 seconds 
+  Time since last request: 0.000285 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).jpg
+  artifactKey: Guid(0c670daeeb09e9142a76e90638e59a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (2).jpg using Guid(0c670daeeb09e9142a76e90638e59a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e099518fdc856eff06bee57ac36827fd') in 0.046043 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!switches.png
-  artifactKey: Guid(8dcfe7cf6df520c42a9c5870f3919f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/!switches.png using Guid(8dcfe7cf6df520c42a9c5870f3919f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd38508b8008a686fd247bc686d5036') in 0.007674 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$kart.png
-  artifactKey: Guid(274ccfa5b65b35246bbd9950c0a4b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/characters/$kart.png using Guid(274ccfa5b65b35246bbd9950c0a4b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c073cdc27c985cdfe04ccc35d630f7') in 0.009181 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.198278 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_autotile_A1.png
-  artifactKey: Guid(919867a26749ccc45867b203b33305e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_autotile_A1.png using Guid(919867a26749ccc45867b203b33305e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7b5ef3074835f9c7e23c22d296292b') in 0.009151 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_tileset_B.png
-  artifactKey: Guid(91ee7d3085da49847be8f8c7ba15d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_tileset_B.png using Guid(91ee7d3085da49847be8f8c7ba15d615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a3bc0d24985766266b483bebcc91ff') in 0.011069 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_autotile_A2.png
-  artifactKey: Guid(90c88d60808789247aa668155ee7df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_autotile_A2.png using Guid(90c88d60808789247aa668155ee7df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b4799a61e8961cf56e20e7c9eb4668') in 0.008609 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_tileset_C.png
-  artifactKey: Guid(716e1d8a614fb154aaef69e8e6b0e578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MZ/tilesets/SRW_FireDungeon_tileset_C.png using Guid(716e1d8a614fb154aaef69e8e6b0e578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3d73d1264bf32871a56bd9d131ca40') in 0.010865 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 241.982736 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png
-  artifactKey: Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png using Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9427ccc0199adf1eda84d6bdbfcf74f5') in 0.009492 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 377.068500 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png
-  artifactKey: Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png using Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2905b3787685e44c9518cbbdd3f5c450') in 0.257410 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 137.789460 seconds.
-  path: Assets/Art/Tile_Palettes/Cave
-  artifactKey: Guid(80c42bf74a8e00f4da1fe8369ac97d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/Cave using Guid(80c42bf74a8e00f4da1fe8369ac97d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2978cd40a79878a611d13abec4be8c3d') in 0.001950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.119498 seconds.
-  path: Assets/Art/Tile_Palettes/Cave/cave.prefab
-  artifactKey: Guid(6e13a30374946144e9501ff8f5ba50e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/Cave/cave.prefab using Guid(6e13a30374946144e9501ff8f5ba50e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66717461594dc3aefa76b14cf3ef4e79') in 0.005114 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.931078 seconds.
-  path: Assets/Art/Tile_Palettes/FireDungeon/fire_dungeon.prefab
-  artifactKey: Guid(96201e7a65cef6445b8fa74f12e2f468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/FireDungeon/fire_dungeon.prefab using Guid(96201e7a65cef6445b8fa74f12e2f468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac8d9e6c56f2931b2a1272b472b75f8') in 0.003585 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 199.291894 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_0.asset
-  artifactKey: Guid(0f0fd84912769b94587f52b9286c3d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_0.asset using Guid(0f0fd84912769b94587f52b9286c3d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d8adf19fe1e604f9a066075d4e8c0fa') in 0.009294 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_3.asset
-  artifactKey: Guid(6e19698fc8b77374fba314467a4cb512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_3.asset using Guid(6e19698fc8b77374fba314467a4cb512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354cdd298af6e4446db7276d4daee7d4') in 0.005697 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_2.asset
-  artifactKey: Guid(8fe943010ac558d4a9e6df06ffe76329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_2.asset using Guid(8fe943010ac558d4a9e6df06ffe76329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ffd874753d3cb771fdf2c30e1465112') in 0.004931 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_1.asset
-  artifactKey: Guid(392f4c7c3b63bf94f821c83868b427e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_1.asset using Guid(392f4c7c3b63bf94f821c83868b427e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ec7099dde6f4d8f63e3afdefca7dd6') in 0.006206 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.005782 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_4.asset
-  artifactKey: Guid(2ee63cd489cb62a4cb999516f15a214f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_4.asset using Guid(2ee63cd489cb62a4cb999516f15a214f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec0e6838ebb32e9a2dd10cfc5397b90') in 0.004498 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_5.asset
-  artifactKey: Guid(6e3adef0e4b9c3a4397493c2ce20f28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_5.asset using Guid(6e3adef0e4b9c3a4397493c2ce20f28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ff9893e2c3eac7aacea76cfe505fcb') in 0.004767 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.278770 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_6.asset
-  artifactKey: Guid(4977a7b8167b9eb48b56678a53ffe133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_6.asset using Guid(4977a7b8167b9eb48b56678a53ffe133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caa4fd742c0817201bc1d534659eeca') in 0.005569 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_8.asset
-  artifactKey: Guid(204448a699dfad4418457e7c661cca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_8.asset using Guid(204448a699dfad4418457e7c661cca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc24d926bd091725f482d9338e70d99') in 0.004444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_9.asset
-  artifactKey: Guid(0392e0d92a85a7e4a83303f45829d02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_9.asset using Guid(0392e0d92a85a7e4a83303f45829d02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4883376257098de605e814d33aec47d5') in 0.005329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000372 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_11.asset
-  artifactKey: Guid(6d70df0a622db704ba90c8f268c7e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_11.asset using Guid(6d70df0a622db704ba90c8f268c7e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5a320b6914c0c0a12816a75b4102df') in 0.004898 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_10.asset
-  artifactKey: Guid(c502301f626531f46a5ca862fb4bb571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_10.asset using Guid(c502301f626531f46a5ca862fb4bb571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c30c525a78bc1f0018d4993cb12f001') in 0.005305 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_12.asset
-  artifactKey: Guid(abdb82d06f5920e4e82d59cfc2ce0c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_12.asset using Guid(abdb82d06f5920e4e82d59cfc2ce0c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be8329a54c7df5048872d1306cbc748') in 0.005855 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_15.asset
-  artifactKey: Guid(73e4b18a82448f54a992768c2d093959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_15.asset using Guid(73e4b18a82448f54a992768c2d093959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6254b97b26f9e2069065ae896a772d9') in 0.005570 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_14.asset
-  artifactKey: Guid(6e10a6c9c7a89e94caf9446e582af54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_14.asset using Guid(6e10a6c9c7a89e94caf9446e582af54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c2f06ec49b71e9894e7ee43f971dcd') in 0.005971 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_13.asset
-  artifactKey: Guid(f480d79f2d4109b4b95dffaefa50854b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_13.asset using Guid(f480d79f2d4109b4b95dffaefa50854b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ef1761008ceeb0a15231333eba39b3') in 0.004607 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000319 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_7.asset
-  artifactKey: Guid(e66722f94fad8c64e9f2edcb5a535f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_7.asset using Guid(e66722f94fad8c64e9f2edcb5a535f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31eef49c27c9c17bb25c00a3663bd013') in 0.004593 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.254180 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_16.asset
-  artifactKey: Guid(cadd28e20f32c53448f457309e96ffb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_16.asset using Guid(cadd28e20f32c53448f457309e96ffb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3d5264db65d235183caa264b784480') in 0.005158 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_17.asset
-  artifactKey: Guid(9a617de86beca10449830495d1aee5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_17.asset using Guid(9a617de86beca10449830495d1aee5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3749e0988061bfcc0c65650c4e2ac0c1') in 0.005453 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000365 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_19.asset
-  artifactKey: Guid(284f154ad04d6d5459a8699e13fb2884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_19.asset using Guid(284f154ad04d6d5459a8699e13fb2884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b36b19688ab600ac2055682cf962ce') in 0.004461 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_18.asset
-  artifactKey: Guid(ce2c82e30c4dace44ab215d982d59b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_18.asset using Guid(ce2c82e30c4dace44ab215d982d59b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409e65c27db2bbd72bcdce9d4131efcb') in 0.004838 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000732 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_20.asset
-  artifactKey: Guid(826345258d69af44e8801fd41c37ee65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_20.asset using Guid(826345258d69af44e8801fd41c37ee65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f401ca46427da7ae6efc3886444b46') in 0.004729 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_21.asset
-  artifactKey: Guid(cf10f80148df41541a876c3f5d28cac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_21.asset using Guid(cf10f80148df41541a876c3f5d28cac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0948b2850360af03ade86859b52f6e4') in 0.004900 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_23.asset
-  artifactKey: Guid(eb19db5521f59a34ab99337069d07d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_23.asset using Guid(eb19db5521f59a34ab99337069d07d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba8f85f0faf2503b081aa37da9cca10') in 0.004339 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_26.asset
-  artifactKey: Guid(fc94e7099b8fef044a79c9f6aecb47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_26.asset using Guid(fc94e7099b8fef044a79c9f6aecb47cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae32522a0f7f878d89e914d9b1703d9') in 0.005553 seconds 
+  Time since last request: 0.000312 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).jpg
+  artifactKey: Guid(b979c55329f657a448ba65cde1cdf602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).jpg using Guid(b979c55329f657a448ba65cde1cdf602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41506366a29bd483cfbc7f795f574b42') in 0.048521 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000320 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_24.asset
-  artifactKey: Guid(bcd1319c8893b0c478b49ecb5a6b2551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_24.asset using Guid(bcd1319c8893b0c478b49ecb5a6b2551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f497f9eaeec9c3fa140e8e0c72bb0c6e') in 0.004566 seconds 
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).png
+  artifactKey: Guid(3e245687ec78aab4584d2c2a97f0d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (1).png using Guid(3e245687ec78aab4584d2c2a97f0d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd3767856cc6862a07b7aefe85255f5') in 0.044900 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_22.asset
-  artifactKey: Guid(6fafa8d4e84fa0643b8ada227fe5db43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_22.asset using Guid(6fafa8d4e84fa0643b8ada227fe5db43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfe4e7871ae54ac1970ffcabaf5a152') in 0.004620 seconds 
+  Time since last request: 0.000286 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (3).gif
+  artifactKey: Guid(b000e524eea07d844a80d2a83dccc1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (3).gif using Guid(b000e524eea07d844a80d2a83dccc1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe04b3b7ff930d8104cce6b9396b3f7') in 0.047214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.671863 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (4).gif
+  artifactKey: Guid(120ffb1560445834b85a83158329a8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (4).gif using Guid(120ffb1560445834b85a83158329a8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f64aa29d165b2ac71f4cda893a3a702') in 0.044761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (5).png
+  artifactKey: Guid(8b999b8a785269341ba133d62386ec9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (5).png using Guid(8b999b8a785269341ba133d62386ec9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd909ab2abc66c091d413cc2b26d58657') in 0.035257 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000301 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_27.asset
-  artifactKey: Guid(010938e675dc1654ba487070944ef176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_27.asset using Guid(010938e675dc1654ba487070944ef176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1552d8f7694f28ef3f44596363bb00') in 0.005407 seconds 
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (8).png
+  artifactKey: Guid(2533030d98c50234695df3f867c98e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (8).png using Guid(2533030d98c50234695df3f867c98e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46cf8160f24df41a5f6f16434ffac18') in 0.047076 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_25.asset
-  artifactKey: Guid(526f6ed9203999e4198a92dfdab38f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Tile_Palettes/SRW_FireDungeon_autotile_A1_25.asset using Guid(526f6ed9203999e4198a92dfdab38f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619587f1d9f38b72a9d3770943a87331') in 0.005562 seconds 
+  Time since last request: 0.000332 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (7).png
+  artifactKey: Guid(113623ded8d970a40a6085fba67cd8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (7).png using Guid(113623ded8d970a40a6085fba67cd8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea552a963230ddc103e93970bebc6cf') in 0.040068 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 128.815189 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!chests.png
-  artifactKey: Guid(83d333909b808a942af2f686fbde48d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!chests.png using Guid(83d333909b808a942af2f686fbde48d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '958e65d951120a3caa629d7a0d80c1b2') in 0.025718 seconds 
+  Time since last request: 22.480558 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (9).png
+  artifactKey: Guid(bf0337199d26b0d4bac088fa5e514478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (9).png using Guid(bf0337199d26b0d4bac088fa5e514478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1643200edb29a31899867f823512016') in 0.038699 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!doors_01.png
-  artifactKey: Guid(c7222cf2c65954c4584d20f3bca2bdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!doors_01.png using Guid(c7222cf2c65954c4584d20f3bca2bdcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cd5e4a92ddda0c5c5871b1ce9703eb') in 0.013861 seconds 
+  Time since last request: 0.000351 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (10).png
+  artifactKey: Guid(f3ee1244df2d7cc439a5bc9175b30e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (10).png using Guid(f3ee1244df2d7cc439a5bc9175b30e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07d3d041469e844763930d011707a15') in 0.089494 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000319 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!switches.png
-  artifactKey: Guid(1fbb869718115344cb5b6f1331bea098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!switches.png using Guid(1fbb869718115344cb5b6f1331bea098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e379332db922a7fa3e7cc4bab6a6a9') in 0.024993 seconds 
+  Time since last request: 6.920469 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (11).png
+  artifactKey: Guid(856fff964e0fb434db47c407e0c0e0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (11).png using Guid(856fff964e0fb434db47c407e0c0e0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099997428fa3cad9a511ed74a8adb265') in 0.058224 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000314 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!torches.png
-  artifactKey: Guid(2838d635e7f69b14f964d0e3b161413e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!torches.png using Guid(2838d635e7f69b14f964d0e3b161413e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89985a70baf109210a6908058c8fff9') in 0.024003 seconds 
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (12).png
+  artifactKey: Guid(69d5d7f83566b17439ebcf1b8eeafc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (12).png using Guid(69d5d7f83566b17439ebcf1b8eeafc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a109ec7380339362e2f3841b6d2b5f') in 0.056026 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$fire.png
-  artifactKey: Guid(e89837c34253a1647b37dfa07bb81c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$fire.png using Guid(e89837c34253a1647b37dfa07bb81c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df3b5d8e0a7e986ac990f328946f741') in 0.017497 seconds 
+  Time since last request: 10.433547 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (13).png
+  artifactKey: Guid(06f90f69b4dd455488d35887b8e59154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (13).png using Guid(06f90f69b4dd455488d35887b8e59154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dbf331b94fcc3876daacbf6075496e7') in 0.044376 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000453 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!cristals.png
-  artifactKey: Guid(fc485bbab3ba65a44ae9bb3d485b5773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!cristals.png using Guid(fc485bbab3ba65a44ae9bb3d485b5773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b580052ee6c77cb6a45240260dd7e8') in 0.019566 seconds 
+  Time since last request: 0.000421 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (14).png
+  artifactKey: Guid(51312aa9836d9ab4c85c1c2c793f7008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (14).png using Guid(51312aa9836d9ab4c85c1c2c793f7008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5742d06b648d4031021356db866b5fc4') in 0.048738 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$campfire.png
-  artifactKey: Guid(9ae879e9014ff1d4cb01f2cdcdc05e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$campfire.png using Guid(9ae879e9014ff1d4cb01f2cdcdc05e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ae321460f158b9cca8702bce8d3cbd') in 0.033225 seconds 
+  Time since last request: 31.083187 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (15).png
+  artifactKey: Guid(a4d3c969ed1f1284f8a7f0e5e324cfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (15).png using Guid(a4d3c969ed1f1284f8a7f0e5e324cfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660fa56c71bb0d1811d04f6fd7b336b2') in 0.051545 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000410 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$kart.png
-  artifactKey: Guid(3a1dd56afb5c4c04f96a17ec87cafcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/$kart.png using Guid(3a1dd56afb5c4c04f96a17ec87cafcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c7f3a89adc3d44096ff201e352b80a') in 0.011288 seconds 
+  Time since last request: 0.000299 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (16).png
+  artifactKey: Guid(9bfaae7f32998dd4997a0c62ee071bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (16).png using Guid(9bfaae7f32998dd4997a0c62ee071bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e7558b0d50b4db32804c4d042e1246') in 0.034440 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!doors_02.png
-  artifactKey: Guid(a859ceebf1362294ab4c4bd9d3871d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/characters/!doors_02.png using Guid(a859ceebf1362294ab4c4bd9d3871d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fcd258ab0aa11de053424540fd3897') in 0.007893 seconds 
+  Time since last request: 43.355245 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (17).png
+  artifactKey: Guid(0590a117eb755654fbd9733a28108668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (17).png using Guid(0590a117eb755654fbd9733a28108668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ed2989af74ecc7004806707f4070d8') in 0.015430 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.120745 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png
-  artifactKey: Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png using Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95719468593bc6752deacfde2c10fd63') in 0.006831 seconds 
+  Time since last request: 0.000298 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (18).png
+  artifactKey: Guid(208e17226f15cfa4d80e95e9d281420f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (18).png using Guid(208e17226f15cfa4d80e95e9d281420f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576001c4b5daf11fe5adfe1e24c4ba26') in 0.039538 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 43.384687 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png
-  artifactKey: Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A2.png using Guid(9a3ec241c6572164291f983c946f0e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '383a72a7c2f3dde2195d2c735d322796') in 0.296966 seconds 
+  Time since last request: 11.609972 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (19).png
+  artifactKey: Guid(cee61d6b19fe9a443895c90b8a67f86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (19).png using Guid(cee61d6b19fe9a443895c90b8a67f86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d83df50dbafe9ae1db0eb1c6edd152') in 0.042375 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 90.474026 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png
-  artifactKey: Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png using Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23209f9e2760074598276a6afebe7e59') in 0.008944 seconds 
+  Time since last request: 0.000397 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (20).png
+  artifactKey: Guid(c49158a445bccc54ea5af5134d07b0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (20).png using Guid(c49158a445bccc54ea5af5134d07b0fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285f7e29f325eb6ca138a1ff950f6451') in 0.050189 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.170075 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png
-  artifactKey: Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_B.png using Guid(e9e48bddb9ba62e44a029070c10b4650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20949ef26e12798f373239441f571de5') in 0.374561 seconds 
+  Time since last request: 8.972826 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (21).png
+  artifactKey: Guid(632bd78cc2d9c194da9701d56ad8375b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (21).png using Guid(632bd78cc2d9c194da9701d56ad8375b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d21d30e7bb7580d1d9c9644e84406c') in 0.044383 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 114.565126 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png
-  artifactKey: Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png using Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd14065874334feea18db674c5b1320f') in 0.012820 seconds 
+  Time since last request: 0.000318 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (22).png
+  artifactKey: Guid(17b462531234c3741922847f19024aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (22).png using Guid(17b462531234c3741922847f19024aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d94b453de35a3880f10480651c17cd') in 0.047556 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.537700 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png
-  artifactKey: Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_tileset_C.png using Guid(f24eb8f5a36fb3c439416c8829959286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3438a4c9483deaac71b22de9a4c2b18b') in 0.340314 seconds 
+  Time since last request: 28.756909 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (23).png
+  artifactKey: Guid(f35c6e0d5f5f45b4d84b7d614d0902c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (23).png using Guid(f35c6e0d5f5f45b4d84b7d614d0902c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b65f253622c2f815f556c1fe4c5074') in 0.063884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (24).png
+  artifactKey: Guid(befadff3d16d5e74b9be58fad3e90dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (24).png using Guid(befadff3d16d5e74b9be58fad3e90dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccad0a88ec6c68671e0d890864b03737') in 0.046214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.937648 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (25).png
+  artifactKey: Guid(0d01e73cb2f80ce49903790db1e32047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (25).png using Guid(0d01e73cb2f80ce49903790db1e32047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b683951af68fd24c76f5b9d9e872b5') in 0.055947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (30).png
+  artifactKey: Guid(d0e70ecaa6b1bbf498eb865e78ab7dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (30).png using Guid(d0e70ecaa6b1bbf498eb865e78ab7dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af04c96fa62442464b33a4a8ca33584') in 0.049889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (26).png
+  artifactKey: Guid(559196ea333128d4da45efc890d3a04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (26).png using Guid(559196ea333128d4da45efc890d3a04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6761851afbd5ca1dc6137c3235d4e8fb') in 0.047213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (27).png
+  artifactKey: Guid(c2dcc2d0d16abc1468f391efe2ffb28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (27).png using Guid(c2dcc2d0d16abc1468f391efe2ffb28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e7c5387c3380c2d576631407f01c27') in 0.045715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (29).png
+  artifactKey: Guid(9810d80875d1af44894ae25cb7a81247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (29).png using Guid(9810d80875d1af44894ae25cb7a81247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e70cc1d4126fc8591a28b3e3101e9b') in 0.048570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (28).png
+  artifactKey: Guid(72451124cbdc08041b2a25c0e3715ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (28).png using Guid(72451124cbdc08041b2a25c0e3715ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126a79f4caa60048a4cd88d71699552a') in 0.047969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.073120 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (31).png
+  artifactKey: Guid(94a78469a25cf7c43b0434f414377358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (31).png using Guid(94a78469a25cf7c43b0434f414377358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13900795819e5638bb026ff727ee075d') in 0.037475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (32).png
+  artifactKey: Guid(5f1e0f4e02c2c444ca5b8f2a695aac06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (32).png using Guid(5f1e0f4e02c2c444ca5b8f2a695aac06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab683d0a404234de2b9f7eda484a025d') in 0.050728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.970104 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (33).png
+  artifactKey: Guid(d5d08cfd642943943ad4c567dc87406e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (33).png using Guid(d5d08cfd642943943ad4c567dc87406e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fdf187d0896bed5902926610d05866') in 0.057895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (34).png
+  artifactKey: Guid(a2f3be6313f4fdd469d44cb7875445a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/screenshots/screeshot (34).png using Guid(a2f3be6313f4fdd469d44cb7875445a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d2a88fd9a8157629c0ebb6aca25ffe') in 0.056561 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003171 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3416 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.9 MB.
+System memory in use after: 177.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4480.
+Total: 2.353500 ms (FindLiveObjects: 0.292900 ms CreateObjectMapping: 0.168300 ms MarkObjects: 1.873900 ms  DeleteObjects: 0.017600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003053 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.3 MB.
+System memory in use after: 175.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4484.
+Total: 2.637400 ms (FindLiveObjects: 0.316000 ms CreateObjectMapping: 0.192200 ms MarkObjects: 2.110100 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002953 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.4 MB.
+System memory in use after: 175.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4488.
+Total: 2.337100 ms (FindLiveObjects: 0.294600 ms CreateObjectMapping: 0.172100 ms MarkObjects: 1.854300 ms  DeleteObjects: 0.015600 ms)
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
