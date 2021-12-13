@@ -75,6 +75,7 @@ public class Shop : MonoBehaviour
             {
                 buyItemButtons[i].buttonImage.gameObject.SetActive(false);
                 buyItemButtons[i].amountText.text = "";
+
             }
         }
     }
@@ -98,6 +99,8 @@ public class Shop : MonoBehaviour
         {
             sellItemButtons[i].buttonValue = i;
 
+
+
             // if there is a name
             if (GameManager.instance.itemsHeld[i] != "")
             {
@@ -111,8 +114,12 @@ public class Shop : MonoBehaviour
                 sellItemButtons[i].amountText.text = "";
                 sellItemButtons[i].buttonImage.gameObject.SetActive(false);
 
+                selectedItem = null;
+
             }
         }
+
+
     }
 
     public void SelectBuyItem(Item buyItem)
