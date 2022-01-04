@@ -1,0 +1,189 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 32649 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56025
+Successfully changed project path to: C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
+C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 96.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8043 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001227 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 99.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002425 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.701 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3387 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3846.
+Total: 1.570300 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.281000 ms  DeleteObjects: 0.038900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Level_10.unity
+  artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0268ebe9d9783dd0e547e974f89d1c2') in 0.014637 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002096 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.622 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 1.515200 ms (FindLiveObjects: 0.166500 ms CreateObjectMapping: 0.078500 ms MarkObjects: 1.256800 ms  DeleteObjects: 0.012800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 686.758782 seconds.
+  path: Assets/Scenes/Level_10.unity
+  artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8544395348fec489494af87698e8853') in 0.013057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 357.808903 seconds.
+  path: Assets/Scenes/palette
+  artifactKey: Guid(b029c338f12cda24ba7d1c14132ca1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette using Guid(b029c338f12cda24ba7d1c14132ca1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b45c4a1556ac0ed6da2106300620b0') in 0.005215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.277625 seconds.
+  path: Assets/Scenes/palette/atlas_16x_496.asset
+  artifactKey: Guid(44f13da5c2ddd364fb3afa4cb85a38bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_496.asset using Guid(44f13da5c2ddd364fb3afa4cb85a38bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2dae1e926bee0fa0ab3c164bb57950c') in 0.052202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scenes/palette/atlas_16x_505.asset
+  artifactKey: Guid(315f4a2adf03d654ca02135da14efcc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_505.asset using Guid(315f4a2adf03d654ca02135da14efcc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fa9d7003288df11f195e7bdb75cb9d8') in 0.008359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Scenes/palette/atlas_16x_501.asset
+  artifactKey: Guid(91e7f3d695452794b82199fea1241097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_501.asset using Guid(91e7f3d695452794b82199fea1241097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407453a67ca78dc6fb3ac3bbd719d34a') in 0.007980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Scenes/palette/atlas_16x_497.asset
+  artifactKey: Guid(8b33071d0bde2e743b65774711d7d5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_497.asset using Guid(8b33071d0bde2e743b65774711d7d5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846b261db737056c61448e1b4a224ab3') in 0.007166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scenes/palette/atlas_16x_503.asset
+  artifactKey: Guid(e192133754453e348b1489c8b9faab40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_503.asset using Guid(e192133754453e348b1489c8b9faab40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bae4bb1d99e5722e6966d307d2e88f') in 0.007137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scenes/palette/atlas_16x_500.asset
+  artifactKey: Guid(67ba82e70db55064587a3bf03cc67d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_500.asset using Guid(67ba82e70db55064587a3bf03cc67d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d0add1c17a13eaef2bd74c98472210') in 0.007032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Scenes/palette/atlas_16x_507.asset
+  artifactKey: Guid(3534fc7a806b1ad409426f6c524c04c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_507.asset using Guid(3534fc7a806b1ad409426f6c524c04c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d33867ce2d57bf7581d30f54940b3a8') in 0.006605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Scenes/palette/atlas_16x_506.asset
+  artifactKey: Guid(555c4f45581a81d47b938f8ad0897219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_506.asset using Guid(555c4f45581a81d47b938f8ad0897219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8a3b320f1ca05a03df6c66af7a1a7f') in 0.006934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Scenes/palette/atlas_16x_499.asset
+  artifactKey: Guid(3e01b2a454c41b448a2b3064372aea9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_499.asset using Guid(3e01b2a454c41b448a2b3064372aea9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32f9ce7fbb459ba52a457b6b44851b5') in 0.007068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Scenes/palette/atlas_16x_502.asset
+  artifactKey: Guid(9fef004de5dc27e499a6631076625918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_502.asset using Guid(9fef004de5dc27e499a6631076625918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f856d93be5a387e2eed986578fa2c61c') in 0.007165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Scenes/palette/atlas_16x_508.asset
+  artifactKey: Guid(c1d518f76926f0e4992e585cf99f4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_508.asset using Guid(c1d518f76926f0e4992e585cf99f4bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc654854587e55a71db0e21cc36a84b') in 0.005899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scenes/palette/atlas_16x_504.asset
+  artifactKey: Guid(042e639dc59cb614eb7d8d91b2cd0766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_504.asset using Guid(042e639dc59cb614eb7d8d91b2cd0766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84b0116ed817c3b1ae0723a45bc918f') in 0.007096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Scenes/palette/atlas_16x_498.asset
+  artifactKey: Guid(0278e0b9923c3054aa88a7b9a52bc23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/palette/atlas_16x_498.asset using Guid(0278e0b9923c3054aa88a7b9a52bc23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7535cc1406039a47750d64ac445dfd8b') in 0.006739 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
