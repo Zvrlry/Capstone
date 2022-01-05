@@ -1,0 +1,14 @@
+Capstone ROLES
+Section 4 - Switching Scenes - 11/5 (CHRISTIAN) 46 Min
+Section 5 - Camera - DUE AT END
+Section 6 - Dialog System - 11/8 (YIANNIS) 1 Hr 38 Min
+Section 7 - Levelling Up - 11/10 (DEVON) 50 Min
+Section 8 - In-Game Menu - 11/15 (CHRIS) 1 Hr 32 Min
+Section 9 - Inventory - 12/2 (DEVON) 2 Hr 10 Min
+Section 10 - Money & Shops - 12/5 (YIANNIS) 1 Hr
+Section 11 - Quest Tracking - 12/7 (COLBY) 45 Min
+Section 12 - Saving - 12/11 (COLBY) 34 Min
+Section 13 - Audio - 12/15 (CHRISTIAN) 28 Min
+Section 14 - Main Menu - 12/19 (CHRIS) 31 Min
+Section 15 - Battle System - 1/23 (DEVON) 4 Hr 51 Min
+Section 16 - Boss Battles - 1/27 (DEVON) 12 Min
