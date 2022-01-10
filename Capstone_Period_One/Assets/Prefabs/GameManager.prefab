@@ -123,7 +123,7 @@ MonoBehaviour:
   - enter the cave
   - quest test
   - save the world
-  questMarkersComplete: 0000000100
+  questMarkersComplete: 0000000000
 --- !u!1 &5714524021939546262
 GameObject:
   m_ObjectHideFlags: 0
