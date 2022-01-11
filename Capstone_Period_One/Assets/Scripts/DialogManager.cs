@@ -106,7 +106,7 @@ public class DialogManager : MonoBehaviour
         }
     }
 
-    public void ShouldAcivateQuestAtEnd(string questName, bool markComplete)
+    public void ShouldActivateQuestAtEnd(string questName, bool markComplete)
     {
         questToMark = questName;
         markQuestComplete = markComplete;
