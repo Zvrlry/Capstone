@@ -50,7 +50,10 @@ public class GameMenu : MonoBehaviour
             if (theMenu.activeInHierarchy) // if the menu is open in hierarchy
             {
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of 6fbfc49 (menu)
                 // theMenu.SetActive(false);
                 //GameManager.instance.gameMenuOpen = false;
 
@@ -114,14 +117,6 @@ public class GameMenu : MonoBehaviour
             else
             {
                 windows[i].SetActive(false);
-=======
-                theMenu.SetActive(false);
-                GameManager.instance.gameMenuOpen = false;
-            } else
-            {
-                theMenu.SetActive(true);
-                GameManager.instance.gameMenuOpen = true;
->>>>>>> Stashed changes
             }
         }
 
