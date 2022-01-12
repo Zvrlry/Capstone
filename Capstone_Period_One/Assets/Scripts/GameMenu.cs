@@ -49,9 +49,18 @@ public class GameMenu : MonoBehaviour
         {
             if (theMenu.activeInHierarchy) // if the menu is open in hierarchy
             {
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+                // theMenu.SetActive(false);
+                //GameManager.instance.gameMenuOpen = false;
+
+                CloseMenu();
+            } else
+=======
                 CloseMenu(); // close the menu
             }
             else if (!theMenu.activeInHierarchy) // if the menu isnt active in hierarchy
+>>>>>>> 724b1e57a2b4c89ff5c265657c0a36543b8b544a
             {
                 theMenu.SetActive(true); // open menu
                 UpdateMainStats(); // update the stats of the player
@@ -105,6 +114,14 @@ public class GameMenu : MonoBehaviour
             else
             {
                 windows[i].SetActive(false);
+=======
+                theMenu.SetActive(false);
+                GameManager.instance.gameMenuOpen = false;
+            } else
+            {
+                theMenu.SetActive(true);
+                GameManager.instance.gameMenuOpen = true;
+>>>>>>> Stashed changes
             }
         }
 
