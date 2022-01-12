@@ -32,6 +32,7 @@ public class GameMenu : MonoBehaviour
         {
             if(theMenu.activeInHierarchy)
             {
+<<<<<<< Updated upstream
                 // theMenu.SetActive(false);
                 //GameManager.instance.gameMenuOpen = false;
 
@@ -80,6 +81,14 @@ public class GameMenu : MonoBehaviour
             } else
             {
                 windows[i].SetActive(false);
+=======
+                theMenu.SetActive(false);
+                GameManager.instance.gameMenuOpen = false;
+            } else
+            {
+                theMenu.SetActive(true);
+                GameManager.instance.gameMenuOpen = true;
+>>>>>>> Stashed changes
             }
         }
     }
