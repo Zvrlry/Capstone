@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1021857703484407499}
   - component: {fileID: 7801854541309411721}
+  - component: {fileID: 2100758605270493501}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -50,6 +51,79 @@ MonoBehaviour:
   - {fileID: 5714524021939546261}
   - {fileID: 8835295495178176886}
   - {fileID: 7650294038568953440}
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  shopActive: 0
+  itemsHeld:
+  - 
+  - 
+  - Wooden Sword
+  - 
+  - 
+  - Health Potion
+  - 
+  - 
+  - 
+  - 
+  - Iron Armor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Mana Potion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 00000000000000000700000000000000000000000500000000000000000000000000000000000000140000000000000000000000000000000000000000000000070000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  referenceItems:
+  - {fileID: 7108752714156725297, guid: d7e477741d7413947af9f13f56758ad7, type: 3}
+  - {fileID: 8497386286031729416, guid: c00acd72aa3bd0a47a0b1f47444d826d, type: 3}
+  - {fileID: 1502146741587710548, guid: ff6cce27db9f02c4ea739824cd7a5250, type: 3}
+  - {fileID: 8532148909468855240, guid: fee823344c6b9fe408bffeca3feb7642, type: 3}
+  - {fileID: 5391396160533017822, guid: 47136b4ec760f85419a4852974a52432, type: 3}
+  - {fileID: 6412241686432632908, guid: 9f1c7d2c9ab2a9243a2612c61c3fcb85, type: 3}
+  currentGold: 0
+--- !u!114 &2100758605270493501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 204826098184545443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cdc21652e3a7e34296ef4d9409787d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - 
+  - fight the demon
+  - enter the cave
+  - quest test
+  - save the world
+  questMarkersComplete: 0000000000
 --- !u!1 &5714524021939546262
 GameObject:
   m_ObjectHideFlags: 0
@@ -107,7 +181,7 @@ MonoBehaviour:
   strength: 15
   defence: 12
   weaponPower: 0
-  armor: 0
+  armorPower: 0
   equippedWeapon: 
   equippedArmor: 
   charImage: {fileID: 7152930139536384079, guid: 666b86bf2e06284408e389b3bb243079, type: 3}
@@ -127,7 +201,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2140910480748191620
 Transform:
   m_ObjectHideFlags: 0
@@ -154,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07fca8dbf7afe4d45a9f0bb50c5af6ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  charName: Woody
+  charName: Connor
   playerLevel: 3
   currentEXP: 543
   expToNextLevel: 
@@ -168,10 +242,10 @@ MonoBehaviour:
   strength: 22
   defence: 16
   weaponPower: 0
-  armor: 0
+  armorPower: 0
   equippedWeapon: 
   equippedArmor: 
-  charImage: {fileID: 21300000, guid: e0ddba6d3fcf21f49949fcc95c849aac, type: 3}
+  charImage: {fileID: 3830475944223242837, guid: fb8cc55af4b7a034584793949fd90500, type: 3}
 --- !u!1 &8117669253900165268
 GameObject:
   m_ObjectHideFlags: 0
@@ -229,7 +303,7 @@ MonoBehaviour:
   strength: 22
   defence: 16
   weaponPower: 0
-  armor: 0
+  armorPower: 0
   equippedWeapon: 
   equippedArmor: 
   charImage: {fileID: 21300000, guid: e0ddba6d3fcf21f49949fcc95c849aac, type: 3}

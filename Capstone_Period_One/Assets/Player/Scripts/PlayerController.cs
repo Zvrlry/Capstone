@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     [Header("RigidBody")] // header attribute 
     public Rigidbody2D rb; // MUST name ***rb*** in other scripts
 
-    public bool canMove = true; 
+    public bool canMove = true;
 
     public static PlayerController instance;
 
@@ -31,17 +31,18 @@ public class PlayerController : MonoBehaviour
         {
             // giving player top down movement by input axis
             rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")) * moveSpeed;
-        } else
+        }
+        else
         {
             rb.velocity = Vector2.zero;
         }
 
-            myAnim.SetFloat("moveX", rb.velocity.x); // setting float for animation in blend tree
-            myAnim.SetFloat("moveY", rb.velocity.y); // setting float for animation in blend tree
+        myAnim.SetFloat("moveX", rb.velocity.x); // setting float for animation in blend tree
+        myAnim.SetFloat("moveY", rb.velocity.y); // setting float for animation in blend tree
 
         if (Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1) // if moving left or right
         {
-            if(canMove)
+            if (canMove)
             {
                 myAnim.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal")); // set float in blend tree
                 myAnim.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical")); // Set float in blend tree

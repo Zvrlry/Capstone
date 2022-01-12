@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class EssentialsLoader : MonoBehaviour
 {
+
     public GameObject player;
+    public GameObject UIScreen;
     public GameObject gameManager;
     public GameObject battleManager;
 
@@ -15,8 +17,7 @@ public class EssentialsLoader : MonoBehaviour
     {
         if (PlayerController.instance == null)
         {
-            PlayerController clone = Instantiate(player).GetComponent<PlayerController>();
-            PlayerController.instance = clone;
+            PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();
         }
 
         if (GameManager.instance == null)
@@ -27,6 +28,11 @@ public class EssentialsLoader : MonoBehaviour
         if (BattleManager.instance == null)
         {
             BattleManager.instance = Instantiate(battleManager).GetComponent<BattleManager>();
+        }
+
+        if (GameMenu.instance == null)
+        {
+            GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
         }
     }
 }
