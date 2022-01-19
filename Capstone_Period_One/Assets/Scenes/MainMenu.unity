@@ -825,8 +825,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 087fd17e6909b32438708dd096125545, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newGameScene: Level_1
+  newGameScene: Code_TestRoom
   continueButton: {fileID: 1001857937}
+  loadGameScene: Level_1
 --- !u!1 &1590205813
 GameObject:
   m_ObjectHideFlags: 0
