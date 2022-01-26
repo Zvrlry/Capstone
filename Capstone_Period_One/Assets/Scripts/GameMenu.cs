@@ -4,7 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameMenu : MonoBehaviour {
+public class GameMenu : MonoBehaviour
+{
 
     public GameObject theMenu;
     public GameObject[] windows;
@@ -35,38 +36,41 @@ public class GameMenu : MonoBehaviour {
     public string mainMenuName;
 
     // Use this for initialization
-    void Start () {
+    void Start()
+    {
         instance = this;
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		if(Input.GetButtonDown("Fire2"))
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetButtonDown("Fire2"))
         {
-            if(theMenu.activeInHierarchy)
+            if (theMenu.activeInHierarchy)
             {
                 //theMenu.SetActive(false);
                 //GameManager.instance.gameMenuOpen = false;
 
                 CloseMenu();
-            } else
+            }
+            else
             {
                 theMenu.SetActive(true);
                 UpdateMainStats();
                 GameManager.instance.gameMenuOpen = true;
             }
 
-           // AudioManager.instance.PlaySFX(5);
+            // AudioManager.instance.PlaySFX(5);
         }
-	}
+    }
 
     public void UpdateMainStats()
     {
         playerStats = GameManager.instance.playerStats;
 
-        for(int i = 0; i < playerStats.Length; i++)
+        for (int i = 0; i < playerStats.Length; i++)
         {
-            if(playerStats[i].gameObject.activeInHierarchy)
+            if (playerStats[i].gameObject.activeInHierarchy)
             {
                 charStatHolder[i].SetActive(true);
 
@@ -78,7 +82,8 @@ public class GameMenu : MonoBehaviour {
                 expSlider[i].maxValue = playerStats[i].expToNextLevel[playerStats[i].playerLevel];
                 expSlider[i].value = playerStats[i].currentEXP;
                 charImage[i].sprite = playerStats[i].charImage;
-            } else
+            }
+            else
             {
                 charStatHolder[i].SetActive(false);
             }
@@ -91,12 +96,13 @@ public class GameMenu : MonoBehaviour {
     {
         UpdateMainStats();
 
-        for(int i = 0; i < windows.Length; i++)
+        for (int i = 0; i < windows.Length; i++)
         {
-            if(i == windowNumber)
+            if (i == windowNumber)
             {
                 windows[i].SetActive(!windows[i].activeInHierarchy);
-            } else
+            }
+            else
             {
                 windows[i].SetActive(false);
             }
@@ -107,7 +113,7 @@ public class GameMenu : MonoBehaviour {
 
     public void CloseMenu()
     {
-        for(int i = 0; i < windows.Length; i++)
+        for (int i = 0; i < windows.Length; i++)
         {
             windows[i].SetActive(false);
         }
@@ -126,7 +132,7 @@ public class GameMenu : MonoBehaviour {
         //update the information that is shown
         StatusChar(0);
 
-        for(int i = 0; i < statusButtons.Length; i++)
+        for (int i = 0; i < statusButtons.Length; i++)
         {
             statusButtons[i].SetActive(playerStats[i].gameObject.activeInHierarchy);
             statusButtons[i].GetComponentInChildren<Text>().text = playerStats[i].charName;
@@ -140,7 +146,7 @@ public class GameMenu : MonoBehaviour {
         statusMP.text = "" + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
         statusStr.text = playerStats[selected].strength.ToString();
         statusDef.text = playerStats[selected].defence.ToString();
-        if(playerStats[selected].equippedWeapon != "")
+        if (playerStats[selected].equippedWeapon != "")
         {
             statusWpnEqpd.text = playerStats[selected].equippedWeapon;
         }
@@ -159,16 +165,17 @@ public class GameMenu : MonoBehaviour {
     {
         GameManager.instance.SortItems();
 
-        for(int i = 0; i < itemButtons.Length; i++)
+        for (int i = 0; i < itemButtons.Length; i++)
         {
             itemButtons[i].buttonValue = i;
 
-            if(GameManager.instance.itemsHeld[i] != "")
+            if (GameManager.instance.itemsHeld[i] != "")
             {
                 itemButtons[i].buttonImage.gameObject.SetActive(true);
                 itemButtons[i].buttonImage.sprite = GameManager.instance.GetItemDetails(GameManager.instance.itemsHeld[i]).itemSprite;
                 itemButtons[i].amountText.text = GameManager.instance.numberOfItems[i].ToString();
-            } else
+            }
+            else
             {
                 itemButtons[i].buttonImage.gameObject.SetActive(false);
                 itemButtons[i].amountText.text = "";
@@ -180,12 +187,12 @@ public class GameMenu : MonoBehaviour {
     {
         activeItem = newItem;
 
-        if(activeItem.isItem)
+        if (activeItem.isItem)
         {
             useButtonText.text = "Use";
         }
 
-        if(activeItem.isWeapon || activeItem.isArmour)
+        if (activeItem.isWeapon || activeItem.isArmour)
         {
             useButtonText.text = "Equip";
         }
@@ -196,7 +203,7 @@ public class GameMenu : MonoBehaviour {
 
     public void DiscardItem()
     {
-        if(activeItem != null)
+        if (activeItem != null)
         {
             GameManager.instance.RemoveItem(activeItem.itemName);
         }
@@ -206,7 +213,7 @@ public class GameMenu : MonoBehaviour {
     {
         itemCharChoiceMenu.SetActive(true);
 
-        for(int i = 0; i < itemCharChoiceNames.Length; i++)
+        for (int i = 0; i < itemCharChoiceNames.Length; i++)
         {
             itemCharChoiceNames[i].text = GameManager.instance.playerStats[i].charName;
             itemCharChoiceNames[i].transform.parent.gameObject.SetActive(GameManager.instance.playerStats[i].gameObject.activeInHierarchy);
@@ -232,7 +239,7 @@ public class GameMenu : MonoBehaviour {
 
     public void PlayButtonSound()
     {
-      //  AudioManager.instance.PlaySFX(4);
+        //  AudioManager.instance.PlaySFX(4);
     }
 
     public void QuitGame()
@@ -241,7 +248,7 @@ public class GameMenu : MonoBehaviour {
 
         Destroy(GameManager.instance.gameObject);
         Destroy(PlayerController.instance.gameObject);
-       // Destroy(AudioManager.instance.gameObject);
+        // Destroy(AudioManager.instance.gameObject);
         Destroy(gameObject);
     }
 }
