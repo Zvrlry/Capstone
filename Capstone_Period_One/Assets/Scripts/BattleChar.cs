@@ -9,18 +9,4 @@ public class BattleChar : MonoBehaviour
     public string charName;
     public int currentHp, maxHp, currentMp, maxMp, strength, defense, weaponPower, armorPower;
     public bool hasDied;
-
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }

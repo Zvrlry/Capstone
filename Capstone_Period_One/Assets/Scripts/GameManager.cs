@@ -18,6 +18,8 @@ public class GameManager : MonoBehaviour
 
     public int currentGold;
 
+    private PlayerController playerController;
+
     // Use this for initialization
     void Start()
     {
@@ -26,6 +28,8 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
 
         SortItems();
+
+        playerController = FindObjectOfType<PlayerController>();
     }
 
     // Update is called once per frame
@@ -33,11 +37,11 @@ public class GameManager : MonoBehaviour
     {
         if (gameMenuOpen || dialogActive || fadingBetweenAreas || shopActive || battleActive)
         {
-            PlayerController.instance.canMove = false;
+            playerController.canMove = false;
         }
         else
         {
-            PlayerController.instance.canMove = true;
+            playerController.canMove = true;
         }
 
         if (Input.GetKeyDown(KeyCode.J))
