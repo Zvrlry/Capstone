@@ -43,9 +43,14 @@ public class BattleManager : MonoBehaviour
 
     [Header("Flee")]
     public int chanceToFlee = 35;
+    private bool isFleeing;
 
     [Header("Scene Transition")]
     public string gameOverScene;
+
+    [Header("Rewards")]
+    public int rewardXp;
+    public string[] rewardItems;
 
 
 
@@ -405,9 +410,7 @@ public class BattleManager : MonoBehaviour
 
         if (fleeSuccess < chanceToFlee)
         {
-            // end the battle
-            // battleActive = false;
-            // battleScene.SetActive(false);
+            isFleeing = true;
             StartCoroutine(EndBattleCo());
         }
         else
@@ -447,7 +450,15 @@ public class BattleManager : MonoBehaviour
         battleScene.SetActive(false);
         activeBattlers.Clear();
         currentTurn = 0;
-        GameManager.instance.battleActive = false;
+        if (isFleeing)
+        {
+            GameManager.instance.battleActive = false;
+            isFleeing = false;
+        }
+        else
+        {
+            BattleRewards.instance.OpenRewardScreen(rewardXp, rewardItems);
+        }
     }
 
     public IEnumerator GameOverCo()
