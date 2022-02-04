@@ -13,15 +13,13 @@ public class PlayerController : MonoBehaviour
 
     [Header("RigidBody")] // header attribute 
     public Rigidbody2D rb; // MUST name ***rb*** in other scripts
-
-    public bool canMove = true;
-
     public static PlayerController instance;
+    public bool canMove = true;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        instance = this;
     }
 
     // Update is called once per frame

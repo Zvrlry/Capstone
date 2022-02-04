@@ -35246,23 +35246,13 @@ MonoBehaviour:
   windows:
   - {fileID: 986199716027312851}
   - {fileID: 986199715885499081}
-  playerStats: []
-  nameTest:
-  - {fileID: 986199716203662133}
-  - {fileID: 986199717128492689}
-  - {fileID: 986199715770607096}
-  hptext:
-  - {fileID: 986199716019807325}
-  - {fileID: 986199715812567398}
-  - {fileID: 986199716580837538}
+  nameText: []
+  hpText: []
   mpText:
   - {fileID: 986199715696682481}
   - {fileID: 986199717374833454}
   - {fileID: 986199716381030077}
-  lvltext:
-  - {fileID: 986199715898618286}
-  - {fileID: 986199715423386150}
-  - {fileID: 986199716557936334}
+  lvlText: []
   expText:
   - {fileID: 986199715464653346}
   - {fileID: 986199716712871784}
@@ -35279,16 +35269,13 @@ MonoBehaviour:
   - {fileID: 986199715374296330}
   - {fileID: 986199716734357720}
   - {fileID: 986199716602387730}
-  statusButton:
-  - {fileID: 986199716003779858}
-  - {fileID: 986199715881727807}
-  - {fileID: 986199715817836600}
+  statusButtons: []
   statusName: {fileID: 986199716298548710}
-  StatusHP: {fileID: 986199715773379941}
-  StatusMP: {fileID: 986199716235847908}
+  statusHP: {fileID: 0}
+  statusMP: {fileID: 0}
   statusStr: {fileID: 986199716190497863}
-  StatusDef: {fileID: 986199716982845395}
-  statusWpnEpn: {fileID: 986199715888185594}
+  statusDef: {fileID: 0}
+  statusWpnEqpd: {fileID: 0}
   statusWpnPwr: {fileID: 986199716109061174}
   statusArmrEqpd: {fileID: 986199717439876479}
   statusArmrPwr: {fileID: 986199715969408797}
@@ -35346,6 +35333,7 @@ MonoBehaviour:
   - {fileID: 986199717011208415}
   - {fileID: 986199716638035374}
   goldText: {fileID: 1235396434}
+  mainMenuName: 
 --- !u!114 &231754628
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36195,7 +36183,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 986199716259762396}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 986199716208857606}
+        m_TargetAssemblyTypeName: GameMenu, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &986199716267158049
 GameObject:
   m_ObjectHideFlags: 0
@@ -45856,7 +45856,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 986199717097107753}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 986199716208857606}
+        m_TargetAssemblyTypeName: GameMenu, Assembly-CSharp
+        m_MethodName: SaveGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &986199717128492703
 GameObject:
   m_ObjectHideFlags: 0
