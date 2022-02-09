@@ -16,6 +16,9 @@ public class PlayerController : MonoBehaviour
     public static PlayerController instance;
     public bool canMove = true;
 
+
+    public string areaTransitionName;// earea transition 
+
     // Start is called before the first frame update
     void Start()
     {

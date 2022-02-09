@@ -15,10 +15,11 @@ public class MainMENU : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if(PlayerPrefs.HasKey("Current_Scene"))
+        if (PlayerPrefs.HasKey("Current_Scene"))
         {
             continueButton.SetActive(true);
-        } else
+        }
+        else
         {
             continueButton.SetActive(false);
         }
@@ -27,17 +28,17 @@ public class MainMENU : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      
+
     }
 
     public void Continue()
     {
-          SceneManager.LoadScene(loadGameScene);
+        SceneManager.LoadScene(loadGameScene);
     }
 
     public void NewGame()
     {
-        SceneManager.LoadScene(newGameScene);
+        SceneManager.LoadScene("Level_1");
     }
 
     public void Exit()
