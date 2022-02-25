@@ -46,7 +46,7 @@ public class DialogActivator : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            interactText.SetActive(false);
+           
             canActivate = false;
         }
     }
