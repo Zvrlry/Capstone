@@ -5,9 +5,9 @@ using UnityEngine;
 public class DialogActivator : MonoBehaviour
 {
 
-    public string[] lines; 
+    public string[] lines;
 
-    private bool canActivate; 
+    private bool canActivate;
 
     public bool isPerson = true;
 
@@ -15,17 +15,19 @@ public class DialogActivator : MonoBehaviour
     public string questToMark;
     public bool markComplete;
 
+    public GameObject interactText;
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(canActivate && Input.GetButtonDown("Fire1") && !DialogManager.instance.dialogBox.activeInHierarchy)
+        if (canActivate && Input.GetButtonDown("Fire1") && !DialogManager.instance.dialogBox.activeInHierarchy)
         {
+            interactText.SetActive(false);
             DialogManager.instance.ShowDialog(lines, isPerson);
             DialogManager.instance.ShouldActivateQuestAtEnd(questToMark, markComplete);
         }
@@ -33,9 +35,10 @@ public class DialogActivator : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "Player") 
+        if (other.tag == "Player")
         {
-            canActivate = true; 
+            interactText.SetActive(true);
+            canActivate = true;
         }
     }
 
@@ -43,7 +46,8 @@ public class DialogActivator : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            canActivate = false; 
+            interactText.SetActive(false);
+            canActivate = false;
         }
     }
 

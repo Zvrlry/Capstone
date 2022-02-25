@@ -1,20 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI; 
+using UnityEngine.UI;
 
 public class DialogManager : MonoBehaviour
 {
 
     public Text dialogText;
-    public Text nameText; 
-    public GameObject dialogBox; 
-    public GameObject nameBox; 
+    public Text nameText;
+    public GameObject dialogBox;
+    public GameObject nameBox;
 
-    public string[] dialogLines; 
+    public string[] dialogLines;
 
-    public int currentLine; 
-    private bool justStarted; 
+    public int currentLine;
+    private bool justStarted;
 
     public static DialogManager instance;
 
@@ -25,7 +25,7 @@ public class DialogManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        instance = this; 
+        instance = this;
 
         //dialogText.text = dialogLines[currentLine]; 
     }
@@ -33,16 +33,16 @@ public class DialogManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        if(dialogBox.activeInHierarchy)
+
+        if (dialogBox.activeInHierarchy)
         {
-            if(Input.GetButtonUp("Fire1"))
+            if (Input.GetButtonUp("Fire1"))
             {
-                if(!justStarted)
+                if (!justStarted)
                 {
                     currentLine++;
-                
-                    if(currentLine >= dialogLines.Length)
+
+                    if (currentLine >= dialogLines.Length)
                     {
                         dialogBox.SetActive(false);
 
@@ -61,19 +61,20 @@ public class DialogManager : MonoBehaviour
                             }
 
                         }
-                    } 
-                    else 
-                    {
-                        CheckIfName(); 
-
-                        dialogText.text = dialogLines[currentLine]; 
                     }
-                } else 
-                {
-                    justStarted = false; 
+                    else
+                    {
+                        CheckIfName();
+
+                        dialogText.text = dialogLines[currentLine];
+                    }
                 }
-                 
-                
+                else
+                {
+                    justStarted = false;
+                }
+
+
             }
         }
 
@@ -81,28 +82,28 @@ public class DialogManager : MonoBehaviour
 
     public void ShowDialog(string[] newLines, bool isPerson)
     {
-        dialogLines = newLines; 
+        dialogLines = newLines;
 
-        currentLine = 0; 
+        currentLine = 0;
 
         CheckIfName();
 
-        dialogText.text = dialogLines[currentLine]; 
-        dialogBox.SetActive(true); 
+        dialogText.text = dialogLines[currentLine];
+        dialogBox.SetActive(true);
 
-        justStarted = true; 
+        justStarted = true;
 
-        nameBox.SetActive(isPerson); 
+        nameBox.SetActive(isPerson);
 
-        PlayerController.instance.canMove = false; 
+        PlayerController.instance.canMove = false;
     }
 
     public void CheckIfName()
     {
-        if(dialogLines[currentLine].StartsWith("n-"))
+        if (dialogLines[currentLine].StartsWith("n-"))
         {
-            nameText.text = dialogLines[currentLine].Replace("n-", ""); 
-            currentLine++; 
+            nameText.text = dialogLines[currentLine].Replace("n-", "");
+            currentLine++;
         }
     }
 
