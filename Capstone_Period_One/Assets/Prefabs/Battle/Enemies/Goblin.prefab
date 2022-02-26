@@ -111,6 +111,6 @@ MonoBehaviour:
   armorPower: 5
   hasDied: 0
   theSprite: {fileID: 4265916050061724878}
-  deadSprite: {fileID: 0}
+  deadSprite: {fileID: 21300008, guid: 988d560df8d322a468c97243cbfd76e8, type: 3}
   aliveSprite: {fileID: 0}
   fadeSpeed: 0.5
