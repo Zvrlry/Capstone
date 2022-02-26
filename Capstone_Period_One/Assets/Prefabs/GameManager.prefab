@@ -59,21 +59,6 @@ MonoBehaviour:
   itemsHeld:
   - 
   - 
-  - Wooden Sword
-  - 
-  - 
-  - Health Potion
-  - 
-  - 
-  - 
-  - 
-  - Iron Armor
-  - 
-  - 
-  - 
-  - 
-  - 
-  - Mana Potion
   - 
   - 
   - 
@@ -97,7 +82,22 @@ MonoBehaviour:
   - 
   - 
   - 
-  numberOfItems: 00000000000000000700000000000000000000000500000000000000000000000000000000000000140000000000000000000000000000000000000000000000070000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   referenceItems:
   - {fileID: 7108752714156725297, guid: d7e477741d7413947af9f13f56758ad7, type: 3}
   - {fileID: 8497386286031729416, guid: c00acd72aa3bd0a47a0b1f47444d826d, type: 3}
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   charName: Tim
   playerLevel: 1
-  currentEXP: 250
+  currentEXP: 0
   expToNextLevel: 
   maxLevel: 10
   baseEXP: 1000
@@ -230,8 +230,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   charName: Connor
-  playerLevel: 3
-  currentEXP: 543
+  playerLevel: 1
+  currentEXP: 0
   expToNextLevel: 
   maxLevel: 10
   baseEXP: 1000
@@ -291,8 +291,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   charName: Woody
-  playerLevel: 3
-  currentEXP: 543
+  playerLevel: 1
+  currentEXP: 0
   expToNextLevel: 
   maxLevel: 10
   baseEXP: 1000

@@ -74,7 +74,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -2127214263
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: -5
   m_Sprite: {fileID: -3074023447068413781, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 0
   itemName: Iron Sword
   description: Stronger Than Wood
-  value: 25
+  value: 50
   itemSprite: {fileID: -2178467043915682464, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
   amountToChange: 50
   affectHP: 0
@@ -122,7 +122,7 @@ Animator:
   m_GameObject: {fileID: 4296018654445763697}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 7f5d893b90289014baa6cc193b3dffbf, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

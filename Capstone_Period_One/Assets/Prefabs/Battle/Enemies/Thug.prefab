@@ -98,7 +98,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPlayer: 0
   movesAvailable:
-  - Fire
   - Slash
   charName: Thug
   currentHp: 100

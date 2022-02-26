@@ -7,8 +7,9 @@ public class Shopkeeper : MonoBehaviour
 
     private bool canOpen;     
 
-    public string[] ItemsForSale = new string[40]; 
+    public string[] ItemsForSale = new string[40];
 
+    public GameObject interactText;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +21,7 @@ public class Shopkeeper : MonoBehaviour
     {
         if(canOpen && Input.GetButtonDown("Fire1") && PlayerController.instance.canMove && !Shop.instance.shopMenu.activeInHierarchy)
         {
+            interactText.SetActive(false);
             Shop.instance.itemsForSale = ItemsForSale; 
 
             Shop.instance.OpenShop();
@@ -30,6 +32,7 @@ public class Shopkeeper : MonoBehaviour
     {
         if(other.tag == "Player")
         {
+            interactText.SetActive(true);
             canOpen = true; 
         }
     }
@@ -38,6 +41,7 @@ public class Shopkeeper : MonoBehaviour
     {
         if(other.tag == "Player")
         {
+            interactText.SetActive(false);
             canOpen = false; 
         }
     }
