@@ -15,7 +15,7 @@ public class AreaExit : MonoBehaviour {
     private bool shouldLoadAfterFade;
 
 	// Use this for initialization
-	void Start () {
+	void Awake () {
         theEntrance.transitionName = areaTransitionName;
 
     }
