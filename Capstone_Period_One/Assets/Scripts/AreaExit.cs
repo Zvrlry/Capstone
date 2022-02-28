@@ -35,13 +35,25 @@ public class AreaExit : MonoBehaviour
 
             }
         }
+        // Work In Progress Dev Jump
+       /* else if (Input.GetKeyDown(KeyCode.P))
+        {
+
+            SceneManager.LoadScene(areaToLoad);
+            shouldLoadAfterFade = true;
+            GameManager.instance.fadingBetweenAreas = true;
+
+            UIFade.instance.FadeToBlack();
+
+            PlayerController.instance.areaTransitionName = areaTransitionName;
+        } */
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
-            //SceneManager.LoadScene(areaToLoad);
+            SceneManager.LoadScene(areaToLoad);
             shouldLoadAfterFade = true;
             GameManager.instance.fadingBetweenAreas = true;
 
