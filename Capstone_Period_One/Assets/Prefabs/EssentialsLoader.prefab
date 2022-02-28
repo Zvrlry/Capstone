@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6963721004762580083}
   - component: {fileID: 7486819208532214952}
   m_Layer: 0
-  m_Name: Essntials Loader
+  m_Name: EssentialsLoader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46,4 +46,4 @@ MonoBehaviour:
   player: {fileID: 986199716208857600, guid: a8ce63caa4584374eafc3aa0f839d8fc, type: 3}
   UIScreen: {fileID: 5998138805329740822, guid: 8f38b15822af1684b8c1eb6e543e9f59, type: 3}
   gameManager: {fileID: 204826098184545443, guid: a13bc128f1759f44ab47e127e4efbd86, type: 3}
-  battleManager: {fileID: 0}
+  battleManager: {fileID: 5405399373783000726, guid: 981678c25678995488056e3e80a62ede, type: 3}

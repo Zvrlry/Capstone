@@ -105,7 +105,7 @@ MonoBehaviour:
   maxHp: 200
   currentMp: 0
   maxMp: 0
-  strength: 5
+  strength: 10
   defense: 3
   weaponPower: 5
   armorPower: 3

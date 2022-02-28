@@ -837,13 +837,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7486819208532214952, guid: 5fb053ed782a52d40bc89fabc0254ce0, type: 3}
-      propertyPath: battleManager
-      value: 
-      objectReference: {fileID: 5405399373783000726, guid: 981678c25678995488056e3e80a62ede, type: 3}
     - target: {fileID: 8965291065901208416, guid: 5fb053ed782a52d40bc89fabc0254ce0, type: 3}
       propertyPath: m_Name
-      value: Essntials Loader
+      value: Essentials Loader
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fb053ed782a52d40bc89fabc0254ce0, type: 3}
