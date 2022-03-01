@@ -256,3 +256,4 @@ Received Import Request.
   path: Assets/Prefabs/Battle/Enemies/Giant Turtle.prefab
   artifactKey: Guid(3a55e8f82d7639144b53c54ebe9e9496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Battle/Enemies/Giant Turtle.prefab using Guid(3a55e8f82d7639144b53c54ebe9e9496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6301f5b543de7159d5b232d8008808b9') in 0.013913 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
