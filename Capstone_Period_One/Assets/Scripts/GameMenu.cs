@@ -142,6 +142,7 @@ public class GameMenu : MonoBehaviour
 
     public void StatusChar(int selected)
     {
+        UpdateMainStats();
         statusName.text = playerStats[selected].charName;
         statusHP.text = "" + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
         statusMP.text = "" + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
