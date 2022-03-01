@@ -927,7 +927,7 @@ MonoBehaviour:
   - 
   - 
   - 
-  interactText: {fileID: 0}
+  interactText: {fileID: 1725801552}
 --- !u!61 &1182624440
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9616,7 +9616,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 371937327, guid: a8ce63caa4584374eafc3aa0f839d8fc, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -29
+      value: -29.00003
       objectReference: {fileID: 0}
     - target: {fileID: 986199716208857600, guid: a8ce63caa4584374eafc3aa0f839d8fc, type: 3}
       propertyPath: m_Name
