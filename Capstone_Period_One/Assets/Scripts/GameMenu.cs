@@ -142,6 +142,7 @@ public class GameMenu : MonoBehaviour
 
     public void StatusChar(int selected)
     {
+        
         UpdateMainStats();
         statusName.text = playerStats[selected].charName;
         statusHP.text = "" + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
@@ -151,11 +152,18 @@ public class GameMenu : MonoBehaviour
         if (playerStats[selected].equippedWeapon != "")
         {
             statusWpnEqpd.text = playerStats[selected].equippedWeapon;
-        }
+        } else
+		{
+            statusWpnEqpd.text = "Equipped Weapon: None";
+		}
         statusWpnPwr.text = playerStats[selected].weaponPower.ToString();
         if (playerStats[selected].equippedArmor != "")
         {
             statusArmrEqpd.text = playerStats[selected].equippedArmor;
+        }
+        else
+        {
+            statusArmrEqpd.text = "Equipped Armor: None";
         }
         statusArmrPwr.text = playerStats[selected].armorPower.ToString();
         statusExp.text = (playerStats[selected].expToNextLevel[playerStats[selected].playerLevel] - playerStats[selected].currentEXP).ToString();
