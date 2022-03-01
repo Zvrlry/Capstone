@@ -100,8 +100,8 @@ MonoBehaviour:
   movesAvailable:
   - Slash
   charName: Giant Turtle
-  currentHp: 1000
-  maxHp: 1000
+  currentHp: 500
+  maxHp: 500
   currentMp: 0
   maxMp: 0
   strength: 10

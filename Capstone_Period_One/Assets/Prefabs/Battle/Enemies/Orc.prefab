@@ -99,13 +99,12 @@ MonoBehaviour:
   isPlayer: 0
   movesAvailable:
   - Slash
-  - Plasma
   charName: Orc
-  currentHp: 1500
-  maxHp: 1500
+  currentHp: 750
+  maxHp: 750
   currentMp: 10
   maxMp: 10
-  strength: 15
+  strength: 8
   defense: 10
   weaponPower: 10
   armorPower: 5

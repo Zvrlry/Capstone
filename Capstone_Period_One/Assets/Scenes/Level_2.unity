@@ -238,9 +238,18 @@ MonoBehaviour:
     - Eyeball
     rewardXP: 500
     rewardItems:
+    - Platinum Sword
     - Health Potion
-    - Iron Armor
-    - Iron Sword
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -252,6 +261,88 @@ MonoBehaviour:
     - Health Potion
     - Mana Potion
     - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
   timeBetweenBattles: 10
   activeOnEnter: 1
   activateOnStay: 0
@@ -377,9 +468,18 @@ MonoBehaviour:
     - Eyeball
     rewardXP: 500
     rewardItems:
+    - Platinum Sword
     - Health Potion
-    - Iron Armor
-    - Iron Sword
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -399,9 +499,8 @@ MonoBehaviour:
     - Stinger
     rewardXP: 750
     rewardItems:
-    - Health Potion
+    - Platinum Sword
     - Mana Potion
-    - Health Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -410,20 +509,8 @@ MonoBehaviour:
     - Stinger
     rewardXP: 750
     rewardItems:
-    - Health Potion
+    - Platinum Armor
     - Mana Potion
-    - Health Potion
-  - enemies:
-    - Stinger
-    - Flower Snake
-    - Goblin
-    - Flower Snake
-    - Stinger
-    rewardXP: 750
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Health Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -1117,9 +1204,18 @@ MonoBehaviour:
     - Eyeball
     rewardXP: 500
     rewardItems:
+    - Platinum Sword
     - Health Potion
-    - Iron Armor
-    - Iron Sword
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -1131,6 +1227,88 @@ MonoBehaviour:
     - Health Potion
     - Mana Potion
     - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
   timeBetweenBattles: 10
   activeOnEnter: 1
   activateOnStay: 0
@@ -9293,9 +9471,18 @@ MonoBehaviour:
     - Eyeball
     rewardXP: 500
     rewardItems:
+    - Platinum Sword
     - Health Potion
-    - Iron Armor
-    - Iron Sword
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
   - enemies:
     - Stinger
     - Flower Snake
@@ -9307,6 +9494,88 @@ MonoBehaviour:
     - Health Potion
     - Mana Potion
     - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Mana Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Sword
   timeBetweenBattles: 10
   activeOnEnter: 1
   activateOnStay: 0
@@ -9506,49 +9775,36 @@ MonoBehaviour:
     - Giant Turtle
     rewardXP: 1500
     rewardItems:
-    - Health Potion
     - Great Potion
-    - Mana Potion
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Platinum Armor
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Iron Sword
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Platinum Armor
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
     - Platinum Sword
   - enemies:
     - Giant Turtle
     - Giant Turtle
     rewardXP: 1500
     rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Iron Armor
+    - Great Potion
+    - Platinum Sword
+  - enemies:
+    - Giant Turtle
+    - Giant Turtle
+    rewardXP: 1500
+    rewardItems:
+    - Great Potion
+    - Platinum Sword
+  - enemies:
+    - Giant Turtle
+    - Giant Turtle
+    rewardXP: 1500
+    rewardItems:
+    - Great Potion
+    - Platinum Armor
+  - enemies:
+    - Giant Turtle
+    - Giant Turtle
+    rewardXP: 1500
+    rewardItems:
+    - Great Potion
+    - Platinum Sword
   timeBetweenBattles: 10
   activeOnEnter: 1
   activateOnStay: 0

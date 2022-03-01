@@ -101,8 +101,8 @@ MonoBehaviour:
   - Slash
   - Plasma
   charName: Eyeball
-  currentHp: 200
-  maxHp: 200
+  currentHp: 100
+  maxHp: 100
   currentMp: 0
   maxMp: 0
   strength: 10
