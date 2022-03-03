@@ -76,8 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: -2127214263
   m_SortingLayer: 4
   m_SortingOrder: -5
-  m_Sprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: 7941655418127038725, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Chaos Armor
   description: Too Much?
   value: 1000
-  itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: 7941655418127038725, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
   amountToChange: 250
   affectHP: 1
   affectMP: 1

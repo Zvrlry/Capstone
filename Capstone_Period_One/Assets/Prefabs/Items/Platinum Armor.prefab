@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayer: 4
   m_SortingOrder: -5
   m_Sprite: {fileID: -822417806250360712, guid: 3cf6bb46ffb1a9f4e906522b09f41a11, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7893378, g: 0.9245283, b: 0.89045125, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Platinum Armor
   description: Pretty sturdy
   value: 50
-  itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: -822417806250360712, guid: 3cf6bb46ffb1a9f4e906522b09f41a11, type: 3}
   amountToChange: 15
   affectHP: 1
   affectMP: 0

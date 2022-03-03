@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayer: 4
   m_SortingOrder: -5
   m_Sprite: {fileID: -5204764817622233848, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
-  m_Color: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
+  m_Color: {r: 0.8207547, g: 0.8207547, b: 0.8207547, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Iron Armor
   description: Better Than Leather
   value: 25
-  itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: -5204764817622233848, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
   amountToChange: 5
   affectHP: 1
   affectMP: 0
