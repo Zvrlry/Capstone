@@ -64,10 +64,11 @@ public class BattleManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.T))
-        {
-            BattleStart(new string[] { "Goblin", "Flower Snake", "Stinger" });
-        }
+        // Test Battle
+        // if (Input.GetKeyDown(KeyCode.T))
+        // {
+        //     BattleStart(new string[] { "Goblin", "Flower Snake", "Stinger" });
+        // }
 
         if (battleActive)
         {
