@@ -76,8 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: -2127214263
   m_SortingLayer: 4
   m_SortingOrder: -5
-  m_Sprite: {fileID: -3074023447068413781, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
-  m_Color: {r: 0.83137256, g: 0.16078432, b: 0.14509805, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 551eeb2cf94e76f49adc68537ced7615, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Adamantite Sword
   description: Stronger Than Mythril
   value: 500
-  itemSprite: {fileID: -3074023447068413781, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: 21300000, guid: 551eeb2cf94e76f49adc68537ced7615, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0
