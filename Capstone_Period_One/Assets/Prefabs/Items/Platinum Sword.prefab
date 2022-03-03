@@ -76,8 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: -2127214263
   m_SortingLayer: 4
   m_SortingOrder: -5
-  m_Sprite: {fileID: -3074023447068413781, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
-  m_Color: {r: 0.7971698, g: 0.9845378, b: 1, a: 1}
+  m_Sprite: {fileID: -1063607765839946711, guid: 72d2619b5e0d7aa45a30154dc4c6e858, type: 3}
+  m_Color: {r: 0.8632076, g: 0.990541, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Platinum Sword
   description: Stronger Than Iron
   value: 50
-  itemSprite: {fileID: -3074023447068413781, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: -1063607765839946711, guid: 72d2619b5e0d7aa45a30154dc4c6e858, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0
