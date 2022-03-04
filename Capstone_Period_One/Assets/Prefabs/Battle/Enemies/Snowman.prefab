@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5277235723373916944
+--- !u!1 &4329098839065279431
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,37 +8,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 491369698125763793}
-  - component: {fileID: 4265916050061724878}
-  - component: {fileID: 4493168514431819827}
+  - component: {fileID: 8356780643565427718}
+  - component: {fileID: 5628120268786336793}
+  - component: {fileID: 5436545612815476964}
   m_Layer: 0
-  m_Name: Thug
+  m_Name: Snowman
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &491369698125763793
+--- !u!4 &8356780643565427718
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5277235723373916944}
+  m_GameObject: {fileID: 4329098839065279431}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.34, y: 2, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalPosition: {x: -2.29, y: 0.18, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &4265916050061724878
+--- !u!212 &5628120268786336793
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5277235723373916944}
+  m_GameObject: {fileID: 4329098839065279431}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 2120716201
   m_SortingLayer: 7
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4660339090906605154, guid: 5069de79c28552b408115caa5428dec6, type: 3}
+  m_Sprite: {fileID: -323176645922427909, guid: 1667f02b9b035d944b43cd1e05874cfa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -84,13 +84,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &4493168514431819827
+--- !u!114 &5436545612815476964
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5277235723373916944}
+  m_GameObject: {fileID: 4329098839065279431}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88685d069c7f6ad4797cb2d417d30931, type: 3}
@@ -99,17 +99,17 @@ MonoBehaviour:
   isPlayer: 0
   movesAvailable:
   - Slash
-  charName: Thug
-  currentHp: 100
-  maxHp: 150
-  currentMp: 0
-  maxMp: 0
-  strength: 2
-  defense: 5
-  weaponPower: 3
+  charName: Snowman
+  currentHp: 400
+  maxHp: 400
+  currentMp: 10
+  maxMp: 10
+  strength: 15
+  defense: 20
+  weaponPower: 20
   armorPower: 5
   hasDied: 0
-  theSprite: {fileID: 4265916050061724878}
+  theSprite: {fileID: 5628120268786336793}
   deadSprite: {fileID: 0}
   aliveSprite: {fileID: 0}
   fadeSpeed: 0.5
