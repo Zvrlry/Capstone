@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     public int currentGold;
 
     private PlayerController playerController;
-    public GameMenu gameMenu;
+    
 
     // Use this for initialization
     void Start()
@@ -238,7 +238,7 @@ public class GameManager : MonoBehaviour
             {
                 playerStats[i].gameObject.SetActive(true);
             }
-            Debug.Log("Does Load");
+            
             playerStats[i].playerLevel = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_Level");
             playerStats[i].currentEXP = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_CurrentExp");
             playerStats[i].currentHP = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_CurrentHP");
@@ -251,14 +251,15 @@ public class GameManager : MonoBehaviour
             playerStats[i].armorPower = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_ArmrPwr");
             playerStats[i].equippedWeapon = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedWpn");
             playerStats[i].equippedArmor = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedArmr");
-            gameMenu = FindObjectOfType<GameMenu>();
-            gameMenu.UpdateMainStats();
+           // GameMenu.instance.UpdateMainStats();
+            GameMenu.instance.ShowItems();
         }
 
         for (int i = 0; i < itemsHeld.Length; i++)
         {
             itemsHeld[i] = PlayerPrefs.GetString("ItemInInventory_" + i);
             numberOfItems[i] = PlayerPrefs.GetInt("ItemAmount_" + i);
+           
         }
     }
 }

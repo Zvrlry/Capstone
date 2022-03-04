@@ -36205,9 +36205,9 @@ MonoBehaviour:
   - {fileID: 986199715423386150}
   - {fileID: 986199716557936334}
   expText:
-  - {fileID: 986199715464653346}
-  - {fileID: 986199716712871784}
-  - {fileID: 986199717490884905}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   expSlider:
   - {fileID: 986199715641515481}
   - {fileID: 986199716423196337}
@@ -48032,7 +48032,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &986199717272083115
 RectTransform:
   m_ObjectHideFlags: 0
