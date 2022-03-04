@@ -100,8 +100,8 @@ MonoBehaviour:
   movesAvailable:
   - Slash
   charName: Skeleton
-  currentHp: 750
-  maxHp: 750
+  currentHp: 400
+  maxHp: 400
   currentMp: 10
   maxMp: 10
   strength: 15
