@@ -15,25 +15,28 @@ public class QuestObjectActivator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(!initialCheckDone)
+        if (!initialCheckDone)
         {
             initialCheckDone = true;
-
+        }
+        else if (initialCheckDone)
+        {
             CheckCompletion();
         }
     }
 
     public void CheckCompletion()
     {
-        if(QuestManager.instance.CheckIfComplete(questToCheck))
+        if (QuestManager.instance.CheckIfComplete(questToCheck))
         {
             objectToActivate.SetActive(activateIfComplete);
+            Destroy(this.gameObject);
         }
     }
 }
