@@ -9,7 +9,11 @@ public class Shopkeeper : MonoBehaviour
 
     public string[] ItemsForSale = new string[40];
 
+  
+    public GameObject uiCanvas;
     public GameObject interactText;
+    [HideInInspector]
+    public bool canRun = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +29,11 @@ public class Shopkeeper : MonoBehaviour
             Shop.instance.itemsForSale = ItemsForSale; 
 
             Shop.instance.OpenShop();
+        }
+
+        if (canRun && GameMenu.instance)
+        {
+            SetInteractText();
         }
     }
 
@@ -44,5 +53,12 @@ public class Shopkeeper : MonoBehaviour
             interactText.SetActive(false);
             canOpen = false; 
         }
+    }
+
+    public void SetInteractText()
+    {
+        uiCanvas = GameObject.Find("UI Canvas(Clone)");
+        interactText = uiCanvas.transform.GetChild(0).gameObject;
+        canRun = false;
     }
 }

@@ -14,12 +14,14 @@ public class DialogActivator : MonoBehaviour
     public bool shouldActivateQuest;
     public string questToMark;
     public bool markComplete;
-
+    public GameObject uiCanvas;
     public GameObject interactText;
+    [HideInInspector]
+    public bool canRun = true;
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -30,6 +32,11 @@ public class DialogActivator : MonoBehaviour
             interactText.SetActive(false);
             DialogManager.instance.ShowDialog(lines, isPerson);
             DialogManager.instance.ShouldActivateQuestAtEnd(questToMark, markComplete);
+        }
+
+        if(canRun && GameMenu.instance)
+        {
+            InteractTextSet();
         }
     }
 
@@ -49,7 +56,15 @@ public class DialogActivator : MonoBehaviour
             interactText.SetActive(false);
             canActivate = false;
         }
-    }
 
+
+        
+    }
+    public void InteractTextSet()
+    {
+        uiCanvas = GameObject.Find("UI Canvas(Clone)");
+        interactText = uiCanvas.transform.GetChild(0).gameObject;
+        canRun = false;
+    }
 
 }
