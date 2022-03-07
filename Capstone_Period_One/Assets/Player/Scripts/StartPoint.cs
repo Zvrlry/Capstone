@@ -5,14 +5,12 @@ using UnityEngine;
 public class StartPoint : MonoBehaviour
 {
 
-    GameObject player;
+    public GameObject player;
 
     void Start()
     {
-        player = GameObject.Find("Player");
-
         player.transform.position = this.transform.position;
     }
 
-  
+
 }

@@ -19,5 +19,9 @@ public class CameraController : MonoBehaviour
         {
             transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
         }
+        else
+        {
+            Debug.Log("Can't Find Target");
+        }
     }
 }

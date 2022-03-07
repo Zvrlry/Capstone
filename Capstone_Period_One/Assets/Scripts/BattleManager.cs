@@ -8,7 +8,7 @@ public class BattleManager : MonoBehaviour
 {
 
     public static BattleManager instance;
-    private bool battleActive;
+    public bool battleActive;
     public GameObject battleScene;
     public Transform[] playerPositions;
     public Transform[] enemyPositions;
@@ -58,7 +58,7 @@ public class BattleManager : MonoBehaviour
     void Start()
     {
         instance = this;
-        DontDestroyOnLoad(gameObject);
+        // DontDestroyOnLoad(gameObject);
     }
 
     // Update is called once per frame
@@ -466,8 +466,10 @@ public class BattleManager : MonoBehaviour
     {
         // end battle
         battleActive = false;
+        GameManager.instance.battleActive = false;
         yield return new WaitForSeconds(1f);
         battleScene.SetActive(false);
+        activeBattlers.Clear();
         SceneManager.LoadScene(gameOverScene);
     }
 }

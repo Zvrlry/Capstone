@@ -213,6 +213,7 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.SetInt("ItemAmount_" + i, numberOfItems[i]);
         }
         Debug.Log("Player Position On Save: " + "X Pos: " + PlayerPrefs.GetFloat("Player_Position_x") + " Y Pos: " + PlayerPrefs.GetFloat("Player_Position_y") + " Z Pos: " + PlayerPrefs.GetFloat("Player_Position_z"));
+        PlayerController.instance.canMove = true;
     }
 
     public void LoadData()
