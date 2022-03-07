@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     public int currentGold;
 
     private PlayerController playerController;
-    
+
 
     // Use this for initialization
     void Start()
@@ -43,15 +43,6 @@ public class GameManager : MonoBehaviour
         else
         {
             playerController.canMove = true;
-        }
-
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            AddItem("Iron Armor");
-            AddItem("Blabla");
-
-            RemoveItem("Health Potion");
-            RemoveItem("Bleep");
         }
 
         if (Input.GetKeyDown(KeyCode.O))
@@ -201,7 +192,6 @@ public class GameManager : MonoBehaviour
             {
                 PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_active", 0);
             }
-            Debug.Log("pee");
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Level", playerStats[i].playerLevel);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentExp", playerStats[i].currentEXP);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentHP", playerStats[i].currentHP);
@@ -222,6 +212,7 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.SetString("ItemInInventory_" + i, itemsHeld[i]);
             PlayerPrefs.SetInt("ItemAmount_" + i, numberOfItems[i]);
         }
+        Debug.Log("Player Position On Save: " + "X Pos: " + PlayerPrefs.GetFloat("Player_Position_x") + " Y Pos: " + PlayerPrefs.GetFloat("Player_Position_y") + " Z Pos: " + PlayerPrefs.GetFloat("Player_Position_z"));
     }
 
     public void LoadData()
@@ -238,7 +229,7 @@ public class GameManager : MonoBehaviour
             {
                 playerStats[i].gameObject.SetActive(true);
             }
-            
+
             playerStats[i].playerLevel = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_Level");
             playerStats[i].currentEXP = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_CurrentExp");
             playerStats[i].currentHP = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_CurrentHP");
@@ -251,7 +242,7 @@ public class GameManager : MonoBehaviour
             playerStats[i].armorPower = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_ArmrPwr");
             playerStats[i].equippedWeapon = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedWpn");
             playerStats[i].equippedArmor = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedArmr");
-           // GameMenu.instance.UpdateMainStats();
+            // GameMenu.instance.UpdateMainStats();
             GameMenu.instance.ShowItems();
         }
 
@@ -259,7 +250,7 @@ public class GameManager : MonoBehaviour
         {
             itemsHeld[i] = PlayerPrefs.GetString("ItemInInventory_" + i);
             numberOfItems[i] = PlayerPrefs.GetInt("ItemAmount_" + i);
-           
+
         }
     }
 }
