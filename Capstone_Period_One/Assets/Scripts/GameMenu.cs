@@ -259,8 +259,8 @@ public class GameMenu : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
 
         GameManager.instance.gameMenuOpen = false;
-        GameManager.instance.gameObject.SetActive(true);
-        PlayerController.instance.gameObject.SetActive(true);
+        Destroy(GameManager.instance.gameObject);
+        Destroy(PlayerController.instance.gameObject);
         // Destroy(AudioManager.instance.gameObject);
         Destroy(gameObject);
     }

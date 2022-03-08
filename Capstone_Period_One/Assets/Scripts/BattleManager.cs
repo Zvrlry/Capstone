@@ -218,6 +218,7 @@ public class BattleManager : MonoBehaviour
             }
             else
             {
+                // end battle in defeat
                 StartCoroutine(GameOverCo());
             }
 

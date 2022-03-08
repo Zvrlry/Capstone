@@ -23,8 +23,7 @@ public class MainMENU : MonoBehaviour
 
     public void Continue()
     {
-        SceneManager.LoadScene(PlayerPrefs.GetString("Current_Scene"));
-        GameManager.instance.LoadData();
+        SceneManager.LoadScene("LoadingScene");
     }
 
     public void NewGame()
