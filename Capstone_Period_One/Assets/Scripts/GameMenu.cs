@@ -40,7 +40,7 @@ public class GameMenu : MonoBehaviour
     {
         instance = this;
         // DontDestroyOnLoad(gameObject);
-     
+
     }
 
     // Update is called once per frame
@@ -256,10 +256,11 @@ public class GameMenu : MonoBehaviour
 
     public void QuitGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("MainMenu");
 
-        Destroy(GameManager.instance.gameObject);
-        Destroy(PlayerController.instance.gameObject);
+        GameManager.instance.gameMenuOpen = false;
+        GameManager.instance.gameObject.SetActive(true);
+        PlayerController.instance.gameObject.SetActive(true);
         // Destroy(AudioManager.instance.gameObject);
         Destroy(gameObject);
     }

@@ -9,6 +9,7 @@ public class StartPoint : MonoBehaviour
 
     void Start()
     {
+        player = GameObject.Find("Player(Clone)");
         player.transform.position = this.transform.position;
     }
 
