@@ -444,11 +444,11 @@ RectTransform:
   m_Children:
   - {fileID: 2070565645}
   m_Father: {fileID: 1554932628}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15, y: -144.22046}
+  m_AnchoredPosition: {x: -15, y: -285}
   m_SizeDelta: {x: 375.55, y: 118.2731}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1001857939
@@ -801,8 +801,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 1001857938}
   - {fileID: 2129248051}
+  - {fileID: 1001857938}
   - {fileID: 1842633560}
   - {fileID: 609449527}
   m_Father: {fileID: 0}
@@ -825,7 +825,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 087fd17e6909b32438708dd096125545, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newGameScene: Code_TestRoom
   continueButton: {fileID: 1001857937}
   loadGameScene: Level_1
 --- !u!1 &1590205813
@@ -1097,7 +1096,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Continue
+  m_Text: Load Game
 --- !u!222 &2070565647
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1138,11 +1137,11 @@ RectTransform:
   m_Children:
   - {fileID: 681030163}
   m_Father: {fileID: 1554932628}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.999817, y: -286}
+  m_AnchoredPosition: {x: -14.999817, y: -145}
   m_SizeDelta: {x: 375.5507, y: 118.2731}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2129248052

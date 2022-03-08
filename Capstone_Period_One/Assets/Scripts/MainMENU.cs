@@ -5,11 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMENU : MonoBehaviour
 {
-
-    public string newGameScene;
-
     public GameObject continueButton;
-
     public string loadGameScene;
 
     // Start is called before the first frame update
@@ -25,15 +21,10 @@ public class MainMENU : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public void Continue()
     {
-        SceneManager.LoadScene(loadGameScene);
+        SceneManager.LoadScene(PlayerPrefs.GetString("Current_Scene"));
+        GameManager.instance.LoadData();
     }
 
     public void NewGame()
