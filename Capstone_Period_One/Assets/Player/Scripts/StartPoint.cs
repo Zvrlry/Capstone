@@ -6,10 +6,17 @@ public class StartPoint : MonoBehaviour
 {
 
     public GameObject player;
+    public bool canRun = true;
 
-    void Start()
+
+    void Update()
     {
-        player.transform.position = this.transform.position;
+        if (canRun && PlayerController.instance)
+        {
+            player = GameObject.Find("Player(Clone)");
+            player.transform.position = this.transform.position;
+            canRun = false;
+        }
     }
 
 
