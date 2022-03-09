@@ -132,7 +132,7 @@ MonoBehaviour:
   questMarkerNames:
   - 
   - Get The Gem
-  - Find The Shovel
+  - Get The Shovel
   questMarkersComplete: 000000
 --- !u!1 &5714524021939546262
 GameObject:
