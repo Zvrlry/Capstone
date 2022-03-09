@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: -2127214263
   m_SortingLayer: 4
   m_SortingOrder: -5
-  m_Sprite: {fileID: 21300000, guid: 551eeb2cf94e76f49adc68537ced7615, type: 3}
+  m_Sprite: {fileID: 4250896712103418354, guid: dc85406ad0f45f141afa7ce3a5961ba5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -102,10 +102,10 @@ MonoBehaviour:
   isItem: 0
   isWeapon: 1
   isArmour: 0
-  itemName: Adamantite Sword
-  description: Stronger Than Mythril
+  itemName: Champion Sword
+  description: Stronger Than Frost Sword
   value: 1000
-  itemSprite: {fileID: 21300000, guid: 551eeb2cf94e76f49adc68537ced7615, type: 3}
+  itemSprite: {fileID: 4250896712103418354, guid: dc85406ad0f45f141afa7ce3a5961ba5, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0

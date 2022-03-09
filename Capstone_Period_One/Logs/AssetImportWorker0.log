@@ -15,11 +15,11 @@ C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56279
+61214
 Successfully changed project path to: C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 C:/Users/h5.j6/Documents/Github/Capstone_Period_1/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 162.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 133.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,58 +35,520 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002583 seconds.
+Registered in 0.002368 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 159.46 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 123.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.723 seconds
+- Completed reload, in  1.440 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006870 seconds.
+Registered in 0.003585 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\Github\Capstone_Period_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 156.87 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 122.08 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.355 seconds
+- Completed reload, in  1.095 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.54 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3408 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 129.7 MB.
 System memory in use after: 129.9 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3866.
-Total: 2.804000 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.244900 ms MarkObjects: 2.197900 ms  DeleteObjects: 0.059600 ms)
+Total: 2.197100 ms (FindLiveObjects: 0.259100 ms CreateObjectMapping: 0.179600 ms MarkObjects: 1.703300 ms  DeleteObjects: 0.054000 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Art/Enemy Assets/IceGolem.png
   artifactKey: Guid(8a8c935eed2c8204990b6787be7e2430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Enemy Assets/IceGolem.png using Guid(8a8c935eed2c8204990b6787be7e2430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ee49df4b32bb23574b6a0fff781149') in 0.121321 seconds 
+Start importing Assets/Art/Enemy Assets/IceGolem.png using Guid(8a8c935eed2c8204990b6787be7e2430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f442e43a34240f33e564707df1fc9e0') in 7.978262 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Art/Enemy Assets/prisioner.png
-  artifactKey: Guid(5069de79c28552b408115caa5428dec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Enemy Assets/prisioner.png using Guid(5069de79c28552b408115caa5428dec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0634412805a193e8e5cf6f8752d17c88') in 0.015056 seconds 
+  Time since last request: 0.000481 seconds.
+  path: Assets/Scenes/Level_6.unity
+  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece4bf5b3ba0b314493c657703c41895') in 0.005088 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Art/Enemy Assets/Snowman_Hit.png
-  artifactKey: Guid(1667f02b9b035d944b43cd1e05874cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Enemy Assets/Snowman_Hit.png using Guid(1667f02b9b035d944b43cd1e05874cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f59a9d445fc3aca7e3b84d723b97114') in 0.013944 seconds 
+  Time since last request: 36.061445 seconds.
+  path: Assets/Art/Enemy Assets/IceGolem.png
+  artifactKey: Guid(8a8c935eed2c8204990b6787be7e2430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemy Assets/IceGolem.png using Guid(8a8c935eed2c8204990b6787be7e2430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7596a1ed72c7aa58b91d703c201d08') in 0.076386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.973326 seconds.
+  path: Assets/Prefabs/Area Exit.prefab
+  artifactKey: Guid(a67969a3f4d0030449f73edd7c37266f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Area Exit.prefab using Guid(a67969a3f4d0030449f73edd7c37266f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59101d854f43c768bb807c61e32e1a4') in 0.013005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Prefabs/EssentialsLoader.prefab
+  artifactKey: Guid(5fb053ed782a52d40bc89fabc0254ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EssentialsLoader.prefab using Guid(5fb053ed782a52d40bc89fabc0254ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35875e3b56e486acfcaa93ecae26ca61') in 0.071917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Prefabs/Grid.prefab
+  artifactKey: Guid(555c7d444acaa5b47847854cf1b2b1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grid.prefab using Guid(555c7d444acaa5b47847854cf1b2b1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8917346b2a35cae8670fb7d4a8e6dd') in 0.501806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Prefabs/TitleAnim.prefab
+  artifactKey: Guid(edb029ccd19fea2459b1ea2cdff7bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TitleAnim.prefab using Guid(edb029ccd19fea2459b1ea2cdff7bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd188b6bfe86ecb71737a4480565b5d6') in 0.007167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Prefabs/Main Camera.prefab
+  artifactKey: Guid(e824e77f25de44b47af7b32d106899de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Main Camera.prefab using Guid(e824e77f25de44b47af7b32d106899de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8c9cc92100cb7a392f7050548dac1d') in 0.004556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Prefabs/UI Canvas.prefab
+  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e623d79a38a504267137da819ae6dbb8') in 0.042320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(8f38b15822af1684b8c1eb6e543e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(8f38b15822af1684b8c1eb6e543e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645e4ba6d475edf62b104de6c7af9d4b') in 0.464215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Prefabs/GameManager.prefab
+  artifactKey: Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManager.prefab using Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3493db6b81b4df1122c15ba53fb659') in 0.020119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Prefabs/AudioManager.prefab
+  artifactKey: Guid(f9ea08b7118a5864095aeba8f64b3f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AudioManager.prefab using Guid(f9ea08b7118a5864095aeba8f64b3f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e46b14e0bd1e0e763b6c2ea34274faa') in 0.005113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Prefabs/BattleManager.prefab
+  artifactKey: Guid(981678c25678995488056e3e80a62ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BattleManager.prefab using Guid(981678c25678995488056e3e80a62ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e41ac249b1d463b2d0949c18f6d0cd') in 0.033876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Prefabs/SceneController.prefab
+  artifactKey: Guid(402be12ab186b8148b8e0d8a9e51d675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SceneController.prefab using Guid(402be12ab186b8148b8e0d8a9e51d675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ce9d033a8da2d53b363b59960df101') in 0.003868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.247849 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Captain Bones.prefab
+  artifactKey: Guid(44f72e8b6c9307f4f8a89a73f0feb142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Captain Bones.prefab using Guid(44f72e8b6c9307f4f8a89a73f0feb142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32c9a5385505822ef2112183b3c8b0d') in 1.292219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Supreme Mage.prefab
+  artifactKey: Guid(b821885ee3dbc32448d46726e96e27e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Supreme Mage.prefab using Guid(b821885ee3dbc32448d46726e96e27e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1443ebf174f99bca378762834cc4772') in 0.012524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Skeleton.prefab
+  artifactKey: Guid(ce4ad80cdf04f00418745fccfcd59f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Skeleton.prefab using Guid(ce4ad80cdf04f00418745fccfcd59f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5809481d226f8fcc71e317fee6da47f5') in 0.007896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Giant Turtle.prefab
+  artifactKey: Guid(3a55e8f82d7639144b53c54ebe9e9496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Giant Turtle.prefab using Guid(3a55e8f82d7639144b53c54ebe9e9496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775cd63f2084a9e9e4e64af081067cc1') in 0.218464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Orc.prefab
+  artifactKey: Guid(2a8c007cce467c24b86a794fe70e9b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Orc.prefab using Guid(2a8c007cce467c24b86a794fe70e9b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc17634299b88eea9f6e68276e2b8b8') in 0.008689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Thug.prefab
+  artifactKey: Guid(36d914616561729488a5403c048e93e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Thug.prefab using Guid(36d914616561729488a5403c048e93e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645fa5621175ef8fa33743797d32188d') in 0.009067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Eyeball.prefab
+  artifactKey: Guid(233aeebe80e55104cbb38b099edff14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Eyeball.prefab using Guid(233aeebe80e55104cbb38b099edff14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2011727877fd9100d0857dd1a3acc56a') in 0.009184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Snowman Leader.prefab
+  artifactKey: Guid(2ec08ff9478957445bc2b85d97eaf859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Snowman Leader.prefab using Guid(2ec08ff9478957445bc2b85d97eaf859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed91f8ba2041c865670e972b8ca17ef') in 0.011946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Prefabs/Battle/Enemies/High Orc.prefab
+  artifactKey: Guid(41b81f5506e6dd144b643bf7c97a0b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/High Orc.prefab using Guid(41b81f5506e6dd144b643bf7c97a0b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa64067e645efc50753f4747f4c6698') in 0.007733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Spider.prefab
+  artifactKey: Guid(15bae25ce556b8f479797d2ba8d0ebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Spider.prefab using Guid(15bae25ce556b8f479797d2ba8d0ebb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba7d24542c56993254ba227584c4837') in 0.008905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Goblin.prefab
+  artifactKey: Guid(3d30b72679fa7cd4cbbca74536754bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Goblin.prefab using Guid(3d30b72679fa7cd4cbbca74536754bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f444781c982ccfb75568e7452e8df775') in 0.015915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Dark Mage.prefab
+  artifactKey: Guid(a289eee46a7e9354394d3c419937d298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Dark Mage.prefab using Guid(a289eee46a7e9354394d3c419937d298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d3f411b8651dd002f74a5e58a6e8ad') in 0.007813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Flower Snake.prefab
+  artifactKey: Guid(0e35bcd881ffaeb48ab03bbb53797706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Flower Snake.prefab using Guid(0e35bcd881ffaeb48ab03bbb53797706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0315c2a656cff33c7dcd47ce9c25ee5') in 0.010162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Snowman.prefab
+  artifactKey: Guid(9f7b3ca0a5a42bf4d9e1848b5519925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Snowman.prefab using Guid(9f7b3ca0a5a42bf4d9e1848b5519925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca3a6edd29b57c193568cac66992458') in 0.007931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Stinger.prefab
+  artifactKey: Guid(05a5c7b99360e5d44a69502b67a7a0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Stinger.prefab using Guid(05a5c7b99360e5d44a69502b67a7a0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64105d201e4d9e6afb4a95a0522a1da7') in 0.013839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.816198 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Snowman 1.prefab
+  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Snowman 1.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e1a607eca5fe5ed71de3264aa4a6ad') in 0.012108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.392621 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
+  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcb5d677236ce7926cbe0e8106dbf48') in 0.008747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.807324 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
+  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12acfcb134709948fd0b23ce84b3945') in 0.009576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.270978 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
+  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c89829f06ccf07fa55fdf71b797ddf') in 0.013566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 155.456646 seconds.
+  path: Assets/Prefabs/Items/Adamantite Armor.prefab
+  artifactKey: Guid(4a98d4993adaa13428950e0d57145877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Adamantite Armor.prefab using Guid(4a98d4993adaa13428950e0d57145877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08796146ee4daf7d2faf888dfb8a5c61') in 0.010964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Prefabs/Items/Great Potion.prefab
+  artifactKey: Guid(7a125def5c5c86c4ab6063eec45593ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Great Potion.prefab using Guid(7a125def5c5c86c4ab6063eec45593ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c4a7f40796ec4e6a89d64270e78b4b') in 0.008265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Prefabs/Items/Mythical Sword.prefab
+  artifactKey: Guid(ff6cce27db9f02c4ea739824cd7a5250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythical Sword.prefab using Guid(ff6cce27db9f02c4ea739824cd7a5250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99f51b411df8637c2882231223213a6') in 0.028622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Prefabs/Items/Leather Armor.prefab
+  artifactKey: Guid(fee823344c6b9fe408bffeca3feb7642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Leather Armor.prefab using Guid(fee823344c6b9fe408bffeca3feb7642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b75e526ee0b93177bc1e307ce5dee5f') in 0.010410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Prefabs/Items/Champion Sword.prefab
+  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21b0a258fcae5f6a18243bebab3c20e2') in 0.008355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Prefabs/Items/Chaos Armor.prefab
+  artifactKey: Guid(35892bc9a45c67047868b5bc480dbd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Chaos Armor.prefab using Guid(35892bc9a45c67047868b5bc480dbd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc7c64d7b1fb153508907d33736f5cf') in 0.009322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Prefabs/Items/Iron Armor.prefab
+  artifactKey: Guid(c00acd72aa3bd0a47a0b1f47444d826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Iron Armor.prefab using Guid(c00acd72aa3bd0a47a0b1f47444d826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89becf9c248d136e60cd1bf5ce5ed58') in 0.008337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/Items/Health Potion.prefab
+  artifactKey: Guid(d7e477741d7413947af9f13f56758ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Health Potion.prefab using Guid(d7e477741d7413947af9f13f56758ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39c9a1ad12937d23dab3be1e1fc5825') in 0.015360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Prefabs/Items/Wooden Sword.prefab
+  artifactKey: Guid(9f1c7d2c9ab2a9243a2612c61c3fcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Wooden Sword.prefab using Guid(9f1c7d2c9ab2a9243a2612c61c3fcb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f40d02db60eee165f79d690e38508d') in 0.008528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Prefabs/Items/Iron Sword.prefab
+  artifactKey: Guid(5c9b2a056201695498b250c9bbe9c86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Iron Sword.prefab using Guid(5c9b2a056201695498b250c9bbe9c86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e982eb92292794460d4e6cefd5704c') in 0.009418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Prefabs/Items/Adamantite Sword.prefab
+  artifactKey: Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Adamantite Sword.prefab using Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4797f44d99dc5942c8bd5133226f3e3') in 0.007680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Prefabs/Items/Chaos Sword.prefab
+  artifactKey: Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Chaos Sword.prefab using Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2e816dcb50be0257beb19e57e253e8') in 0.008220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Prefabs/Items/Mythical Armor.prefab
+  artifactKey: Guid(fb89d8c82ee2c304d9652755126aa6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythical Armor.prefab using Guid(fb89d8c82ee2c304d9652755126aa6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333b6939b460440b4e2ea67459761e50') in 0.007911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b2cdcfaec6575ab405c01a4b3ee2cb') in 0.007431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Prefabs/Items/Mythril Armor.prefab
+  artifactKey: Guid(7553142ca03694748a62f90e862e221e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Armor.prefab using Guid(7553142ca03694748a62f90e862e221e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae63564b61125a6909ef888ae0437a2') in 0.009866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/Items/Platinum Sword.prefab
+  artifactKey: Guid(1606a9b84164820438417dfd819ba1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Platinum Sword.prefab using Guid(1606a9b84164820438417dfd819ba1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d56886a264e3c1a87f5bf78c83d3ba4') in 0.008174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Prefabs/Items/Champion Armor.prefab
+  artifactKey: Guid(a6021569061bfed479f7705d8f4a3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Armor.prefab using Guid(a6021569061bfed479f7705d8f4a3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4aa185295db149eae89a0b1fc277909') in 0.007820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Prefabs/Items/Platinum Armor.prefab
+  artifactKey: Guid(b71a7f694d0edbf49ae8b065435051e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Platinum Armor.prefab using Guid(b71a7f694d0edbf49ae8b065435051e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e904de3f1b45d02b3679048821b29130') in 0.008514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Prefabs/Items/Mana Potion.prefab
+  artifactKey: Guid(47136b4ec760f85419a4852974a52432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mana Potion.prefab using Guid(47136b4ec760f85419a4852974a52432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb485cbf7717448c49a1e1d554a8bd8') in 0.008443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 398.533795 seconds.
+  path: Assets/Art/ItemAssests/adamantite sword.png
+  artifactKey: Guid(551eeb2cf94e76f49adc68537ced7615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/adamantite sword.png using Guid(551eeb2cf94e76f49adc68537ced7615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817965b557496f8cc8a6d2662c369ad2') in 0.012426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Art/ItemAssests/plat and mythic sword.png
+  artifactKey: Guid(72d2619b5e0d7aa45a30154dc4c6e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/plat and mythic sword.png using Guid(72d2619b5e0d7aa45a30154dc4c6e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32d73ff627a828a4ae0d79f7c4348e2') in 0.012441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Art/ItemAssests/newpotions.png
+  artifactKey: Guid(67c7ec923c2dd694fbe891860da2e72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/newpotions.png using Guid(67c7ec923c2dd694fbe891860da2e72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b4bdea63cbf5ce5753325dba2f5029') in 0.042567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Art/ItemAssests/Stolen.png
+  artifactKey: Guid(3cf6bb46ffb1a9f4e906522b09f41a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/Stolen.png using Guid(3cf6bb46ffb1a9f4e906522b09f41a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c329f4662d977f86a558af1d608fc67') in 0.013959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Art/ItemAssests/Hell Equipment.png
+  artifactKey: Guid(03dd1ef6fb163214c9e1ac0242dab3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/Hell Equipment.png using Guid(03dd1ef6fb163214c9e1ac0242dab3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeea57a15312af0d4293c5b182bd332b') in 0.030640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Art/ItemAssests/greatpotions.png
+  artifactKey: Guid(45f07aa976f90e54e8c898311aea06d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/greatpotions.png using Guid(45f07aa976f90e54e8c898311aea06d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76fa08191f34b6319cd8c7c6fbcda1b') in 0.019248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Art/ItemAssests/stolen2.png
+  artifactKey: Guid(b9055fae991763a44b9cbc2ab8a17ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/stolen2.png using Guid(b9055fae991763a44b9cbc2ab8a17ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614c1af418839489812dd02e68986873') in 0.014760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.616434 seconds.
+  path: Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png
+  artifactKey: Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png using Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4b0c9a32dba548ada7891745f6ffe4') in 0.010149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.532072 seconds.
+  path: Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png
+  artifactKey: Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png using Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04a4262d82f89876a447bac63d95a45') in 0.008666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.180429 seconds.
+  path: Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png
+  artifactKey: Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png using Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d0c89898b4142f208e56c106e9f487') in 0.006587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.653713 seconds.
+  path: Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png
+  artifactKey: Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png using Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6623146bbed82acc00c406835c599070') in 0.169992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.001392 seconds.
+  path: Assets/Prefabs/Items/Champion Sword.prefab
+  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f95d0564d0506337cd07822ab9525b') in 0.008274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.715261 seconds.
+  path: Assets/Prefabs/Items/Champion Sword.prefab
+  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff36e75ee1722ea69c025e9b175ffec4') in 0.007331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.085117 seconds.
+  path: Assets/Prefabs/Items/Champion Sword.prefab
+  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0e37d23758b25fd305f9ba511f60d3') in 0.008041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.319477 seconds.
+  path: Assets/Prefabs/Items/Champion Sword.prefab
+  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d070be18f95d248f4bb696e31a22463') in 0.007561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 137.964104 seconds.
+  path: Assets/Art/ItemAssests/SomeSwords.png
+  artifactKey: Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/SomeSwords.png using Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c812b0305c7ac8c33de4491ceb9b4f8') in 0.014404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.995882 seconds.
+  path: Assets/Art/ItemAssests/SomeSwords.png
+  artifactKey: Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/SomeSwords.png using Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdddab74d9868c6d6b90e3537489bbe4') in 0.008730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 347.109528 seconds.
+  path: Assets/Art/ItemAssests/SomeSwords.png
+  artifactKey: Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/SomeSwords.png using Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6aba775392224921d88fb3dfc49564a') in 0.055585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.688844 seconds.
+  path: Assets/Prefabs/Items/Chaos Sword.prefab
+  artifactKey: Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Chaos Sword.prefab using Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8de74df4f2ea8e19aca1ffa6ec4dc7f') in 0.010363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.398260 seconds.
+  path: Assets/Prefabs/Items/Chaos Sword.prefab
+  artifactKey: Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Chaos Sword.prefab using Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491e9042bf7b595b87cd57505c432efa') in 0.007555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 700.363011 seconds.
+  path: Assets/Art/ItemAssests/mythrill sword.png
+  artifactKey: Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/mythrill sword.png using Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c948ff6edb51a47b8f1f6bb0c53cdd8') in 0.013503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.039445 seconds.
+  path: Assets/Art/ItemAssests/mythrill sword.png
+  artifactKey: Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/mythrill sword.png using Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b134136b8920f2c079da8ee6d8c211') in 0.010618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.588299 seconds.
+  path: Assets/Art/ItemAssests/mythrill sword.png
+  artifactKey: Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/mythrill sword.png using Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c616b3bd9fe74dc4a61d09803cba9c9a') in 0.007308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.006420 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c004ce8771715f1585c11a628e0f6cb4') in 0.007687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.172845 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ff2cbe8d47bad4141d32a9259f6734') in 0.008626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.954149 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11bbabb5ba740c94e517d8e8bdf16180') in 0.008547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.635968 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f38370b23edfa8ec5e36848844ce01e') in 0.009157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.963739 seconds.
+  path: Assets/Prefabs/Items/Mythril Sword.prefab
+  artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdc4ecab0f28c6c757bbc3bfc1f2b14') in 0.007342 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,2856 @@
+fileFormatVersion: 2
+guid: dc85406ad0f45f141afa7ce3a5961ba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6415248453620612171
+    second: The Conquest Tool Pack Lite_0
+  - first:
+      213: -3643424595585391040
+    second: The Conquest Tool Pack Lite_1
+  - first:
+      213: 3479696918579916792
+    second: The Conquest Tool Pack Lite_2
+  - first:
+      213: -3722617223501631857
+    second: The Conquest Tool Pack Lite_3
+  - first:
+      213: 2280572181455943507
+    second: The Conquest Tool Pack Lite_4
+  - first:
+      213: 3846459408876795932
+    second: The Conquest Tool Pack Lite_5
+  - first:
+      213: 8334935779546567178
+    second: The Conquest Tool Pack Lite_6
+  - first:
+      213: -354051618698594117
+    second: The Conquest Tool Pack Lite_7
+  - first:
+      213: -4138046712356750056
+    second: The Conquest Tool Pack Lite_8
+  - first:
+      213: -8703744053333860593
+    second: The Conquest Tool Pack Lite_9
+  - first:
+      213: 7320312201652747736
+    second: The Conquest Tool Pack Lite_10
+  - first:
+      213: -1183291148791581284
+    second: The Conquest Tool Pack Lite_11
+  - first:
+      213: 3358541899680231561
+    second: The Conquest Tool Pack Lite_12
+  - first:
+      213: -512034370065377156
+    second: The Conquest Tool Pack Lite_13
+  - first:
+      213: -8491708544277303839
+    second: The Conquest Tool Pack Lite_14
+  - first:
+      213: -2636762488354245954
+    second: The Conquest Tool Pack Lite_15
+  - first:
+      213: -7004656923203426737
+    second: The Conquest Tool Pack Lite_16
+  - first:
+      213: 1434588691935798460
+    second: The Conquest Tool Pack Lite_17
+  - first:
+      213: -1271698554574154149
+    second: The Conquest Tool Pack Lite_18
+  - first:
+      213: -805252755136343024
+    second: The Conquest Tool Pack Lite_19
+  - first:
+      213: 199590094562246059
+    second: The Conquest Tool Pack Lite_20
+  - first:
+      213: 8456284504847201458
+    second: The Conquest Tool Pack Lite_21
+  - first:
+      213: 2569641836444155393
+    second: The Conquest Tool Pack Lite_22
+  - first:
+      213: 137041040205187896
+    second: The Conquest Tool Pack Lite_23
+  - first:
+      213: 3785693249464008273
+    second: The Conquest Tool Pack Lite_24
+  - first:
+      213: -1759865269365929573
+    second: The Conquest Tool Pack Lite_25
+  - first:
+      213: 7817089582755438509
+    second: The Conquest Tool Pack Lite_26
+  - first:
+      213: -3686512578549037404
+    second: The Conquest Tool Pack Lite_27
+  - first:
+      213: 3515754465190286248
+    second: The Conquest Tool Pack Lite_28
+  - first:
+      213: -3033203867097164898
+    second: The Conquest Tool Pack Lite_29
+  - first:
+      213: 1651295072125929152
+    second: The Conquest Tool Pack Lite_30
+  - first:
+      213: 6026996539852522351
+    second: The Conquest Tool Pack Lite_31
+  - first:
+      213: -4541168482257664425
+    second: The Conquest Tool Pack Lite_32
+  - first:
+      213: 7074130211362785821
+    second: The Conquest Tool Pack Lite_33
+  - first:
+      213: 3569917873921500284
+    second: The Conquest Tool Pack Lite_34
+  - first:
+      213: 8416594109351359627
+    second: The Conquest Tool Pack Lite_35
+  - first:
+      213: 6895467946953302258
+    second: The Conquest Tool Pack Lite_36
+  - first:
+      213: 2335532776577087970
+    second: The Conquest Tool Pack Lite_37
+  - first:
+      213: -6832210640233121268
+    second: The Conquest Tool Pack Lite_38
+  - first:
+      213: -2898926563634968286
+    second: The Conquest Tool Pack Lite_39
+  - first:
+      213: -5269005556405764141
+    second: The Conquest Tool Pack Lite_40
+  - first:
+      213: -6606010829126480744
+    second: The Conquest Tool Pack Lite_41
+  - first:
+      213: 8605836071040737857
+    second: The Conquest Tool Pack Lite_42
+  - first:
+      213: -2795256754327748558
+    second: The Conquest Tool Pack Lite_43
+  - first:
+      213: 6825371196576541231
+    second: The Conquest Tool Pack Lite_44
+  - first:
+      213: 8631104275164560512
+    second: The Conquest Tool Pack Lite_45
+  - first:
+      213: 299520845849909349
+    second: The Conquest Tool Pack Lite_46
+  - first:
+      213: 2644887100210066529
+    second: The Conquest Tool Pack Lite_47
+  - first:
+      213: -7280858669480496992
+    second: The Conquest Tool Pack Lite_48
+  - first:
+      213: -370492606633423202
+    second: The Conquest Tool Pack Lite_49
+  - first:
+      213: 620158143372586974
+    second: The Conquest Tool Pack Lite_50
+  - first:
+      213: 3456648702786374466
+    second: The Conquest Tool Pack Lite_51
+  - first:
+      213: -5201560571007720602
+    second: The Conquest Tool Pack Lite_52
+  - first:
+      213: -259959680711809947
+    second: The Conquest Tool Pack Lite_53
+  - first:
+      213: 9160706573853610323
+    second: The Conquest Tool Pack Lite_54
+  - first:
+      213: -5109135097673352977
+    second: The Conquest Tool Pack Lite_55
+  - first:
+      213: 4250896712103418354
+    second: The Conquest Tool Pack Lite_56
+  - first:
+      213: -7639971206301412648
+    second: The Conquest Tool Pack Lite_57
+  - first:
+      213: -6878569541260145953
+    second: The Conquest Tool Pack Lite_58
+  - first:
+      213: -4167706182612670335
+    second: The Conquest Tool Pack Lite_59
+  - first:
+      213: 3886071413231360527
+    second: The Conquest Tool Pack Lite_60
+  - first:
+      213: 7966349227443491494
+    second: The Conquest Tool Pack Lite_61
+  - first:
+      213: -1389375187100243181
+    second: The Conquest Tool Pack Lite_62
+  - first:
+      213: 1798926116275350392
+    second: The Conquest Tool Pack Lite_63
+  - first:
+      213: 2449586446003018036
+    second: The Conquest Tool Pack Lite_64
+  - first:
+      213: 8353914643031191918
+    second: The Conquest Tool Pack Lite_65
+  - first:
+      213: 3818901144035661414
+    second: The Conquest Tool Pack Lite_66
+  - first:
+      213: -7144861167669591383
+    second: The Conquest Tool Pack Lite_67
+  - first:
+      213: 1230005570813270797
+    second: The Conquest Tool Pack Lite_68
+  - first:
+      213: 5858545217837757870
+    second: The Conquest Tool Pack Lite_69
+  - first:
+      213: 8620611051481708150
+    second: The Conquest Tool Pack Lite_70
+  - first:
+      213: 8899547655635936773
+    second: The Conquest Tool Pack Lite_71
+  - first:
+      213: -3173452669929791851
+    second: The Conquest Tool Pack Lite_72
+  - first:
+      213: 7097825504426836029
+    second: The Conquest Tool Pack Lite_73
+  - first:
+      213: -703105483967277682
+    second: The Conquest Tool Pack Lite_74
+  - first:
+      213: -5615636469829569944
+    second: The Conquest Tool Pack Lite_75
+  - first:
+      213: -499393452102086993
+    second: The Conquest Tool Pack Lite_76
+  - first:
+      213: -1121302832001975502
+    second: The Conquest Tool Pack Lite_77
+  - first:
+      213: 4136823285527684628
+    second: The Conquest Tool Pack Lite_78
+  - first:
+      213: 6482911245853376079
+    second: The Conquest Tool Pack Lite_79
+  - first:
+      213: 2028575789886503731
+    second: The Conquest Tool Pack Lite_80
+  - first:
+      213: 4090022311291932485
+    second: The Conquest Tool Pack Lite_81
+  - first:
+      213: -3649445592027694132
+    second: The Conquest Tool Pack Lite_82
+  - first:
+      213: -9016680167022592255
+    second: The Conquest Tool Pack Lite_83
+  - first:
+      213: 3741132565681371585
+    second: The Conquest Tool Pack Lite_84
+  - first:
+      213: -7265515442462383932
+    second: The Conquest Tool Pack Lite_85
+  - first:
+      213: -7071757167566720018
+    second: The Conquest Tool Pack Lite_86
+  - first:
+      213: -6918308760074101355
+    second: The Conquest Tool Pack Lite_87
+  - first:
+      213: 8552316605732860122
+    second: The Conquest Tool Pack Lite_88
+  - first:
+      213: -2496375772364765061
+    second: The Conquest Tool Pack Lite_89
+  - first:
+      213: -2805121584007400792
+    second: The Conquest Tool Pack Lite_90
+  - first:
+      213: -1364871528128612938
+    second: The Conquest Tool Pack Lite_91
+  - first:
+      213: 1353968997029382306
+    second: The Conquest Tool Pack Lite_92
+  - first:
+      213: -7719424702124147368
+    second: The Conquest Tool Pack Lite_93
+  - first:
+      213: 8271868944184328977
+    second: The Conquest Tool Pack Lite_94
+  - first:
+      213: 5971466062301239023
+    second: The Conquest Tool Pack Lite_95
+  - first:
+      213: -2529550533170684683
+    second: The Conquest Tool Pack Lite_96
+  - first:
+      213: 2292328262601288318
+    second: The Conquest Tool Pack Lite_97
+  - first:
+      213: 8019183518079977516
+    second: The Conquest Tool Pack Lite_98
+  - first:
+      213: -7009522777908277881
+    second: The Conquest Tool Pack Lite_99
+  - first:
+      213: 4868931008470137959
+    second: The Conquest Tool Pack Lite_100
+  - first:
+      213: -8429301188073738668
+    second: The Conquest Tool Pack Lite_101
+  - first:
+      213: 1248945541850410372
+    second: The Conquest Tool Pack Lite_102
+  - first:
+      213: 8627021644278177516
+    second: The Conquest Tool Pack Lite_103
+  - first:
+      213: 4269382021541317297
+    second: The Conquest Tool Pack Lite_104
+  - first:
+      213: 1186812574669721564
+    second: The Conquest Tool Pack Lite_105
+  - first:
+      213: 3682558575178382692
+    second: The Conquest Tool Pack Lite_106
+  - first:
+      213: -2359119801314666218
+    second: The Conquest Tool Pack Lite_107
+  - first:
+      213: 2765245545915294424
+    second: The Conquest Tool Pack Lite_108
+  - first:
+      213: -1987296226936028874
+    second: The Conquest Tool Pack Lite_109
+  - first:
+      213: -3227025471004059355
+    second: The Conquest Tool Pack Lite_110
+  - first:
+      213: 2245040427785326442
+    second: The Conquest Tool Pack Lite_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3ee7aa7a870950800000000000000
+      internalID: 6415248453620612171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046263e42a4ff6dc0800000000000000
+      internalID: -3643424595585391040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2af549ed5a4030800000000000000
+      internalID: 3479696918579916792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2f66cb5b965cc0800000000000000
+      internalID: -3722617223501631857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357b158e05836af10800000000000000
+      internalID: 2280572181455943507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187f05f37e516530800000000000000
+      internalID: 3846459408876795932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02119d5ee3aba370800000000000000
+      internalID: 8334935779546567178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8715bbde7261bf0800000000000000
+      internalID: -354051618698594117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db00e7074b296c0800000000000000
+      internalID: -4138046712356750056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fdd1dd5e6163780800000000000000
+      internalID: -8703744053333860593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3878a929f69560800000000000000
+      internalID: 7320312201652747736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f96238fa149fe0800000000000000
+      internalID: -1183291148791581284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b4bd3010fb9e20800000000000000
+      internalID: 3358541899680231561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78567b0473e4e8f0800000000000000
+      internalID: -512034370065377156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda33ae114672a80800000000000000
+      internalID: -8491708544277303839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f19cac76586bd0800000000000000
+      internalID: -2636762488354245954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46aafef3a57ace90800000000000000
+      internalID: -7004656923203426737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb420a580dea8e310800000000000000
+      internalID: 1434588691935798460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56da3107e40a5ee0800000000000000
+      internalID: -1271698554574154149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01491b7b2ea23d4f0800000000000000
+      internalID: -805252755136343024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 420
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb11f222615c200800000000000000
+      internalID: 199590094562246059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4be0f24f1ca5570800000000000000
+      internalID: 8456284504847201458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e7c3db2a339a320800000000000000
+      internalID: 2569641836444155393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8419991ed6e100800000000000000
+      internalID: 137041040205187896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e75e2f3fb798430800000000000000
+      internalID: 3785693249464008273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9985e69cd3b397e0800000000000000
+      internalID: -1759865269365929573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5b8d0f81eb7c60800000000000000
+      internalID: 7817089582755438509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 386
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6439f7750e6dcc0800000000000000
+      internalID: -3686512578549037404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3192f0f087ac030800000000000000
+      internalID: 3515754465190286248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93155a4725e7e5d0800000000000000
+      internalID: -3033203867097164898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64b618e149ae610800000000000000
+      internalID: 1651295072125929152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630b6cab6134a350800000000000000
+      internalID: 6026996539852522351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75605d553578af0c0800000000000000
+      internalID: -4541168482257664425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a432762fb5c2260800000000000000
+      internalID: 7074130211362785821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a8606465ea8130800000000000000
+      internalID: 3569917873921500284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84788adfbfbdc470800000000000000
+      internalID: 8416594109351359627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06e32609f91bf50800000000000000
+      internalID: 6895467946953302258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b825afaa796020800000000000000
+      internalID: 2335532776577087970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab24e0f9c1f21a0800000000000000
+      internalID: -6832210640233121268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229089846a1f4c7d0800000000000000
+      internalID: -2898926563634968286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfffd2ec5bb0e6b0800000000000000
+      internalID: -5269005556405764141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c488ba62cb254a0800000000000000
+      internalID: -6606010829126480744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14260a99f421e6770800000000000000
+      internalID: 8605836071040737857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308846bac04539d0800000000000000
+      internalID: -2795256754327748558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa020e0f698be50800000000000000
+      internalID: 6825371196576541231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf984db97d7c770800000000000000
+      internalID: 8631104275164560512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56855b35f9c182400800000000000000
+      internalID: 299520845849909349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164b80fedc684b420800000000000000
+      internalID: 2644887100210066529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0bac1ad9135fa90800000000000000
+      internalID: -7280858669480496992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec4bdefeebbdaf0800000000000000
+      internalID: -370492606633423202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe940bb8e3b9800800000000000000
+      internalID: 620158143372586974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b85ea5eab78ff20800000000000000
+      internalID: 3456648702786374466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663286f383850d7b0800000000000000
+      internalID: -5201560571007720602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564af373c00746cf0800000000000000
+      internalID: -259959680711809947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351512ae71e512f70800000000000000
+      internalID: 9160706573853610323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_55
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f2b1b2b4b819b0800000000000000
+      internalID: -5109135097673352977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9dcc599083efa30800000000000000
+      internalID: 4250896712103418354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2113a8aae59f590800000000000000
+      internalID: -7639971206301412648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0e5a42796a80a0800000000000000
+      internalID: -6878569541260145953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882c21fe455926c0800000000000000
+      internalID: -4167706182612670335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a947d6c591ee530800000000000000
+      internalID: 3886071413231360527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a21a723a682e8e60800000000000000
+      internalID: 7966349227443491494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be529e0a2f7bce0800000000000000
+      internalID: -1389375187100243181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be3c985c117f810800000000000000
+      internalID: 1798926116275350392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_64
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391f98e4edaef120800000000000000
+      internalID: 2449586446003018036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61fecd5b111fe370800000000000000
+      internalID: 8353914643031191918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666149a6b567ff430800000000000000
+      internalID: 3818901144035661414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a242938f9a58dc90800000000000000
+      internalID: -7144861167669591383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9310cc8bd11110800000000000000
+      internalID: 1230005570813270797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea578c1f5dbbd4150800000000000000
+      internalID: 5858545217837757870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676bf5ec31092a770800000000000000
+      internalID: 8620611051481708150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50627d3e07b818b70800000000000000
+      internalID: 8899547655635936773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed1514c91a5f3d0800000000000000
+      internalID: -3173452669929791851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c11db0ba808260800000000000000
+      internalID: 7097825504426836029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85508c99411e36f0800000000000000
+      internalID: -703105483967277682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862741432604112b0800000000000000
+      internalID: -5615636469829569944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae8c4c1d4cc119f0800000000000000
+      internalID: -499393452102086993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf1e4e3055070f0800000000000000
+      internalID: -1121302832001975502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41621704cd2f86930800000000000000
+      internalID: 4136823285527684628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb97f1e6de7f950800000000000000
+      internalID: 6482911245853376079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b742cdee2f62c10800000000000000
+      internalID: 2028575789886503731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4afb4f9da2c830800000000000000
+      internalID: 4090022311291932485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf214d1909a5dc0800000000000000
+      internalID: -3649445592027694132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ffe4719215ed280800000000000000
+      internalID: -9016680167022592255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c975134f3c2be330800000000000000
+      internalID: 3741132565681371585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c02aed0334bb2b90800000000000000
+      internalID: -7265515442462383932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3fc59e2521cdd90800000000000000
+      internalID: -7071757167566720018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5f4566da3dff90800000000000000
+      internalID: -6918308760074101355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b16b04aeefa670800000000000000
+      internalID: 8552316605732860122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788e4e16771b5dd0800000000000000
+      internalID: -2496375772364765061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2357118c43219d0800000000000000
+      internalID: -2805121584007400792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b579d993900f0de0800000000000000
+      internalID: -1364871528128612938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a804d011a34ac210800000000000000
+      internalID: 1353968997029382306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db387f1281fd490800000000000000
+      internalID: -7719424702124147368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11341be7af49bc270800000000000000
+      internalID: 8271868944184328977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe614c7deb8eed250800000000000000
+      internalID: 5971466062301239023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc16f4313b35ecd0800000000000000
+      internalID: -2529550533170684683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a20f8d86cffcf10800000000000000
+      internalID: 2292328262601288318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2803d71cecd94f60800000000000000
+      internalID: 8019183518079977516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d84c9eb2c29be90800000000000000
+      internalID: -7009522777908277881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c3fbb94fae19340800000000000000
+      internalID: 4868931008470137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2614da3b150b80800000000000000
+      internalID: -8429301188073738668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2dc56a55255110800000000000000
+      internalID: 1248945541850410372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9ec04a7659b770800000000000000
+      internalID: 8627021644278177516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac8641454ef3b30800000000000000
+      internalID: 4269382021541317297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_105
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc728afb7687010800000000000000
+      internalID: 1186812574669721564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d731a53831b1330800000000000000
+      internalID: 3682558575178382692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_107
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199c043a09b24fd0800000000000000
+      internalID: -2359119801314666218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d223015c20206620800000000000000
+      internalID: 2765245545915294424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631010a5c94bb64e0800000000000000
+      internalID: -1987296226936028874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_110
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295aaf7e6d4733d0800000000000000
+      internalID: -3227025471004059355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Conquest Tool Pack Lite_111
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0984df5cf72f10800000000000000
+      internalID: 2245040427785326442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
