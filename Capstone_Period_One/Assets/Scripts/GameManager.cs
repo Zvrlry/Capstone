@@ -243,7 +243,7 @@ public class GameManager : MonoBehaviour
             playerStats[i].armorPower = PlayerPrefs.GetInt("Player_" + playerStats[i].charName + "_ArmrPwr");
             playerStats[i].equippedWeapon = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedWpn");
             playerStats[i].equippedArmor = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedArmr");
-            // GameMenu.instance.UpdateMainStats();
+
             GameMenu.instance.ShowItems();
         }
 
