@@ -7524,6 +7524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe312d9464f897744bec088ef0b758c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  battleActive: 0
   battleScene: {fileID: 5405399372615109749}
   playerPositions:
   - {fileID: 5405399373392023652}
@@ -7549,6 +7550,11 @@ MonoBehaviour:
   - {fileID: 5436545612815476964, guid: ce4ad80cdf04f00418745fccfcd59f5a, type: 3}
   - {fileID: 5436545612815476964, guid: 15bae25ce556b8f479797d2ba8d0ebb9, type: 3}
   - {fileID: 5436545612815476964, guid: a289eee46a7e9354394d3c419937d298, type: 3}
+  - {fileID: 5436545612815476964, guid: 2ec08ff9478957445bc2b85d97eaf859, type: 3}
+  - {fileID: 5436545612815476964, guid: 9f7b3ca0a5a42bf4d9e1848b5519925f, type: 3}
+  - {fileID: 5436545612815476964, guid: b821885ee3dbc32448d46726e96e27e5, type: 3}
+  - {fileID: 5436545612815476964, guid: 41b81f5506e6dd144b643bf7c97a0b4b, type: 3}
+  - {fileID: 5436545612815476964, guid: 44f72e8b6c9307f4f8a89a73f0feb142, type: 3}
   activeBattlers: []
   currentTurn: 0
   turnWaiting: 0

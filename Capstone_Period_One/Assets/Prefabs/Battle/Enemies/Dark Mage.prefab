@@ -105,8 +105,8 @@ MonoBehaviour:
   charName: Dark Mage
   currentHp: 2000
   maxHp: 2000
-  currentMp: 10
-  maxMp: 10
+  currentMp: 100
+  maxMp: 100
   strength: 15
   defense: 25
   weaponPower: 15

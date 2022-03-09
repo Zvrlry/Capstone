@@ -99,11 +99,12 @@ MonoBehaviour:
   isPlayer: 0
   movesAvailable:
   - Slash
+  - Ice
   charName: Snowman
-  currentHp: 400
-  maxHp: 400
-  currentMp: 10
-  maxMp: 10
+  currentHp: 1500
+  maxHp: 1500
+  currentMp: 15
+  maxMp: 15
   strength: 15
   defense: 20
   weaponPower: 20
