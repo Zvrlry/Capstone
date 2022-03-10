@@ -19,6 +19,7 @@ public class EssentialsLoader : MonoBehaviour
         if (!PlayerController.instance)
         {
             PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();
+            PlayerController.instance.transform.position = this.transform.position;
         }
 
         if (!GameMenu.instance)
