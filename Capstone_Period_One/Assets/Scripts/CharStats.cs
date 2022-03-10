@@ -10,7 +10,7 @@ public class CharStats : MonoBehaviour
     public int playerLevel = 1;
     public int currentEXP;
     public int[] expToNextLevel;
-    public int maxLevel = 100;
+    public int maxLevel = 10000000;
     public int baseEXP = 1000;
 
     [Header("HP and MP")]
@@ -37,17 +37,14 @@ public class CharStats : MonoBehaviour
 
         for (int i = 2; i < expToNextLevel.Length; i++)
         {
-            expToNextLevel[i] = Mathf.FloorToInt(expToNextLevel[i - 1] * 1.05f); // multiplying each level by 1.05
+            expToNextLevel[i] = Mathf.FloorToInt(expToNextLevel[i - 1] * 1.25f); // multiplying each level by 1.05
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            AddExp(500);
-        }
+
     }
 
     public void AddExp(int expToAdd)
@@ -72,7 +69,7 @@ public class CharStats : MonoBehaviour
                     defence++; // odd
                 }
 
-                maxHP = Mathf.FloorToInt(maxHP * 1.05f);
+                maxHP = Mathf.FloorToInt(maxHP * 1.1f);
                 currentHP = maxHP;
 
                 maxMP += mpLvlBonus[playerLevel];

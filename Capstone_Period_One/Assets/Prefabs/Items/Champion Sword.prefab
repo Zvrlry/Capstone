@@ -110,7 +110,7 @@ MonoBehaviour:
   affectHP: 0
   affectMP: 0
   affectStrength: 0
-  weaponStrength: 500
+  weaponStrength: 250
   armorStrength: 0
 --- !u!114 &702709637
 MonoBehaviour:

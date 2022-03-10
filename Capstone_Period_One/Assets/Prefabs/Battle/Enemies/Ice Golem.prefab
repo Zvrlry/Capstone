@@ -101,12 +101,12 @@ MonoBehaviour:
   - Slash
   - Ice
   charName: Ice Golem
-  currentHp: 1500
-  maxHp: 1500
+  currentHp: 2500
+  maxHp: 2500
   currentMp: 15
   maxMp: 15
   strength: 15
-  defense: 20
+  defense: 30
   weaponPower: 20
   armorPower: 5
   hasDied: 0
