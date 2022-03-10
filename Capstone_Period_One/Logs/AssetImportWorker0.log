@@ -11,19 +11,19 @@ C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57707
-Successfully changed project path to: D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
-D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One
+64998
+Successfully changed project path to: C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
+C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 126.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 127.72 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Work/GitHubProjects/Capstone_1/Capstone/Capstone_Period_One/Assets
+[Subsystems] Discovering subsystems at path C:/Users/h5.j6/Documents/GitHub/Capstone/Capstone_Period_One/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,366 +35,139 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001943 seconds.
+Registered in 0.001877 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 126.12 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 121.92 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.403 seconds
+- Completed reload, in  1.195 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003157 seconds.
+Registered in 0.003169 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\h5.j6\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 125.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 135.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.083 seconds
+- Completed reload, in  1.128 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3407 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 128.9 MB.
 System memory in use after: 129.1 MB.
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3867.
-Total: 2.236200 ms (FindLiveObjects: 0.251100 ms CreateObjectMapping: 0.151000 ms MarkObjects: 1.777800 ms  DeleteObjects: 0.055500 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3868.
+Total: 2.840900 ms (FindLiveObjects: 0.278600 ms CreateObjectMapping: 0.194700 ms MarkObjects: 2.293500 ms  DeleteObjects: 0.073100 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Level_4.unity
-  artifactKey: Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_4.unity using Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd466a9deb586df19424278eb55aed594') in 0.049315 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003138 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.886 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.4 MB.
-System memory in use after: 128.6 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3871.
-Total: 2.225000 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.155400 ms MarkObjects: 1.809500 ms  DeleteObjects: 0.016800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 61.380804 seconds.
-  path: Assets/Prefabs/Items/Champion Sword.prefab
-  artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f577be59f90e78c01d871626e29aa5e4') in 0.163861 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/Prefabs/Items/Chaos Sword.prefab
-  artifactKey: Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Chaos Sword.prefab using Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb1912b25f7649bc1fe5c0dbdacf61d') in 0.051436 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 37.105748 seconds.
   path: Assets/Prefabs/Items/Mythril Sword.prefab
   artifactKey: Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347a1a8ff09b8d0ccacb3d9554eb8d17') in 0.075670 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003610 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.880 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3882.
-Total: 2.099900 ms (FindLiveObjects: 0.259000 ms CreateObjectMapping: 0.152300 ms MarkObjects: 1.674700 ms  DeleteObjects: 0.013200 ms)
-
+Start importing Assets/Prefabs/Items/Mythril Sword.prefab using Guid(5c1b1a93bc84a6644bc53749b879c8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347a1a8ff09b8d0ccacb3d9554eb8d17') in 0.120076 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 585.163233 seconds.
-  path: Assets/Prefabs/Items/Adamantite Sword.prefab
-  artifactKey: Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Adamantite Sword.prefab using Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75cd1e71e856e3967606d5abdb6f17b') in 0.101231 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 29.278404 seconds.
+  Time since last request: 157.289963 seconds.
   path: Assets/Prefabs/Items/Champion Sword.prefab
   artifactKey: Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909482a19cb49d02a1e4e0846549266a') in 0.079072 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003004 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.872 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3887.
-Total: 2.062800 ms (FindLiveObjects: 0.234600 ms CreateObjectMapping: 0.148800 ms MarkObjects: 1.666100 ms  DeleteObjects: 0.012600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003165 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\Work\GitHubProjects\Capstone_1\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.918 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.1 MB.
-System memory in use after: 132.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3891.
-Total: 2.427300 ms (FindLiveObjects: 0.269900 ms CreateObjectMapping: 0.178600 ms MarkObjects: 1.961400 ms  DeleteObjects: 0.016400 ms)
-
+Start importing Assets/Prefabs/Items/Champion Sword.prefab using Guid(03413ce34a561be4b90a1dfe6fdc193f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7019a1efb02275487f77932bba7cd3ea') in 0.014243 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1164.480939 seconds.
-  path: Assets/Scenes/Level_5.unity
-  artifactKey: Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_5.unity using Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f18d5759bc2ed38e016f322105904b') in 0.045669 seconds 
+  Time since last request: 0.000370 seconds.
+  path: Assets/Prefabs/Items/Chaos Sword.prefab
+  artifactKey: Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Chaos Sword.prefab using Guid(25850125e4c218f4ba74211fdded8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb1912b25f7649bc1fe5c0dbdacf61d') in 0.007961 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.268693 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
-  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ec40dcfb5b7341ef4acb17336f5c0c') in 0.104547 seconds 
+  Time since last request: 0.091862 seconds.
+  path: Assets/Prefabs/Items/Adamantite Sword.prefab
+  artifactKey: Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Adamantite Sword.prefab using Guid(25586553fbe83fe428f9eb5a0eb6c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04b1ceecfb57bd25c478be2fdd4743d') in 0.013584 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.317235 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
-  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c843fba4994a5b0f686687a24c8f80ed') in 0.067082 seconds 
+  Time since last request: 0.000224 seconds.
+  path: Assets/Prefabs/Items/Champion Armor.prefab
+  artifactKey: Guid(a6021569061bfed479f7705d8f4a3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Champion Armor.prefab using Guid(a6021569061bfed479f7705d8f4a3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4aa185295db149eae89a0b1fc277909') in 0.009234 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.702013 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
-  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27461947c550e7e957e54bcad86c779b') in 0.061041 seconds 
+  Time since last request: 8.237550 seconds.
+  path: Assets/Art/ItemAssests/mythrill sword.png
+  artifactKey: Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/mythrill sword.png using Guid(6833e8e640fc0ca44b7685b993ea0c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb8da35e07c17647d9bb26d0f13d4fb') in 0.086128 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.598775 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
-  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eee97172d05776b33287c4a8553fcf0') in 0.063858 seconds 
+  Time since last request: 0.000264 seconds.
+  path: Assets/Art/ItemAssests/SomeSwords.png
+  artifactKey: Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/SomeSwords.png using Guid(af7fd59675fb69447bd38558c05244f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718c70efee060044272b96dfdbc8fdca') in 0.041928 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.678389 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Ice Golem.prefab
-  artifactKey: Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Ice Golem.prefab using Guid(e49bb46fd9129c740b4c45e8187eb995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7f3250b0ccb5df944d3ce0266e926c') in 0.061020 seconds 
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png
+  artifactKey: Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/The Conquest Tool Pack Lite.png using Guid(dc85406ad0f45f141afa7ce3a5961ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1830e035562adaad125fa6c62828ebec') in 0.134623 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 546.576146 seconds.
-  path: Assets/Scenes/Level_10.unity
-  artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a172489a29a6e4217900a55207624a3') in 0.028702 seconds 
+  Time since last request: 271.220743 seconds.
+  path: Assets/Art/ItemAssests/2020 swords.png
+  artifactKey: Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/2020 swords.png using Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef9e51459e81e958259ac01585b199f') in 0.019506 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.754360 seconds.
-  path: Assets/Scenes/Level_7.unity
-  artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d594e404e80f41eb1decd213bb062ce') in 0.023914 seconds 
+  Time since last request: 7.156454 seconds.
+  path: Assets/Art/ItemAssests/2020 swords.png
+  artifactKey: Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/2020 swords.png using Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1753cd54b77859a0387884bec43b09b') in 0.006734 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.515821 seconds.
-  path: Assets/Scenes/Level_8.unity
-  artifactKey: Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_8.unity using Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04cc3516539c49cdde9d2af6856dd038') in 0.024106 seconds 
+  Time since last request: 106.200711 seconds.
+  path: Assets/Art/ItemAssests/2020 swords.png
+  artifactKey: Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ItemAssests/2020 swords.png using Guid(7b0f1df6bf1d21f4e88098027f11e384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e66b94bb7c5b9524fb8ee7fa3162cc') in 0.019840 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 10.363235 seconds.
-  path: Assets/Scenes/Level_5.unity
-  artifactKey: Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_5.unity using Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be7135e86d17002bb63f81941519213') in 0.035839 seconds 
+  Time since last request: 24.009619 seconds.
+  path: Assets/Prefabs/Items/Adamantite Sword 1.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Adamantite Sword 1.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8155a75decea3cd8cf15b0c2a51e6a') in 0.007724 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.263059 seconds.
-  path: Assets/Scenes/Level_8.unity
-  artifactKey: Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_8.unity using Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcc6348ef095a84df6baa1c17c51297') in 0.030676 seconds 
+  Time since last request: 13.986368 seconds.
+  path: Assets/Prefabs/Items/Snow Sword.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Snow Sword.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b605f01fdb16b282d592c35c7bdc8fba') in 0.008235 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 33.802042 seconds.
-  path: Assets/Prefabs/BattleManager.prefab
-  artifactKey: Guid(981678c25678995488056e3e80a62ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/BattleManager.prefab using Guid(981678c25678995488056e3e80a62ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75dc8d9d0451558e05746e1a8da1a5c3') in 0.089102 seconds 
+  Time since last request: 23.357115 seconds.
+  path: Assets/Prefabs/Items/Snow Sword.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Snow Sword.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b534f5b069779d8a96a17a8d98afd68f') in 0.008601 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(8f38b15822af1684b8c1eb6e543e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(8f38b15822af1684b8c1eb6e543e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c154f1fe025bb7d7fdfff36b2aa6bd28') in 0.066326 seconds 
+  Time since last request: 8.492468 seconds.
+  path: Assets/Prefabs/Items/Ice sword.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Ice sword.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eff46331d17f79d9eb257792a88ec9a') in 0.008205 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.452140 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3fbf1dbde3d1cebbeda84888be82f9e') in 0.065719 seconds 
+  Time since last request: 12.067186 seconds.
+  path: Assets/Prefabs/Items/Ice sword.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Ice sword.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30985b029bf86bc5992e494b8cf5757d') in 0.008220 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.843429 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5675c4556adee96ad546375d6f7bb1') in 0.050758 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.040855 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Supreme Mage 1.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b85adad28fbea031f0927cc27ca5f616') in 0.054467 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.126843 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61dd039ea54f0f3db71598083aa4581') in 0.052568 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.861768 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3c57d2c6d128bbc9da3be6d70d43f9') in 0.059335 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.235155 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png
-  artifactKey: Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/VX/tilesets/SRW_FireDungeon_autotile_A1.png using Guid(286d52b6719044847b7096c9bace2e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac574f183293ac393e0533dbdca6e763') in 0.509344 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_tileset_C.png
-  artifactKey: Guid(0c25a0c422aa38a4d8b5f9cfbbf811ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_tileset_C.png using Guid(0c25a0c422aa38a4d8b5f9cfbbf811ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75326bf17456185a680216d9980a1e8') in 0.083086 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_tileset_B.png
-  artifactKey: Guid(8926438cd6d5e354f9249a6251b08290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_tileset_B.png using Guid(8926438cd6d5e354f9249a6251b08290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a52c1956eb2b1e570f8c0d72432cce1b') in 0.070537 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_autotile_A2.png
-  artifactKey: Guid(1cd67363785c9ef4d8920b740de367ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Package_Fire_Dungeon_week34/Package_Fire_Dungeon/rpgmaker/MV/tilesets/SRW_FireDungeon_autotile_A2.png using Guid(1cd67363785c9ef4d8920b740de367ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a5c1d31b3ad2bcc270fec0e5eceb7d') in 0.072884 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.311513 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea947510fd2a71b47dd5e88ad330c6f7') in 0.052628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.071655 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1adcbeed1f558d147b5d04baedefed4b') in 0.047034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.465230 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a896710b2a7f7094cc41fb4a2501c7fb') in 0.053174 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.177434 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ada62cc989dfa420ac0b14dd076705') in 0.055730 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.086390 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750a8c3ee690598cd6f0add8f24b1f15') in 0.059768 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.871351 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40bab7adafe7abbbe2c4b9afc0bb682') in 0.051191 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.085462 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcf3f2fdaed968f1091d6a8396450ed') in 0.058332 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.616384 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91adbf31c474e21cb0ff2170a60eda4f') in 0.060377 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.858283 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8816acb46c8999b382595423e47272') in 0.051067 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.119583 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d7fb6e8bb0e37d6e9f258871c6e5a3') in 0.055595 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.759873 seconds.
-  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
-  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ea0f4dcba0a9ba8a81bf1de9fbe837') in 0.070166 seconds 
+  Time since last request: 3.281747 seconds.
+  path: Assets/Prefabs/Items/Ice sword.prefab
+  artifactKey: Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Ice sword.prefab using Guid(fe555f2d4c9455044aab10ed5a3236d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53282851703efb8dbc0e126d4dbe38df') in 0.007093 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
