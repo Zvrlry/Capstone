@@ -106,10 +106,10 @@ MonoBehaviour:
   description: Too Much?
   value: 1000
   itemSprite: {fileID: 7941655418127038725, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
-  amountToChange: 250
-  affectHP: 1
-  affectMP: 1
-  affectStrength: 1
+  amountToChange: 0
+  affectHP: 0
+  affectMP: 0
+  affectStrength: 0
   weaponStrength: 0
   armorStrength: 500
 --- !u!95 &1949483258

@@ -106,10 +106,10 @@ MonoBehaviour:
   description: Wowza thats strong!
   value: 500
   itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
-  amountToChange: 100
-  affectHP: 1
-  affectMP: 1
-  affectStrength: 1
+  amountToChange: 0
+  affectHP: 0
+  affectMP: 0
+  affectStrength: 0
   weaponStrength: 0
   armorStrength: 1000
 --- !u!95 &1949483258

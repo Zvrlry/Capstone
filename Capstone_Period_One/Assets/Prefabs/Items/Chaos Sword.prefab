@@ -104,13 +104,13 @@ MonoBehaviour:
   isArmour: 0
   itemName: Chaos Sword
   description: Stronger Than Mythical
-  value: 2000
+  value: 5000
   itemSprite: {fileID: 6124634772044906761, guid: af7fd59675fb69447bd38558c05244f8, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0
   affectStrength: 0
-  weaponStrength: 1000
+  weaponStrength: 2000
   armorStrength: 0
 --- !u!114 &702709637
 MonoBehaviour:

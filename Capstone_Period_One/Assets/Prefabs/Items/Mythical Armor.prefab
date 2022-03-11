@@ -106,10 +106,10 @@ MonoBehaviour:
   description: Can you even get hurt?
   value: 400
   itemSprite: {fileID: -3780058019898647797, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
-  amountToChange: 100
-  affectHP: 1
-  affectMP: 1
-  affectStrength: 1
+  amountToChange: 0
+  affectHP: 0
+  affectMP: 0
+  affectStrength: 0
   weaponStrength: 0
   armorStrength: 200
 --- !u!95 &1949483258

@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 0
   itemName: Wooden Sword
   description: Easily Broken but Not Useless
-  value: 25
+  value: 12
   itemSprite: {fileID: -2178467043915682464, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
   amountToChange: 50
   affectHP: 0
