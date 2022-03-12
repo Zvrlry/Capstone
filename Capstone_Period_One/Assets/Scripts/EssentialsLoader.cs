@@ -12,28 +12,26 @@ public class EssentialsLoader : MonoBehaviour
 
 
     // Start is called before the first frame update
-    void Awake()
+    void Start()
     {
-     
+
         if (!PlayerController.instance)
         {
             PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();
-
         }
-
-        if (GameManager.instance == null)
-        {
-            GameManager.instance = Instantiate(gameManager).GetComponent<GameManager>();
-        }
-
-        
 
         if (!GameMenu.instance)
         {
             GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
         }
 
-       
+
+        if (GameManager.instance == null)
+        {
+            GameManager.instance = Instantiate(gameManager).GetComponent<GameManager>();
+        }
+
+      
 
         // if (BattleManager.instance == null)
         // {
