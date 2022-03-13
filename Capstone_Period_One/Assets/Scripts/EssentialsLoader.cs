@@ -20,10 +20,7 @@ public class EssentialsLoader : MonoBehaviour
             PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();
         }
 
-        if (!GameMenu.instance)
-        {
-            GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
-        }
+
 
 
         if (GameManager.instance == null)
@@ -31,7 +28,12 @@ public class EssentialsLoader : MonoBehaviour
             GameManager.instance = Instantiate(gameManager).GetComponent<GameManager>();
         }
 
-      
+
+
+        if (!GameMenu.instance)
+        {
+            GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
+        }
 
         // if (BattleManager.instance == null)
         // {
