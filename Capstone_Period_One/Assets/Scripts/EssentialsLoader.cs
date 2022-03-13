@@ -9,18 +9,21 @@ public class EssentialsLoader : MonoBehaviour
     public GameObject UIScreen;
     public GameObject gameManager;
 
-
+    
 
     // Start is called before the first frame update
     void Start()
     {
         Debug.Log(PlayerController.instance);
-        if (!PlayerController.instance)
-        {
-            PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();
+        if (PlayerController.instance == null)
+        {     
+                PlayerController.instance = Instantiate(player).GetComponent<PlayerController>();    
         }
 
-
+        if (GameMenu.instance == null)
+        {       
+                GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
+        }
 
 
         if (GameManager.instance == null)
@@ -30,10 +33,7 @@ public class EssentialsLoader : MonoBehaviour
 
 
 
-        if (!GameMenu.instance)
-        {
-            GameMenu.instance = Instantiate(UIScreen).GetComponent<GameMenu>();
-        }
+       
 
         // if (BattleManager.instance == null)
         // {
