@@ -105,8 +105,8 @@ MonoBehaviour:
   charName: Dragon
   currentHp: 10000
   maxHp: 10000
-  currentMp: 100
-  maxMp: 100
+  currentMp: 200
+  maxMp: 200
   strength: 250
   defense: 20
   weaponPower: 250
