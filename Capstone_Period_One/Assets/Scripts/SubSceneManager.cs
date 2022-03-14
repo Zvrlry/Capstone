@@ -7,10 +7,14 @@ public class SubSceneManager : MonoBehaviour
 
     public Transform otherPosition;
     private PlayerController player;
-
-    public void Start()
+    bool canRun = true;
+    public void Update()
     {
-        player = FindObjectOfType<PlayerController>();
+        if (canRun && PlayerController.instance)
+        {
+            player = FindObjectOfType<PlayerController>();
+            canRun = false;
+        }
     }
     public void OnTriggerEnter2D(Collider2D other)
     {
