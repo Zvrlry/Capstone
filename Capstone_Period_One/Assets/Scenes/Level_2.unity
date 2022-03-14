@@ -218,7 +218,7 @@ MonoBehaviour:
     - Health Potion
   - enemies:
     - Stinger
-    - Flower Snake
+    - Goblin
     - Goblin
     - Flower Snake
     - Stinger
@@ -239,7 +239,7 @@ MonoBehaviour:
     - Health Potion
   - enemies:
     - Stinger
-    - Flower Snake
+    - Stinger
     - Goblin
     - Flower Snake
     - Stinger
@@ -249,9 +249,9 @@ MonoBehaviour:
     - Mana Potion
   - enemies:
     - Stinger
-    - Flower Snake
+    - Thug
     - Goblin
-    - Flower Snake
+    - Thug
     - Stinger
     rewardXP: 750
     rewardItems:
@@ -261,8 +261,19 @@ MonoBehaviour:
     - Stinger
     - Flower Snake
     - Goblin
-    - Flower Snake
-    - Stinger
+    - Thug
+    - Thug
+    rewardXP: 750
+    rewardItems:
+    - Health Potion
+    - Mana Potion
+    - Health Potion
+  - enemies:
+    - Goblin
+    - Goblin
+    - Goblin
+    - Thug
+    - Thug
     rewardXP: 750
     rewardItems:
     - Health Potion
@@ -272,7 +283,7 @@ MonoBehaviour:
     - Stinger
     - Flower Snake
     - Goblin
-    - Flower Snake
+    - Eyeball
     - Stinger
     rewardXP: 750
     rewardItems:
@@ -280,20 +291,9 @@ MonoBehaviour:
     - Mana Potion
     - Health Potion
   - enemies:
+    - Eyeball
+    - Eyeball
     - Stinger
-    - Flower Snake
-    - Goblin
-    - Flower Snake
-    - Stinger
-    rewardXP: 750
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Health Potion
-  - enemies:
-    - Stinger
-    - Flower Snake
-    - Goblin
     - Flower Snake
     - Stinger
     rewardXP: 750

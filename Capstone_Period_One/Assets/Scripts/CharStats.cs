@@ -37,7 +37,7 @@ public class CharStats : MonoBehaviour
 
         for (int i = 2; i < expToNextLevel.Length; i++)
         {
-            expToNextLevel[i] = Mathf.FloorToInt(expToNextLevel[i - 1] * 1.25f); // multiplying each level by 1.05
+            expToNextLevel[i] = Mathf.FloorToInt(expToNextLevel[i - 1] * 1.70f); // multiplying each level by 1.75
         }
     }
 
