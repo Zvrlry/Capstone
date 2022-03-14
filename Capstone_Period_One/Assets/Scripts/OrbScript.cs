@@ -5,7 +5,7 @@ using UnityEngine;
 public class OrbScript : MonoBehaviour
 {
     public AreaExit areaExit;
-
+    
     public void Start()
     {
         areaExit = GameObject.Find("Area Exit").GetComponent<AreaExit>();

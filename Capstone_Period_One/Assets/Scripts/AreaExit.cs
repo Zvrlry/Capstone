@@ -29,7 +29,7 @@ public class AreaExit : MonoBehaviour
     {
         SceneTransition();
 
-       if(orbCollected >= 5)
+       if(orbCollected >= 3)
         {
             shouldLoadAfterFade = true;
         }
