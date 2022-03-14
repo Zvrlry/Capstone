@@ -53,7 +53,7 @@ public class CharStats : MonoBehaviour
 
         if (playerLevel < maxLevel)
         {
-            if (currentEXP > expToNextLevel[playerLevel])
+            if (currentEXP >= expToNextLevel[playerLevel])
             {
                 currentEXP -= expToNextLevel[playerLevel]; // subtracting current exp
 

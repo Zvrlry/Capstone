@@ -56,9 +56,6 @@ public class DialogActivator : MonoBehaviour
             interactText.SetActive(false);
             canActivate = false;
         }
-
-
-        
     }
     public void InteractTextSet()
     {

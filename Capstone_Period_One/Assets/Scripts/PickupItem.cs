@@ -6,6 +6,13 @@ public class PickupItem : MonoBehaviour
 {
     private bool canPickup;
 
+
+
+    [HideInInspector]
+    public GameObject uiCanvas;
+    public GameObject interactText;
+
+    public bool canRun = true;
     // Use this for initialization
     void Start()
     {
@@ -20,12 +27,19 @@ public class PickupItem : MonoBehaviour
             GameManager.instance.AddItem(GetComponent<Item>().itemName);
             Destroy(gameObject);
         }
+
+
+        if (canRun && GameMenu.instance)
+        {
+            InteractText();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
+            interactText.SetActive(true);
             canPickup = true;
         }
     }
@@ -34,7 +48,15 @@ public class PickupItem : MonoBehaviour
     {
         if (other.tag == "Player")
         {
+            interactText.SetActive(false);
             canPickup = false;
         }
+    }
+
+    public void InteractText()
+    {
+        uiCanvas = GameObject.Find("UI Canvas(Clone)");
+        interactText = uiCanvas.transform.GetChild(0).gameObject;
+        canRun = false;
     }
 }

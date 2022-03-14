@@ -35,6 +35,9 @@ public class GameMenu : MonoBehaviour
 
     public string mainMenuName;
 
+    public GameObject enteringZone;
+    public GameObject exitingZone;
+
     // Use this for initialization
     void Start()
     {
@@ -263,5 +266,27 @@ public class GameMenu : MonoBehaviour
         Destroy(PlayerController.instance.gameObject);
         // Destroy(AudioManager.instance.gameObject);
         Destroy(gameObject);
+    }
+    public IEnumerator EnteringBattleZone()
+    {
+        enteringZone.SetActive(true);
+        yield return new WaitForSeconds(3f);
+        enteringZone.SetActive(false);
+    }
+    public IEnumerator ExitingBattleZone()
+    {
+        exitingZone.SetActive(true);
+        yield return new WaitForSeconds(3f);
+        exitingZone.SetActive(false);
+    }
+
+    public void EnterBattleZone()
+    {
+        StartCoroutine(EnteringBattleZone());
+    }
+
+    public void ExitBattleZone()
+    {
+        StartCoroutine(ExitingBattleZone());
     }
 }

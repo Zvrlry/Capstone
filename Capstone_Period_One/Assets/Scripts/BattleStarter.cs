@@ -34,7 +34,7 @@ public class BattleStarter : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
@@ -45,11 +45,12 @@ public class BattleStarter : MonoBehaviour
             else
             {
                 isArea = true;
+                GameMenu.instance.EnterBattleZone();
             }
         }
     }
 
-    void OnTriggerExit2D(Collider2D other)
+    public void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
@@ -57,9 +58,17 @@ public class BattleStarter : MonoBehaviour
             {
                 StartCoroutine(StartBattleCo());
             }
+            else if(isArea == true)
+            {
+                GameMenu.instance.ExitBattleZone();
+                isArea = false;
+            }
             else
             {
+                
+               
                 isArea = false;
+               
             }
         }
     }
