@@ -42,7 +42,8 @@ public class Shopkeeper : MonoBehaviour
         if(other.tag == "Player")
         {
             interactText.SetActive(true);
-            canOpen = true; 
+            canOpen = true;
+            GameMenu.instance.canOpen = false;
         }
     }
 
@@ -51,7 +52,8 @@ public class Shopkeeper : MonoBehaviour
         if(other.tag == "Player")
         {
             interactText.SetActive(false);
-            canOpen = false; 
+            canOpen = false;
+            GameMenu.instance.canOpen = true;
         }
     }
 

@@ -29,6 +29,7 @@ public class DialogActivator : MonoBehaviour
     {
         if (canActivate && Input.GetButtonDown("Fire1") && !DialogManager.instance.dialogBox.activeInHierarchy)
         {
+
             interactText.SetActive(false);
             DialogManager.instance.ShowDialog(lines, isPerson);
             DialogManager.instance.ShouldActivateQuestAtEnd(questToMark, markComplete);
@@ -46,6 +47,7 @@ public class DialogActivator : MonoBehaviour
         {
             interactText.SetActive(true);
             canActivate = true;
+            GameMenu.instance.canOpen = false;
         }
     }
 
@@ -55,6 +57,7 @@ public class DialogActivator : MonoBehaviour
         {
             interactText.SetActive(false);
             canActivate = false;
+            GameMenu.instance.canOpen = true;
         }
     }
     public void InteractTextSet()

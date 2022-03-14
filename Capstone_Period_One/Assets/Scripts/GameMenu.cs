@@ -38,6 +38,7 @@ public class GameMenu : MonoBehaviour
     public GameObject enteringZone;
     public GameObject exitingZone;
 
+    public bool canOpen = true;
     // Use this for initialization
     void Start()
     {
@@ -60,9 +61,12 @@ public class GameMenu : MonoBehaviour
             }
             else
             {
-                theMenu.SetActive(true);
-                UpdateMainStats();
-                GameManager.instance.gameMenuOpen = true;
+                if (canOpen)
+                {
+                    theMenu.SetActive(true);
+                    UpdateMainStats();
+                    GameManager.instance.gameMenuOpen = true;
+                }
             }
 
             // AudioManager.instance.PlaySFX(5);

@@ -75,6 +75,7 @@ public class BattleStarter : MonoBehaviour
 
     public IEnumerator StartBattleCo()
     {
+        GameMenu.instance.canOpen = false;
         GameManager.instance.battleActive = true;
         int selectedBattle = Random.Range(0, potentialBattles.Length);
         BattleManager.instance.rewardItems = potentialBattles[selectedBattle].rewardItems;

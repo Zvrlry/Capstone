@@ -426,6 +426,7 @@ public class BattleManager : MonoBehaviour
     public IEnumerator EndBattleCo()
     {
         // end battle
+        GameMenu.instance.canOpen = true;
         battleActive = false;
         uiButtonsHolder.SetActive(false);
         targetMenu.SetActive(false);

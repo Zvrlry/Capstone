@@ -37,6 +37,7 @@ public class Shop : MonoBehaviour
 
     public void OpenShop()
     {
+        
         shopMenu.SetActive(true);
         OpenBuyMenu();
 
@@ -47,6 +48,7 @@ public class Shop : MonoBehaviour
 
     public void CloseShop()
     {
+        
         shopMenu.SetActive(false);
         GameManager.instance.shopActive = false;
     }

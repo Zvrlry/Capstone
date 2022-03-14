@@ -356,6 +356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BattleManager
       objectReference: {fileID: 0}
+    - target: {fileID: 5405399373783000727, guid: 981678c25678995488056e3e80a62ede, type: 3}
+      propertyPath: chanceToFlee
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 981678c25678995488056e3e80a62ede, type: 3}
 --- !u!1 &477501691

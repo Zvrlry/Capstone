@@ -103,13 +103,13 @@ MonoBehaviour:
   - Ice
   - Plasma
   charName: Dragon
-  currentHp: 6000
-  maxHp: 6000
+  currentHp: 10000
+  maxHp: 10000
   currentMp: 100
   maxMp: 100
-  strength: 20
+  strength: 250
   defense: 20
-  weaponPower: 25
+  weaponPower: 250
   armorPower: 5
   hasDied: 0
   theSprite: {fileID: 5628120268786336793}

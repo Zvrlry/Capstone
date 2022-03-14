@@ -793,6 +793,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BattleManager
       objectReference: {fileID: 0}
+    - target: {fileID: 5405399373783000727, guid: 981678c25678995488056e3e80a62ede, type: 3}
+      propertyPath: chanceToFlee
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 5405399373832096672, guid: 981678c25678995488056e3e80a62ede, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
