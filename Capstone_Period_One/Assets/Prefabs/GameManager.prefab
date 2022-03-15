@@ -50,7 +50,6 @@ MonoBehaviour:
   playerStats:
   - {fileID: 5714524021939546261}
   - {fileID: 8835295495178176886}
-  - {fileID: 7650294038568953440}
   gameMenuOpen: 0
   dialogActive: 0
   fadingBetweenAreas: 0
