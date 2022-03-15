@@ -218,27 +218,6 @@ MonoBehaviour:
     - Health Potion
   - enemies:
     - Stinger
-    - Goblin
-    - Goblin
-    - Flower Snake
-    - Stinger
-    rewardXP: 750
-    rewardItems:
-    - Platinum Armor
-    - Mana Potion
-  - enemies:
-    - Stinger
-    - Flower Snake
-    - Goblin
-    - Flower Snake
-    - Stinger
-    rewardXP: 750
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Health Potion
-  - enemies:
-    - Stinger
     - Stinger
     - Goblin
     - Flower Snake
@@ -249,9 +228,9 @@ MonoBehaviour:
     - Mana Potion
   - enemies:
     - Stinger
-    - Thug
     - Goblin
-    - Thug
+    - Goblin
+    - Flower Snake
     - Stinger
     rewardXP: 750
     rewardItems:
@@ -259,15 +238,34 @@ MonoBehaviour:
     - Mana Potion
   - enemies:
     - Stinger
+    - Thug
+    - Goblin
+    - Thug
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Platinum Armor
+    - Health Potion
+  - enemies:
+    - Stinger
+    - Flower Snake
+    - Goblin
+    - Flower Snake
+    - Stinger
+    rewardXP: 750
+    rewardItems:
+    - Great Potion
+    - Platinum Armor
+  - enemies:
+    - Stinger
     - Flower Snake
     - Goblin
     - Thug
     - Thug
     rewardXP: 750
     rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Health Potion
+    - Great Potion
+    - Platinum Sword
   - enemies:
     - Goblin
     - Goblin
@@ -284,17 +282,6 @@ MonoBehaviour:
     - Flower Snake
     - Goblin
     - Eyeball
-    - Stinger
-    rewardXP: 750
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Health Potion
-  - enemies:
-    - Eyeball
-    - Eyeball
-    - Stinger
-    - Flower Snake
     - Stinger
     rewardXP: 750
     rewardItems:
@@ -319,7 +306,7 @@ MonoBehaviour:
     rewardXP: 750
     rewardItems:
     - Platinum Sword
-  timeBetweenBattles: 8
+  timeBetweenBattles: 6
   activeOnEnter: 0
   activateOnStay: 1
   activateOnExit: 0
@@ -1080,51 +1067,8 @@ MonoBehaviour:
     - Giant Turtle
     rewardXP: 1500
     rewardItems:
-    - Health Potion
-    - Health Potion
-    - Mana Potion
-    - Mana Potion
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Health Potion
-    - Mana Potion
-    - Mana Potion
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
+    - Great Potion
     - Platinum Armor
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Iron Sword
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Platinum Armor
-  - enemies:
-    - Giant Turtle
-    - Giant Turtle
-    rewardXP: 1500
-    rewardItems:
-    - Health Potion
-    - Mana Potion
-    - Iron Armor
   timeBetweenBattles: 10
   activeOnEnter: 1
   activateOnStay: 0
