@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayer: 4
   m_SortingOrder: -5
   m_Sprite: {fileID: 7702413813429025857, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
-  m_Color: {r: 0.33708617, g: 0.9528302, b: 0.6903037, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
   itemName: Mythril Armor
   description: Very Neat
   value: 100
-  itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemSprite: {fileID: 7702413813429025857, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
   amountToChange: 25
   affectHP: 1
   affectMP: 1
@@ -143,6 +143,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!58 &3119998517359559295
 CircleCollider2D:
   m_ObjectHideFlags: 0
