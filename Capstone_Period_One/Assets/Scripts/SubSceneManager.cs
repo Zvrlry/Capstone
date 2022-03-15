@@ -21,8 +21,9 @@ public class SubSceneManager : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             player.transform.position = otherPosition.transform.position;
+
         }
     }
 
-
+   
 }

@@ -103,13 +103,13 @@ MonoBehaviour:
   - Ice
   - Plasma
   charName: Supreme Mage
-  currentHp: 4000
-  maxHp: 4000
+  currentHp: 6000
+  maxHp: 6000
   currentMp: 100
   maxMp: 100
-  strength: 15
+  strength: 50
   defense: 20
-  weaponPower: 15
+  weaponPower: 50
   armorPower: 5
   hasDied: 0
   theSprite: {fileID: 5628120268786336793}

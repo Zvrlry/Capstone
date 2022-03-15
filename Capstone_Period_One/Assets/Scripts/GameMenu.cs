@@ -273,24 +273,36 @@ public class GameMenu : MonoBehaviour
     }
     public IEnumerator EnteringBattleZone()
     {
+
         enteringZone.SetActive(true);
+        if (exitingZone)
+        {
+            exitingZone.SetActive(false);
+        }
         yield return new WaitForSeconds(3f);
         enteringZone.SetActive(false);
     }
     public IEnumerator ExitingBattleZone()
     {
         exitingZone.SetActive(true);
+        if (enteringZone)
+        {
+            enteringZone.SetActive(false);
+        }
         yield return new WaitForSeconds(3f);
         exitingZone.SetActive(false);
     }
 
     public void EnterBattleZone()
     {
-        StartCoroutine(EnteringBattleZone());
+        
+            StartCoroutine(EnteringBattleZone());
+        
     }
 
     public void ExitBattleZone()
     {
-        StartCoroutine(ExitingBattleZone());
+            StartCoroutine(ExitingBattleZone());
+        
     }
 }

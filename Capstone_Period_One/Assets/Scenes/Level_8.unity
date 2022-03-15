@@ -1644,7 +1644,7 @@ MonoBehaviour:
   potentialBattles:
   - enemies:
     - Dragon
-    rewardXP: 3500
+    rewardXP: 15000
     rewardItems:
     - Mythical Armor
     - Mythical Sword

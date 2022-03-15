@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 0
   itemName: Great Potion
   description: Restores 100 HP And 100 MP
-  value: 5
+  value: 10
   itemSprite: {fileID: 6606944472325804762, guid: 45f07aa976f90e54e8c898311aea06d6, type: 3}
   amountToChange: 100
   affectHP: 1
@@ -140,6 +140,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!95 &816690915
 Animator:
   serializedVersion: 3

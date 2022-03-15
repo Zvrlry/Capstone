@@ -100,13 +100,13 @@ MonoBehaviour:
   movesAvailable:
   - Slash
   charName: High Orc
-  currentHp: 2500
-  maxHp: 2500
+  currentHp: 4000
+  maxHp: 4000
   currentMp: 10
   maxMp: 10
-  strength: 13
+  strength: 25
   defense: 10
-  weaponPower: 20
+  weaponPower: 50
   armorPower: 5
   hasDied: 0
   theSprite: {fileID: 5628120268786336793}

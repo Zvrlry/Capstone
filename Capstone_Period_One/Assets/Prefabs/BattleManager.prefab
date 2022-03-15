@@ -7479,6 +7479,8 @@ MonoBehaviour:
   - {fileID: 5436545612815476964, guid: bb101a88d3345b54881286063fdbb4c0, type: 3}
   - {fileID: 5436545612815476964, guid: 861caf136e58c4e47be97e2a6d1aa368, type: 3}
   - {fileID: 5436545612815476964, guid: 5571ee91d6e3c5b4698e76aedaa9695f, type: 3}
+  - {fileID: 4493168514431819827, guid: ead8a2f96e171144bb2e12b5b0dc16fb, type: 3}
+  - {fileID: 4493168514431819827, guid: ca92834b932489e4681b46ce88a887a9, type: 3}
   activeBattlers: []
   currentTurn: 0
   turnWaiting: 0
@@ -7541,7 +7543,7 @@ MonoBehaviour:
   - {fileID: 5405399373984420284}
   - {fileID: 5405399374112715686}
   battleNotice: {fileID: 5405399373128814668}
-  chanceToFlee: 20
+  chanceToFlee: 0
   gameOverScene: Game Over
   rewardXp: 500
   rewardItems:
