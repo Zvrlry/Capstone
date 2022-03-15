@@ -1826,16 +1826,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   potentialBattles:
   - enemies:
+    - 
     - Devil
     rewardXP: 100000
     rewardItems:
     - Wooden Sword
     - Leather Armor
   timeBetweenBattles: 12
-  activeOnEnter: 0
-  activateOnStay: 1
+  activeOnEnter: 1
+  activateOnStay: 0
   activateOnExit: 0
-  deactivateAfterStarting: 0
+  deactivateAfterStarting: 1
 --- !u!61 &1492570281
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1849,7 +1850,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 136.73578, y: 56.790443}
+  m_Offset: {x: 136.2174, y: 6.126869}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1860,7 +1861,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 68.83411, y: 59.98784}
+  m_Size: {x: 21.669197, y: 17.746597}
   m_EdgeRadius: 0
 --- !u!1001 &1704172096
 PrefabInstance:
