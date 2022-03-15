@@ -187,7 +187,7 @@ MonoBehaviour:
   playerLevel: 1
   currentEXP: 0
   expToNextLevel: 
-  maxLevel: 10
+  maxLevel: 100000000
   baseEXP: 1000
   currentHP: 100
   maxHP: 100
@@ -248,7 +248,7 @@ MonoBehaviour:
   playerLevel: 1
   currentEXP: 0
   expToNextLevel: 
-  maxLevel: 10
+  maxLevel: 100000000
   baseEXP: 1000
   currentHP: 150
   maxHP: 150
@@ -309,7 +309,7 @@ MonoBehaviour:
   playerLevel: 1
   currentEXP: 0
   expToNextLevel: 
-  maxLevel: 10
+  maxLevel: 100000000
   baseEXP: 1000
   currentHP: 150
   maxHP: 150

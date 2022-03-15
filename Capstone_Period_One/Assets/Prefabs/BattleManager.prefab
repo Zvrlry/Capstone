@@ -7459,6 +7459,7 @@ MonoBehaviour:
   playerPrefabs:
   - {fileID: 6795134422192518950, guid: d4e3c97f05b9a6a4b8523811bef2875d, type: 3}
   - {fileID: 2956883758538035308, guid: 11ec237a95f27994280d8c2ed99b6f16, type: 3}
+  - {fileID: -5492872366770815770, guid: 16d830049d0149b45ac16ae663c20c45, type: 3}
   enemyPrefabs:
   - {fileID: 5436545612815476964, guid: 0e35bcd881ffaeb48ab03bbb53797706, type: 3}
   - {fileID: 4493168514431819827, guid: 3d30b72679fa7cd4cbbca74536754bab, type: 3}
@@ -7481,7 +7482,6 @@ MonoBehaviour:
   - {fileID: 5436545612815476964, guid: 5571ee91d6e3c5b4698e76aedaa9695f, type: 3}
   - {fileID: 4493168514431819827, guid: ead8a2f96e171144bb2e12b5b0dc16fb, type: 3}
   - {fileID: 4493168514431819827, guid: ca92834b932489e4681b46ce88a887a9, type: 3}
-  - {fileID: 0}
   activeBattlers: []
   currentTurn: 0
   turnWaiting: 0
@@ -7509,12 +7509,15 @@ MonoBehaviour:
   playerName:
   - {fileID: 5405399373306240064}
   - {fileID: 5405399372525676977}
+  - {fileID: 5405399373832096673}
   playerHP:
   - {fileID: 5405399373474326292}
   - {fileID: 5405399373781591242}
+  - {fileID: 5405399373474326292}
   playerMP:
   - {fileID: 5405399374123985610}
   - {fileID: 5405399372070528812}
+  - {fileID: 5405399374123985610}
   targetMenu: {fileID: 5405399373539742198}
   targetButtons:
   - {fileID: 5405399373953556108}
