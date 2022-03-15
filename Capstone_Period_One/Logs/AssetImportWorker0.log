@@ -1,425 +1,627 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 22000.556; Version 2009; 64bit' Language: 'en' Physical Memory: 16151 MB
+OS: 'Windows 10 Home; OS build 19044.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 32649 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Users\Connor Daland\Desktop\Unity\2021.1.7f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2021.1.7f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Connor Daland/Documents/LowPoly/Capstone/Capstone_Period_One
+C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53031
-Successfully changed project path to: C:/Users/Connor Daland/Documents/LowPoly/Capstone/Capstone_Period_One
-C:/Users/Connor Daland/Documents/LowPoly/Capstone/Capstone_Period_One
+56523
+Successfully changed project path to: C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
+C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 148.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 81.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
-[Subsystems] Discovering subsystems at path C:/Users/Connor Daland/Desktop/Unity/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Connor Daland/Documents/LowPoly/Capstone/Capstone_Period_One/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/fnnof/Documents/GitHub/Capstone/Capstone_Period_One/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
     Vendor:   NVIDIA
-    VRAM:     1984 MB
-    Driver:   27.21.14.6231
+    VRAM:     8043 MB
+    Driver:   30.0.14.9709
 Initialize mono
-Mono path[0] = 'C:/Users/Connor Daland/Desktop/Unity/2021.1.7f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Users/Connor Daland/Desktop/Unity/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Users/Connor Daland/Desktop/Unity/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Users/Connor Daland/Desktop/Unity/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001906 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001098 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 147.57 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 83.52 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.412 seconds
+- Completed reload, in  0.742 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003746 seconds.
+Registered in 0.001770 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 155.93 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 85.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.188 seconds
+- Completed reload, in  0.693 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3408 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 128.9 MB.
 System memory in use after: 129.1 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3869.
-Total: 2.912100 ms (FindLiveObjects: 0.257500 ms CreateObjectMapping: 0.137600 ms MarkObjects: 2.350100 ms  DeleteObjects: 0.165200 ms)
+Total: 1.525400 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.082500 ms MarkObjects: 1.231500 ms  DeleteObjects: 0.040200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6243a5378efd81b3de16ee4d447c5f') in 0.157275 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004565 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.233 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 128.8 MB.
-System memory in use after: 129.0 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3873.
-Total: 2.463700 ms (FindLiveObjects: 0.219100 ms CreateObjectMapping: 0.111700 ms MarkObjects: 2.113900 ms  DeleteObjects: 0.017900 ms)
-
+  path: Assets/Art/Enemy Assets/Devil.png
+  artifactKey: Guid(a9857a13ec14834449a7f33331ef672d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemy Assets/Devil.png using Guid(a9857a13ec14834449a7f33331ef672d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e03097175e7f21a3ec72c9c07c27f92') in 0.066978 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 104.268960 seconds.
-  path: Assets/Prefabs/Items/Super Potion.prefab
-  artifactKey: Guid(de4fc64d465059d4a81b3ab7606e9a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Items/Super Potion.prefab using Guid(de4fc64d465059d4a81b3ab7606e9a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387f458495c353fd95c9bbbf19e63789') in 0.106472 seconds 
+  Time since last request: 10.589783 seconds.
+  path: Assets/Art/Enemy Assets/Devil.png
+  artifactKey: Guid(a9857a13ec14834449a7f33331ef672d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemy Assets/Devil.png using Guid(a9857a13ec14834449a7f33331ef672d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e310cc8a5d0983549b3a9f2f8c8f0e') in 0.015682 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.508048 seconds.
-  path: Assets/Prefabs/GameManager.prefab
-  artifactKey: Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GameManager.prefab using Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b345222ac06d2491ee330048e294688f') in 0.036428 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.567128 seconds.
-  path: Assets/Prefabs/GameManager.prefab
-  artifactKey: Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/GameManager.prefab using Guid(a13bc128f1759f44ab47e127e4efbd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f873f53afa9fb924ee5cdb9f7b3ff9') in 0.030527 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 233.764762 seconds.
-  path: Assets/Scenes/Level_4.unity
-  artifactKey: Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_4.unity using Guid(2a4f400fbb407f44f8ec200096db93e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4773bb9fb7fcdbe7ab525a32cd8f953b') in 0.012337 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.965924 seconds.
-  path: Assets/Scenes/Level_3.unity
-  artifactKey: Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_3.unity using Guid(dae2b0b286b5b5542be631f9a5ac1d75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34631543973b8376bcda14f80a814e6d') in 0.012138 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 56.125714 seconds.
-  path: Assets/Scenes/Level_5.unity
-  artifactKey: Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_5.unity using Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607a1f9065d7c8c7ae0ea2f2712e31a7') in 0.011009 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 25.755854 seconds.
-  path: Assets/Scenes/Level_7.unity
-  artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd4396a519b229e5a1bf41d13afc864') in 0.011487 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.599266 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5bc91005aef9cfc8c6c8cb0e8b99207') in 0.011081 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 141.660275 seconds.
+  Time since last request: 28.672156 seconds.
   path: Assets/Scenes/Level_10.unity
   artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904cdd15e5556726ccc8151b5fe99588') in 0.011855 seconds 
+Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722167654a5b9fb37e890caf0b8d9378') in 0.005798 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 52.134799 seconds.
-  path: Assets/Scenes/Level_6.unity
-  artifactKey: Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_6.unity using Guid(cfabc3f0d43e6344a812d4e1122265d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a2e94917a3ccdcefd9b8850eadf3a9') in 0.006272 seconds 
+  Time since last request: 7.091194 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Captain Bones.prefab
+  artifactKey: Guid(44f72e8b6c9307f4f8a89a73f0feb142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Captain Bones.prefab using Guid(44f72e8b6c9307f4f8a89a73f0feb142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472c2661aefa2e14436d5b95739a6bd1') in 0.024036 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.169233 seconds.
-  path: Assets/Scenes/Level_5.unity
-  artifactKey: Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_5.unity using Guid(799e5f49a21fdf14ab42d3df5bc63b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a3a9550517a8473ed78140d905c70a') in 0.006903 seconds 
+  Time since last request: 0.000249 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Dragon.prefab
+  artifactKey: Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Dragon.prefab using Guid(bb101a88d3345b54881286063fdbb4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4415e99f42cf8f95391ed48d696b0bcf') in 0.011685 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 175.402679 seconds.
-  path: Assets/Scenes/Level_7.unity
-  artifactKey: Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_7.unity using Guid(0e5d9f630b7572a47b2befad5b5d304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77b9445ccab6bd4ae1b463f78904915') in 0.006018 seconds 
+  Time since last request: 0.000179 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Forest Drake.prefab
+  artifactKey: Guid(861caf136e58c4e47be97e2a6d1aa368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Forest Drake.prefab using Guid(861caf136e58c4e47be97e2a6d1aa368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c0c868876f5fde901251437fe350bd') in 0.012411 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 110.976089 seconds.
-  path: Assets/Scenes/Level_8.unity
-  artifactKey: Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_8.unity using Guid(04aa8fbb1ee4fea49968d4888568bf1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce259af07a95a8c4ad523242ba6a340') in 0.011204 seconds 
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs/Battle/Enemies/High Orc.prefab
+  artifactKey: Guid(41b81f5506e6dd144b643bf7c97a0b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/High Orc.prefab using Guid(41b81f5506e6dd144b643bf7c97a0b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133803067aa987e1020892ecc470d8f2') in 0.016785 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.040733 seconds.
-  path: Assets/Scenes/Level_9.unity
-  artifactKey: Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_9.unity using Guid(8b87a1949f9718c4b9a11f2853d6d24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d4accbb20f49d51b6a36736ea8160e') in 0.009657 seconds 
+  Time since last request: 0.000138 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Orc King.prefab
+  artifactKey: Guid(5571ee91d6e3c5b4698e76aedaa9695f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Orc King.prefab using Guid(5571ee91d6e3c5b4698e76aedaa9695f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0dac303b5ab8cffed8f1988ca55ad9') in 0.012874 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 182.220254 seconds.
-  path: Assets/Scripts/SubSceneManager.cs
-  artifactKey: Guid(719e251c5355d124e9c9ade5e3412f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/SubSceneManager.cs using Guid(719e251c5355d124e9c9ade5e3412f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9859e414b6f7f6aab489d01c718d4fb0') in 0.023462 seconds 
+  Time since last request: 0.000141 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Devil.prefab
+  artifactKey: Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Devil.prefab using Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a37e556a6c2976e9b20fc9d770cfd7') in 0.023954 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.265414 seconds.
-  path: Assets/Scenes/Level_10.unity
-  artifactKey: Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_10.unity using Guid(ea966970509bdd94f8a558b345035a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f1d9204e9c8b7f8c752feb319a0255') in 0.006386 seconds 
+  Time since last request: 0.000168 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f29d4e7a7f400598f9836ca54a7990') in 0.009388 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 69.065574 seconds.
-  path: Assets/Scenes/Level_1.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e312aa7c65ddfcaac0626443db876722') in 0.011332 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.344558 seconds.
-  path: Assets/Scenes/Game Over.unity
-  artifactKey: Guid(76ee54236db82724f91eecc3c0281e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Game Over.unity using Guid(76ee54236db82724f91eecc3c0281e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913bbc55edf9ab179000037bd243a489') in 0.011955 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.987032 seconds.
-  path: Assets/Scenes/MainMenu.unity
-  artifactKey: Guid(e10ad6da27cb9ed4fb7f46a77907d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainMenu.unity using Guid(e10ad6da27cb9ed4fb7f46a77907d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc4e068e9fb9b70c863ea0aaab9007d') in 0.010714 seconds 
+  Time since last request: 21.250708 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Devil.prefab
+  artifactKey: Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Devil.prefab using Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c6968cf3868201d8528e1bcca18cf3') in 0.012144 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006113 seconds.
+Registered in 0.002113 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.346 seconds
+- Completed reload, in  0.590 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 133.0 MB.
 System memory in use after: 133.2 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3884.
-Total: 3.449700 ms (FindLiveObjects: 0.523100 ms CreateObjectMapping: 0.257500 ms MarkObjects: 2.644400 ms  DeleteObjects: 0.022500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004633 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.097 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.0 MB.
-System memory in use after: 133.2 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3888.
-Total: 3.048100 ms (FindLiveObjects: 0.210500 ms CreateObjectMapping: 0.090800 ms MarkObjects: 2.676200 ms  DeleteObjects: 0.069500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003753 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.060 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.0 MB.
-System memory in use after: 133.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3892.
-Total: 2.879000 ms (FindLiveObjects: 0.288600 ms CreateObjectMapping: 0.121300 ms MarkObjects: 2.439900 ms  DeleteObjects: 0.027100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 464.321790 seconds.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8402ef3aca357621119c01e04dda7067') in 0.114532 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005160 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.919 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.1 MB.
-System memory in use after: 133.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3896.
-Total: 2.710400 ms (FindLiveObjects: 0.193000 ms CreateObjectMapping: 0.103700 ms MarkObjects: 2.391300 ms  DeleteObjects: 0.020800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.697947 seconds.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d41ef013730a351dff951426b85fdb8') in 0.104863 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004120 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.097 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.1 MB.
-System memory in use after: 133.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3900.
-Total: 2.283700 ms (FindLiveObjects: 0.207400 ms CreateObjectMapping: 0.120100 ms MarkObjects: 1.931900 ms  DeleteObjects: 0.022800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.868987 seconds.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1881743d7b4260b73366ca46669850') in 0.107483 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003388 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.026 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.1 MB.
-System memory in use after: 133.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3904.
-Total: 2.133300 ms (FindLiveObjects: 0.206600 ms CreateObjectMapping: 0.110000 ms MarkObjects: 1.792000 ms  DeleteObjects: 0.023500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 96.398619 seconds.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8b064493bccf112b3dd77a7e49d3cd') in 0.088766 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.916144 seconds.
-  path: Assets/Prefabs/UI Canvas.prefab
-  artifactKey: Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/UI Canvas.prefab using Guid(a8ce63caa4584374eafc3aa0f839d8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bfdb3e0ada309504945c251915e160') in 0.056031 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003918 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.963 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.1 MB.
-System memory in use after: 133.3 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3908.
-Total: 2.643900 ms (FindLiveObjects: 0.207000 ms CreateObjectMapping: 0.109800 ms MarkObjects: 2.305700 ms  DeleteObjects: 0.020200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003513 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Connor Daland\Documents\LowPoly\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.041 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 133.1 MB.
-System memory in use after: 133.3 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3912.
-Total: 2.103700 ms (FindLiveObjects: 0.186800 ms CreateObjectMapping: 0.110900 ms MarkObjects: 1.790600 ms  DeleteObjects: 0.014500 ms)
+Total: 1.639200 ms (FindLiveObjects: 0.185600 ms CreateObjectMapping: 0.094000 ms MarkObjects: 1.345600 ms  DeleteObjects: 0.012600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001827 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.575 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 133.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3916.
+Total: 1.657500 ms (FindLiveObjects: 0.204000 ms CreateObjectMapping: 0.083400 ms MarkObjects: 1.355500 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002082 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.0 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3920.
+Total: 1.500700 ms (FindLiveObjects: 0.163500 ms CreateObjectMapping: 0.077400 ms MarkObjects: 1.248200 ms  DeleteObjects: 0.011000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 146.881539 seconds.
-  path: Assets/Scenes/MainMenu.unity
-  artifactKey: Guid(e10ad6da27cb9ed4fb7f46a77907d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MainMenu.unity using Guid(e10ad6da27cb9ed4fb7f46a77907d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5ed495c22bb121e4a67b74aaebc93b') in 0.016692 seconds 
+  Time since last request: 130.016844 seconds.
+  path: Assets/Prefabs/Items/Great Potion.prefab
+  artifactKey: Guid(7a125def5c5c86c4ab6063eec45593ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Items/Great Potion.prefab using Guid(7a125def5c5c86c4ab6063eec45593ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe7fd4f3bf6b17a5bf7370fc89359c3') in 0.042214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.297994 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Devil.prefab
+  artifactKey: Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Devil.prefab using Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e16bbd047305b04bccf097981146fa') in 0.008766 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001953 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.575 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3925.
+Total: 1.678000 ms (FindLiveObjects: 0.170300 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.419800 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001955 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3929.
+Total: 1.594900 ms (FindLiveObjects: 0.197700 ms CreateObjectMapping: 0.077600 ms MarkObjects: 1.307200 ms  DeleteObjects: 0.011100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001907 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3933.
+Total: 1.712300 ms (FindLiveObjects: 0.172500 ms CreateObjectMapping: 0.078700 ms MarkObjects: 1.449900 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001877 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.560 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3937.
+Total: 1.684200 ms (FindLiveObjects: 0.166100 ms CreateObjectMapping: 0.079700 ms MarkObjects: 1.417700 ms  DeleteObjects: 0.020200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002376 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3941.
+Total: 1.738200 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.079500 ms MarkObjects: 1.462200 ms  DeleteObjects: 0.025200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001994 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.586 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3945.
+Total: 1.919300 ms (FindLiveObjects: 0.223800 ms CreateObjectMapping: 0.109900 ms MarkObjects: 1.566100 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002028 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.598 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3949.
+Total: 1.988400 ms (FindLiveObjects: 0.342200 ms CreateObjectMapping: 0.156200 ms MarkObjects: 1.477200 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001913 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.568 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.1 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3953.
+Total: 1.620700 ms (FindLiveObjects: 0.165900 ms CreateObjectMapping: 0.079900 ms MarkObjects: 1.363100 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002051 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.590 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.2 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3957.
+Total: 1.542000 ms (FindLiveObjects: 0.168700 ms CreateObjectMapping: 0.075400 ms MarkObjects: 1.285900 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 329.296807 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Devil.prefab
+  artifactKey: Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Devil.prefab using Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10202b8bf51346174918e6f032e631ec') in 0.040314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.141630 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Devil.prefab
+  artifactKey: Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Devil.prefab using Guid(ca92834b932489e4681b46ce88a887a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cf3696857bb3c5f94a2724abf11909') in 0.009421 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002037 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.597 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.2 MB.
+System memory in use after: 133.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3962.
+Total: 1.660300 ms (FindLiveObjects: 0.171700 ms CreateObjectMapping: 0.075800 ms MarkObjects: 1.400800 ms  DeleteObjects: 0.011300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1042.471859 seconds.
+  path: Assets/Art/Enemy Assets/demon.png
+  artifactKey: Guid(a36f8610377b4074d8068c049d3a58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemy Assets/demon.png using Guid(a36f8610377b4074d8068c049d3a58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25fffc2161e7fed4915738348e8b5a35') in 0.045222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.862475 seconds.
+  path: Assets/Art/Enemy Assets/demon.png
+  artifactKey: Guid(a36f8610377b4074d8068c049d3a58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Enemy Assets/demon.png using Guid(a36f8610377b4074d8068c049d3a58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a6ca70485504acb3b994bfb0e2ab1b') in 0.026590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.199742 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ae176baa2a7a309af05f706e746243') in 0.022278 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002150 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.608 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3998.
+Total: 1.971400 ms (FindLiveObjects: 0.179300 ms CreateObjectMapping: 0.078900 ms MarkObjects: 1.693300 ms  DeleteObjects: 0.018400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002640 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4002.
+Total: 2.004200 ms (FindLiveObjects: 0.259800 ms CreateObjectMapping: 0.081500 ms MarkObjects: 1.647300 ms  DeleteObjects: 0.014600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.501064 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547558d4e2a53fd65a05c0198564830f') in 0.033309 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002070 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4007.
+Total: 1.686600 ms (FindLiveObjects: 0.174300 ms CreateObjectMapping: 0.080400 ms MarkObjects: 1.407900 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.595979 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa84b81402df37c392e03b793e072ef') in 0.043086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.941677 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca5f3b6b0e3ba618db23ce465fd074b') in 0.005457 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001951 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.581 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4012.
+Total: 1.751200 ms (FindLiveObjects: 0.170100 ms CreateObjectMapping: 0.082300 ms MarkObjects: 1.485900 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.492757 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557796420821dc41543fc856b5ee32c0') in 0.036338 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001857 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.669 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4017.
+Total: 2.022900 ms (FindLiveObjects: 0.183200 ms CreateObjectMapping: 0.074600 ms MarkObjects: 1.749000 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 830.596765 seconds.
+  path: Assets/Prefabs/Battle/Enemies/Demon.prefab
+  artifactKey: Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Battle/Enemies/Demon.prefab using Guid(ead8a2f96e171144bb2e12b5b0dc16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6597bfa1dfd181867039df3f439200b') in 0.039312 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002085 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\fnnof\Documents\GitHub\Capstone\Capstone_Period_One\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.1 MB.
+System memory in use after: 134.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 4022.
+Total: 1.746200 ms (FindLiveObjects: 0.195500 ms CreateObjectMapping: 0.090600 ms MarkObjects: 1.446100 ms  DeleteObjects: 0.013200 ms)
+
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
