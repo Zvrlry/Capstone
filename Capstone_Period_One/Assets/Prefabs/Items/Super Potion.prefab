@@ -102,7 +102,7 @@ MonoBehaviour:
   isItem: 1
   isWeapon: 0
   isArmour: 0
-  itemName: Great Potion
+  itemName: Super Potion
   description: Restores 250 HP And 250 MP
   value: 25
   itemSprite: {fileID: 1932305359194367219, guid: 45f07aa976f90e54e8c898311aea06d6, type: 3}

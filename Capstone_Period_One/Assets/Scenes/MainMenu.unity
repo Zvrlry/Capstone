@@ -324,7 +324,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Adventure \nStory"
+  m_Text: 'Tim And Woody''s
+
+    Adventure!'
 --- !u!222 &609449532
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1096,7 +1098,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Load Game
+  m_Text: Continue
 --- !u!222 &2070565647
 CanvasRenderer:
   m_ObjectHideFlags: 0

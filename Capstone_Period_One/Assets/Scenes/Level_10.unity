@@ -375,34 +375,34 @@ MonoBehaviour:
   - Health Potion
   - Mana Potion
   - Great Potion
+  - Super Potion
+  - 
   - Wooden Sword
   - Leather Armor
+  - 
   - Iron Sword
   - Iron Armor
+  - 
   - Platinum Sword
   - Platinum Armor
+  - 
   - Mythril Sword
-  - Mytrhil Armor
+  - Mythril Armor
+  - 
   - Adamantite Sword
   - Adamantite Armor
+  - 
   - Ice Sword
   - Ice Armor
+  - 
   - Champion Sword
   - Champion Armor
+  - 
   - Mythical Sword
   - Mythical Armor
+  - 
   - Chaos Sword
   - Chaos Armor
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - 
   - 
   - 
@@ -1792,7 +1792,7 @@ GameObject:
   - component: {fileID: 1492570281}
   - component: {fileID: 1492570280}
   m_Layer: 0
-  m_Name: Normal Battles
+  m_Name: Devil Battle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2005,43 +2005,43 @@ MonoBehaviour:
     - Demon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
+    - Super Potion
     - Chaos Armor
   - enemies:
     - Demon
     - Dragon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
+    - Super Potion
     - Chaos Sword
   - enemies:
     - Demon
     - Demon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
+    - Super Potion
     - Chaos Sword
   - enemies:
     - Demon
     - Demon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
+    - Super Potion
     - Chaos Armor
   - enemies:
     - Demon
     - Dragon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
-    - Great Potion
+    - Super Potion
+    - Super Potion
   - enemies:
     - Dragon
     - Demon
     rewardXP: 20000
     rewardItems:
-    - Great Potion
-    - Great Potion
+    - Super Potion
+    - Super Potion
   timeBetweenBattles: 7
   activeOnEnter: 0
   activateOnStay: 1
