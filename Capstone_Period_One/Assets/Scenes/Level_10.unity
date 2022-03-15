@@ -235,6 +235,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: BattleManager
       objectReference: {fileID: 0}
+    - target: {fileID: 5405399373783000727, guid: 981678c25678995488056e3e80a62ede, type: 3}
+      propertyPath: playerPrefabs.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5405399373783000727, guid: 981678c25678995488056e3e80a62ede, type: 3}
+      propertyPath: playerPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 2956883758538035308, guid: 11ec237a95f27994280d8c2ed99b6f16, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 981678c25678995488056e3e80a62ede, type: 3}
 --- !u!1001 &495196292
@@ -318,7 +326,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5961125818933932760, guid: a67969a3f4d0030449f73edd7c37266f, type: 3}
       propertyPath: areaToLoad
-      value: MainMenu
+      value: Credits
       objectReference: {fileID: 0}
     - target: {fileID: 5961125818933932760, guid: a67969a3f4d0030449f73edd7c37266f, type: 3}
       propertyPath: areaTransitionName
@@ -1826,7 +1834,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   potentialBattles:
   - enemies:
-    - 
     - Devil
     rewardXP: 100000
     rewardItems:

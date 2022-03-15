@@ -7509,15 +7509,12 @@ MonoBehaviour:
   playerName:
   - {fileID: 5405399373306240064}
   - {fileID: 5405399372525676977}
-  - {fileID: 5405399373832096673}
   playerHP:
   - {fileID: 5405399373474326292}
   - {fileID: 5405399373781591242}
-  - {fileID: 5405399373969429790}
   playerMP:
   - {fileID: 5405399374123985610}
   - {fileID: 5405399372070528812}
-  - {fileID: 5405399372443894104}
   targetMenu: {fileID: 5405399373539742198}
   targetButtons:
   - {fileID: 5405399373953556108}
@@ -7544,7 +7541,7 @@ MonoBehaviour:
   - {fileID: 5405399373984420284}
   - {fileID: 5405399374112715686}
   battleNotice: {fileID: 5405399373128814668}
-  chanceToFlee: 0
+  chanceToFlee: 20
   gameOverScene: Game Over
   rewardXp: 500
   rewardItems:

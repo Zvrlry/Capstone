@@ -50,6 +50,7 @@ MonoBehaviour:
   playerStats:
   - {fileID: 5714524021939546261}
   - {fileID: 8835295495178176886}
+  - {fileID: 7650294038568953440}
   gameMenuOpen: 0
   dialogActive: 0
   fadingBetweenAreas: 0
@@ -260,7 +261,7 @@ MonoBehaviour:
   armorPower: 0
   equippedWeapon: 
   equippedArmor: 
-  charImage: {fileID: 3830475944223242837, guid: fb8cc55af4b7a034584793949fd90500, type: 3}
+  charImage: {fileID: 21300002, guid: e0ddba6d3fcf21f49949fcc95c849aac, type: 3}
 --- !u!1 &8117669253900165268
 GameObject:
   m_ObjectHideFlags: 0

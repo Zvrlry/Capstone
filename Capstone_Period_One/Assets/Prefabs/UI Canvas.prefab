@@ -30041,7 +30041,7 @@ GameObject:
   - component: {fileID: 986199715423386151}
   - component: {fileID: 986199715423386150}
   m_Layer: 5
-  m_Name: EXP To next level
+  m_Name: EXP To next level2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30203,7 +30203,7 @@ GameObject:
   - component: {fileID: 986199715464653347}
   - component: {fileID: 986199715464653346}
   m_Layer: 5
-  m_Name: EXP
+  m_Name: EXP1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31856,7 +31856,7 @@ GameObject:
   - component: {fileID: 986199715696682482}
   - component: {fileID: 986199715696682481}
   m_Layer: 5
-  m_Name: MP
+  m_Name: MP1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32474,7 +32474,7 @@ GameObject:
   - component: {fileID: 986199715770607097}
   - component: {fileID: 986199715770607096}
   m_Layer: 5
-  m_Name: P1Name
+  m_Name: P3Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32782,7 +32782,7 @@ GameObject:
   - component: {fileID: 986199715812567399}
   - component: {fileID: 986199715812567398}
   m_Layer: 5
-  m_Name: HP
+  m_Name: HP2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33606,7 +33606,7 @@ GameObject:
   - component: {fileID: 986199715898618287}
   - component: {fileID: 986199715898618286}
   m_Layer: 5
-  m_Name: EXP To next level
+  m_Name: EXP To next level1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34296,7 +34296,7 @@ GameObject:
   - component: {fileID: 986199716019807326}
   - component: {fileID: 986199716019807325}
   m_Layer: 5
-  m_Name: HP
+  m_Name: HP1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36310,7 +36310,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 986199716208857600}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2.7769747}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 122387816}
@@ -36326,7 +36326,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.03, y: -0.59}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!223 &986199716208857603
@@ -36427,29 +36427,38 @@ MonoBehaviour:
   nameText:
   - {fileID: 986199716203662133}
   - {fileID: 986199717128492689}
+  - {fileID: 986199715770607096}
   hpText:
   - {fileID: 986199716019807325}
   - {fileID: 986199715812567398}
+  - {fileID: 986199716580837538}
   mpText:
   - {fileID: 986199715696682481}
   - {fileID: 986199717374833454}
+  - {fileID: 986199716381030077}
   lvlText:
   - {fileID: 986199715898618286}
+  - {fileID: 986199715423386150}
   - {fileID: 986199715423386150}
   expText:
   - {fileID: 986199715898618286}
   - {fileID: 986199715423386150}
+  - {fileID: 986199715423386150}
   expSlider:
   - {fileID: 986199715641515481}
   - {fileID: 986199716423196337}
+  - {fileID: 986199717481190759}
   charImage:
   - {fileID: 986199715805119275}
+  - {fileID: 986199717270025018}
   - {fileID: 986199717270025018}
   charStatHolder:
   - {fileID: 986199715374296330}
   - {fileID: 986199716734357720}
+  - {fileID: 986199716734357720}
   statusButtons:
   - {fileID: 986199715374296330}
+  - {fileID: 986199716734357720}
   - {fileID: 986199716734357720}
   statusName: {fileID: 986199716298548710}
   statusHP: {fileID: 986199715773379941}
@@ -36512,6 +36521,7 @@ MonoBehaviour:
   itemCharChoiceNames:
   - {fileID: 986199716642294797}
   - {fileID: 986199717011208415}
+  - {fileID: 986199716638035374}
   goldText: {fileID: 1235396434}
   mainMenuName: 
   enteringZone: {fileID: 930031966}
@@ -38579,7 +38589,7 @@ GameObject:
   - component: {fileID: 986199716381030078}
   - component: {fileID: 986199716381030077}
   m_Layer: 5
-  m_Name: MP
+  m_Name: MP3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39857,7 +39867,7 @@ GameObject:
   - component: {fileID: 986199716557936335}
   - component: {fileID: 986199716557936334}
   m_Layer: 5
-  m_Name: EXP To next level
+  m_Name: EXP To next level3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40048,7 +40058,7 @@ GameObject:
   - component: {fileID: 986199716580837539}
   - component: {fileID: 986199716580837538}
   m_Layer: 5
-  m_Name: HP
+  m_Name: HP3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41776,7 +41786,7 @@ GameObject:
   - component: {fileID: 986199716712871785}
   - component: {fileID: 986199716712871784}
   m_Layer: 5
-  m_Name: EXP
+  m_Name: EXP2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46736,7 +46746,7 @@ GameObject:
   - component: {fileID: 986199717128492690}
   - component: {fileID: 986199717128492689}
   m_Layer: 5
-  m_Name: P1Name
+  m_Name: P2Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46758,7 +46768,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -189.4, y: -39.2}
+  m_AnchoredPosition: {x: -165.8, y: -39.2}
   m_SizeDelta: {x: 142.2921, y: 32.592}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &986199717128492690
@@ -48196,14 +48206,14 @@ RectTransform:
   m_GameObject: {fileID: 986199717270025016}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.75, y: 0.75, z: 0.75}
   m_Children: []
   m_Father: {fileID: 986199716734357721}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -226, y: 8.3}
+  m_AnchoredPosition: {x: -241.9, y: 8.3}
   m_SizeDelta: {x: 50.9627, y: 107.18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &986199717270025019
@@ -48909,7 +48919,7 @@ GameObject:
   - component: {fileID: 986199717374833455}
   - component: {fileID: 986199717374833454}
   m_Layer: 5
-  m_Name: MP
+  m_Name: MP2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50236,7 +50246,7 @@ GameObject:
   - component: {fileID: 986199717490884906}
   - component: {fileID: 986199717490884905}
   m_Layer: 5
-  m_Name: EXP
+  m_Name: EXP2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
