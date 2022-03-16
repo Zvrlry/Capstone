@@ -113,11 +113,13 @@ public class Shop : MonoBehaviour
             }
             else
             {
-                sellItemButtons[i].amountText.text = "";
-                sellItemButtons[i].buttonImage.gameObject.SetActive(false);
+                
+              
+                    sellItemButtons[i].amountText.text = "";
+                    sellItemButtons[i].buttonImage.gameObject.SetActive(false);
 
-                selectedItem = null;
-
+                    selectedItem = null;
+                
             }
         }
 

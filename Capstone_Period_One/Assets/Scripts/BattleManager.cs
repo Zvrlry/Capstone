@@ -310,7 +310,7 @@ public class BattleManager : MonoBehaviour
         float damageCalc = ((attackPower / defensePower) * movePower * Random.Range(.9f, 1.1f));
         int damageToGive = Mathf.RoundToInt(damageCalc);
 
-        Debug.Log(activeBattlers[currentTurn].charName + " is dealing " + damageCalc + " (" + damageToGive + ") damage to " + activeBattlers[target].charName);
+        //Debug.Log(activeBattlers[currentTurn].charName + " is dealing " + damageCalc + " (" + damageToGive + ") damage to " + activeBattlers[target].charName);
         activeBattlers[target].currentHp -= damageToGive;
 
         Instantiate(damageNumber, activeBattlers[target].transform.position, activeBattlers[target].transform.rotation).SetDamage(damageToGive);

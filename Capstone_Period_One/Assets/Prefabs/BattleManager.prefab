@@ -5080,7 +5080,7 @@ SpriteRenderer:
   m_SortingLayerID: -130993461
   m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 34249186ee8eb314fbb79ebeeb0a5d3d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1d10a9b00ee011f44bdc910a157d7411, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -7905,11 +7905,11 @@ MonoBehaviour:
     moveCost: 0
     theEffect: {fileID: 5308951472117786071, guid: be8e53698d92e4841927834c21aa2218, type: 3}
   - moveName: Fire
-    movePower: 50
+    movePower: 70
     moveCost: 5
     theEffect: {fileID: 2055589293219603585, guid: 573fa7b986ef33d4bb6d386c8c98bacb, type: 3}
   - moveName: Ice
-    movePower: 65
+    movePower: 70
     moveCost: 5
     theEffect: {fileID: 2567495304917032982, guid: c6fa27232cf6a784194e971f0c08ea40, type: 3}
   - moveName: Plasma
@@ -7957,7 +7957,7 @@ MonoBehaviour:
   - {fileID: 5405399373984420284}
   - {fileID: 5405399374112715686}
   battleNotice: {fileID: 5405399373128814668}
-  chanceToFlee: 25
+  chanceToFlee: 45
   gameOverScene: Game Over
   rewardXp: 500
   rewardItems:

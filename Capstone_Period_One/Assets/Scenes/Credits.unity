@@ -821,7 +821,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Design Project Manager:\n\nAssets:\n\n\nStory Design:\n\n\nDialog:\n\nLevel
     Design:\n\n\nDebugging \nAnd Implementation:\n\nQuality Assurance Testing:\n\n\nPlayer:\n\nSave/Load
-    System:\n\n\nEnemies:\n\n\nBattle System:\n\nCode Project Manager:\n\nNPC's:\n\n\nCollectables:\n\n\n"
+    System:\n\n\nEnemies:\n\n\nBattle System:\n\nCode Project Manager:\n\nNPC's:\n\n\nCollectables:\n\n\n\nCool
+    Teacher:"
 --- !u!222 &1250278480
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1048,7 +1049,7 @@ MonoBehaviour:
     Daland
 
 
-'
+    Dr. Kirk'
 --- !u!222 &1285547122
 CanvasRenderer:
   m_ObjectHideFlags: 0
