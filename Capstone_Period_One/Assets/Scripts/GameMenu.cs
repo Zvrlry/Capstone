@@ -37,6 +37,7 @@ public class GameMenu : MonoBehaviour
 
     public GameObject enteringZone;
     public GameObject exitingZone;
+    public GameObject savedGame;
 
     public bool canOpen = true;
     // Use this for initialization
@@ -252,6 +253,7 @@ public class GameMenu : MonoBehaviour
 
     public void SaveGame()
     {
+        SavedGame();
         GameManager.instance.SaveData();
         QuestManager.instance.SaveQuestData();
     }
@@ -292,6 +294,12 @@ public class GameMenu : MonoBehaviour
         yield return new WaitForSeconds(3f);
         exitingZone.SetActive(false);
     }
+    public IEnumerator SavedGameTextCo()
+    {
+        savedGame.SetActive(true);
+        yield return new WaitForSeconds(3f);
+        savedGame.SetActive(false);
+    }
 
     public void EnterBattleZone()
     {
@@ -304,5 +312,9 @@ public class GameMenu : MonoBehaviour
     {
             StartCoroutine(ExitingBattleZone());
         
+    }
+    public void SavedGame()
+    {
+        StartCoroutine(SavedGameTextCo());
     }
 }

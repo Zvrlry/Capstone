@@ -52,13 +52,16 @@ public class BattleManager : MonoBehaviour
     public int rewardXp;
     public string[] rewardItems;
 
-
-
+    [Header("Player Turns")]
+    public GameObject arrowOne;
+    public GameObject arrowTwo;
     // Start is called before the first frame update
     void Start()
     {
         instance = this;
         // DontDestroyOnLoad(gameObject);
+        arrowTwo.SetActive(false);
+        arrowOne.SetActive(false);
     }
 
     // Update is called once per frame
@@ -90,6 +93,23 @@ public class BattleManager : MonoBehaviour
             {
                 NextTurn();
             }
+        }
+
+
+        if(currentTurn == 0)
+        {
+            arrowOne.SetActive(true);
+            arrowTwo.SetActive(false);
+        }
+        else if (currentTurn == 1)
+        {
+            arrowOne.SetActive(false);
+            arrowTwo.SetActive(true);
+        }
+        else
+        {
+            arrowOne.SetActive(false);
+            arrowTwo.SetActive(false);
         }
     }
 
