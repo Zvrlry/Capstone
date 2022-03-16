@@ -106,7 +106,7 @@ MonoBehaviour:
   currentMp: 100
   maxMp: 100
   strength: 75
-  defense: 35
+  defense: 25
   weaponPower: 75
   armorPower: 20
   hasDied: 0

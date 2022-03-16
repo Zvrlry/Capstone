@@ -108,9 +108,9 @@ MonoBehaviour:
   currentMp: 500
   maxMp: 500
   strength: 125
-  defense: 50
+  defense: 25
   weaponPower: 100
-  armorPower: 50
+  armorPower: 30
   hasDied: 0
   theSprite: {fileID: 4265916050061724878}
   deadSprite: {fileID: 0}
