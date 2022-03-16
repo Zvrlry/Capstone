@@ -103,14 +103,14 @@ MonoBehaviour:
   - Fire
   - Ice
   charName: Forest Drake
-  currentHp: 5000
-  maxHp: 5000
+  currentHp: 3500
+  maxHp: 3500
   currentMp: 200
   maxMp: 200
   strength: 75
   defense: 15
   weaponPower: 100
-  armorPower: 20
+  armorPower: 15
   hasDied: 0
   theSprite: {fileID: 5628120268786336793}
   deadSprite: {fileID: 0}

@@ -101,8 +101,8 @@ MonoBehaviour:
   - Slash
   - Ice
   charName: Snowman Leader
-  currentHp: 3000
-  maxHp: 3000
+  currentHp: 2000
+  maxHp: 2000
   currentMp: 15
   maxMp: 15
   strength: 10
