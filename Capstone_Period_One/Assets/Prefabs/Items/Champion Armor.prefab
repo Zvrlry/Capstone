@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 1
   itemName: Champion Armor
   description: Wowza thats strong!
-  value: 500
+  value: 1000
   itemSprite: {fileID: 21300000, guid: 3a504a107f848d2469493e52649744f0, type: 3}
   amountToChange: 100
   affectHP: 1
@@ -143,6 +143,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!58 &3119998517359559295
 CircleCollider2D:
   m_ObjectHideFlags: 0

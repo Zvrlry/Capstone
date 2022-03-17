@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 1
   itemName: Chaos Armor
   description: Too Much?
-  value: 1000
+  value: 5000
   itemSprite: {fileID: 7941655418127038725, guid: b9055fae991763a44b9cbc2ab8a17ff8, type: 3}
   amountToChange: 0
   affectHP: 0
@@ -143,6 +143,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!58 &3119998517359559295
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -821,8 +821,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Design Project Manager:\n\nAssets:\n\n\nStory Design:\n\n\nDialog:\n\nLevel
     Design:\n\n\nDebugging \nAnd Implementation:\n\nQuality Assurance Testing:\n\n\nPlayer:\n\nSave/Load
-    System:\n\n\nEnemies:\n\n\nBattle System:\n\nCode Project Manager:\n\nNPC's:\n\n\nCollectables:\n\n\n\nCool
-    Teacher:"
+    System:\n\n\nEnemies:\n\n\nBattle System:\n\nCode Project Manager:\n\nNPC's:\n\n\nCollectables:\n\n\n\n"
 --- !u!222 &1250278480
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1049,7 +1048,7 @@ MonoBehaviour:
     Daland
 
 
-    Dr. Kirk'
+'
 --- !u!222 &1285547122
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1348,7 +1347,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.999878, y: -4994}
+  m_AnchoredPosition: {x: 46.775, y: -6259}
   m_SizeDelta: {x: 375.5507, y: 118.2731}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1844183539
@@ -1531,6 +1530,22 @@ MonoBehaviour:
     Yiannis Tirikos
 
     Colby Mandese
+
+
+
+
+    Dedicated
+    to our teacher
+
+    Dr. Kirk
+
+
+
+    In loving memory of Sammy
+
+    Aidan''s #1
+    pal.
+
 
 '
 --- !u!222 &1852124676

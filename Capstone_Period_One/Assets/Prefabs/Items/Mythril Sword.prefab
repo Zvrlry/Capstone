@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 0
   itemName: Mythril Sword
   description: Stronger Than Platinum
-  value: 200
+  value: 100
   itemSprite: {fileID: 21300000, guid: 6833e8e640fc0ca44b7685b993ea0c6e, type: 3}
   amountToChange: 50
   affectHP: 0
@@ -124,6 +124,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!95 &702709641
 Animator:
   serializedVersion: 3

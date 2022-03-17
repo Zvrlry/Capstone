@@ -104,7 +104,7 @@ MonoBehaviour:
   isArmour: 0
   itemName: Mythical Sword
   description: Stronger Than Adamantite
-  value: 2000
+  value: 2500
   itemSprite: {fileID: 7024360998823325131, guid: 72d2619b5e0d7aa45a30154dc4c6e858, type: 3}
   amountToChange: 50
   affectHP: 0
@@ -124,6 +124,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!95 &702709641
 Animator:
   serializedVersion: 3
