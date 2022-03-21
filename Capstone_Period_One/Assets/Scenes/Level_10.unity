@@ -2634,7 +2634,7 @@ MonoBehaviour:
   - n-Player
   - Why are you down here?
   - n-Person
-  - Eh? I don't know, I guess I need a new tan
+  - Eh? I don't know, I guess I need a new tan.
   isPerson: 1
   shouldActivateQuest: 0
   questToMark: 

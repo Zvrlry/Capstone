@@ -668,9 +668,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - n-Stoowy
-  - Gosh That forest is spooky.
+  - Gosh! That forest is spooky.
   - I think I'll stay right here.
-  - And remember if you need any help...
+  - And remember if you need any help ...
   - Figure it out.
   isPerson: 1
   shouldActivateQuest: 0
