@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1022495456438040364
+--- !u!1 &3558904023389917794
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,40 +8,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 9147282141924350880}
-  - component: {fileID: 4757729322650554151}
-  - component: {fileID: 8497386286031729416}
-  - component: {fileID: 1949483258}
-  - component: {fileID: 1949483254}
-  - component: {fileID: 3119998517359559295}
+  - component: {fileID: 6718187744663489707}
+  - component: {fileID: 7521716183816572968}
+  - component: {fileID: 8532148909468855240}
+  - component: {fileID: 1179938277}
+  - component: {fileID: 2885462009775149782}
+  - component: {fileID: 7519834290742535743}
   m_Layer: 0
-  m_Name: Ice Armor
+  m_Name: Brosketti Armor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &9147282141924350880
+--- !u!4 &6718187744663489707
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
+  m_GameObject: {fileID: 3558904023389917794}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.2, y: 1.1, z: 0}
+  m_LocalPosition: {x: -0.4, y: 3.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &4757729322650554151
+--- !u!212 &7521716183816572968
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
+  m_GameObject: {fileID: 3558904023389917794}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: -2127214263
   m_SortingLayer: 4
   m_SortingOrder: -5
-  m_Sprite: {fileID: 4508241784428371172, guid: 8d4ea2b3acd569a40abd19d5e7fa2d5c, type: 3}
+  m_Sprite: {fileID: -5781462283130520655, guid: 3cf6bb46ffb1a9f4e906522b09f41a11, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -87,13 +87,13 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8497386286031729416
+--- !u!114 &8532148909468855240
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
+  m_GameObject: {fileID: 3558904023389917794}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7acb2b201e73134458b4204fa0c3ec19, type: 3}
@@ -102,24 +102,36 @@ MonoBehaviour:
   isItem: 0
   isWeapon: 0
   isArmour: 1
-  itemName: Ice Armor
-  description: Woah Kinda Coool Don't ya think?
-  value: 500
-  itemSprite: {fileID: -6099050445329199328, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
+  itemName: Leather Armor
+  description: Eh, kinda ok.
+  value: 10
+  itemSprite: {fileID: -5781462283130520655, guid: 3cf6bb46ffb1a9f4e906522b09f41a11, type: 3}
   amountToChange: 50
-  affectHP: 1
-  affectMP: 1
-  affectStrength: 1
+  affectHP: 0
+  affectMP: 0
+  affectStrength: 0
   weaponStrength: 0
-  armorStrength: 200
---- !u!95 &1949483258
+  armorStrength: 5
+--- !u!114 &1179938277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3558904023389917794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &2885462009775149782
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
+  m_GameObject: {fileID: 3558904023389917794}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 0}
@@ -131,28 +143,13 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1949483254
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  uiCanvas: {fileID: 0}
-  interactText: {fileID: 0}
-  canRun: 1
---- !u!58 &3119998517359559295
+--- !u!58 &7519834290742535743
 CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1022495456438040364}
+  m_GameObject: {fileID: 3558904023389917794}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
