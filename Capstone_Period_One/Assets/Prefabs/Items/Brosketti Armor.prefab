@@ -102,16 +102,16 @@ MonoBehaviour:
   isItem: 0
   isWeapon: 0
   isArmour: 1
-  itemName: Leather Armor
-  description: Eh, kinda ok.
-  value: 10
+  itemName: Brosketti Armor
+  description: Quality content
+  value: 2147483647
   itemSprite: {fileID: -5781462283130520655, guid: 3cf6bb46ffb1a9f4e906522b09f41a11, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0
   affectStrength: 0
   weaponStrength: 0
-  armorStrength: 5
+  armorStrength: 2147483647
 --- !u!114 &1179938277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,6 +124,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eaa56e612736f454fb197880b505fb7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uiCanvas: {fileID: 0}
+  interactText: {fileID: 0}
+  canRun: 1
 --- !u!95 &2885462009775149782
 Animator:
   serializedVersion: 3

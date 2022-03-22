@@ -102,15 +102,15 @@ MonoBehaviour:
   isItem: 0
   isWeapon: 1
   isArmour: 0
-  itemName: Wooden Sword
-  description: Easily Broken but Not Useless
-  value: 10
+  itemName: Brosketti Sword
+  description: The best ever
+  value: 2147483647
   itemSprite: {fileID: -2178467043915682464, guid: 0bc4ed27aef38a44bb72e80f9beb5326, type: 3}
   amountToChange: 50
   affectHP: 0
   affectMP: 0
   affectStrength: 0
-  weaponStrength: 5
+  weaponStrength: 2147483647
   armorStrength: 0
 --- !u!114 &861818781
 MonoBehaviour:

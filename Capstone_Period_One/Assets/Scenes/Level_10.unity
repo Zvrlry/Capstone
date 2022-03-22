@@ -2216,8 +2216,8 @@ MonoBehaviour:
     - Devil
     rewardXP: 100000
     rewardItems:
-    - Wooden Sword
-    - Leather Armor
+    - Brosketti Sword
+    - Brosketti Armor
   timeBetweenBattles: 12
   activeOnEnter: 1
   activateOnStay: 0
