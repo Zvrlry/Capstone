@@ -154,28 +154,28 @@ public class GameMenu : MonoBehaviour
 
         UpdateMainStats();
         statusName.text = playerStats[selected].charName;
-        statusHP.text = "" + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
-        statusMP.text = "" + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
-        statusStr.text = playerStats[selected].strength.ToString();
-        statusDef.text = playerStats[selected].defence.ToString();
+        statusHP.text = "HP: " + playerStats[selected].currentHP + "/" + playerStats[selected].maxHP;
+        statusMP.text = "MP: " + playerStats[selected].currentMP + "/" + playerStats[selected].maxMP;
+        statusStr.text = "Str: " +  playerStats[selected].strength.ToString();
+        statusDef.text = "Def: " + playerStats[selected].defence.ToString();
         if (playerStats[selected].equippedWeapon != "")
         {
-            statusWpnEqpd.text = playerStats[selected].equippedWeapon;
+            statusWpnEqpd.text = "Equipped: " + playerStats[selected].equippedWeapon;
         }
         else
         {
             statusWpnEqpd.text = "Equipped Weapon: None";
         }
-        statusWpnPwr.text = playerStats[selected].weaponPower.ToString();
+        statusWpnPwr.text = "Weapon Str: " + playerStats[selected].weaponPower.ToString();
         if (playerStats[selected].equippedArmor != "")
         {
-            statusArmrEqpd.text = playerStats[selected].equippedArmor;
+            statusArmrEqpd.text = "Equipped: " + playerStats[selected].equippedArmor;
         }
         else
         {
             statusArmrEqpd.text = "Equipped Armor: None";
         }
-        statusArmrPwr.text = playerStats[selected].armorPower.ToString();
+        statusArmrPwr.text = "Armor Def: " + playerStats[selected].armorPower.ToString();
         statusExp.text = (playerStats[selected].expToNextLevel[playerStats[selected].playerLevel] - playerStats[selected].currentEXP).ToString();
         statusImage.sprite = playerStats[selected].charImage;
 

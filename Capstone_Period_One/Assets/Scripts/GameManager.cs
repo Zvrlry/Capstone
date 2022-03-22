@@ -19,11 +19,14 @@ public class GameManager : MonoBehaviour
     public int currentGold;
 
     private PlayerController playerController;
+    public bool isLoad = false;
+    public bool canSpawn = true;
 
 
     // Use this for initialization
     void Start()
     {
+        
         instance = this;
 
         DontDestroyOnLoad(gameObject);
@@ -218,6 +221,7 @@ public class GameManager : MonoBehaviour
 
     public void LoadData()
     {
+        isLoad = true;
         PlayerController.instance.transform.position = new Vector3(PlayerPrefs.GetFloat("Player_Position_x"), PlayerPrefs.GetFloat("Player_Position_y"), PlayerPrefs.GetFloat("Player_Position_z"));
 
         for (int i = 0; i < playerStats.Length; i++)
@@ -245,6 +249,8 @@ public class GameManager : MonoBehaviour
             playerStats[i].equippedArmor = PlayerPrefs.GetString("Player_" + playerStats[i].charName + "_EquippedArmr");
 
             GameMenu.instance.ShowItems();
+
+           
         }
 
         for (int i = 0; i < itemsHeld.Length; i++)
@@ -253,5 +259,14 @@ public class GameManager : MonoBehaviour
             numberOfItems[i] = PlayerPrefs.GetInt("ItemAmount_" + i);
 
         }
+
+        StartCoroutine(LoadTimer());
     }
+
+    public IEnumerator LoadTimer()
+	{
+        yield return new WaitForSeconds(5f);
+        canSpawn = false;
+        isLoad = false;
+	}
 }

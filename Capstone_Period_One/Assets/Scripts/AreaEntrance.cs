@@ -8,16 +8,24 @@ public class AreaEntrance : MonoBehaviour {
 	bool canRun = true;
 
 
-	
+	void Start()
+	{
+		GameManager.instance.canSpawn = true;
+	}
 	// Update is called once per frame
 	void Update () {
 		//This if Statement allows time for everything to load in without wasting to much power
 		if (canRun && PlayerController.instance)
 		{
-				PlayerController.instance.transform.position = transform.position;
-				GameManager.instance.fadingBetweenAreas = false;
-				canRun = false;
-		
+			if (GameManager.instance.isLoad == false)
+			{
+				if (GameManager.instance.canSpawn == true)
+				{
+					PlayerController.instance.transform.position = transform.position;
+					GameManager.instance.fadingBetweenAreas = false;
+					canRun = false;
+				}
+			}
 		}
 	}
 }
