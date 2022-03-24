@@ -121,8 +121,12 @@ MonoBehaviour:
   - {fileID: 8497386286031729416, guid: b9a8422e6ba35eb418e8081f544cd373, type: 3}
   - {fileID: 1502146741587710548, guid: fe555f2d4c9455044aab10ed5a3236d9, type: 3}
   - {fileID: 7108752714156725297, guid: de4fc64d465059d4a81b3ab7606e9a6f, type: 3}
+  - {fileID: 6412241686432632908, guid: 765331f354619294499510ec70f4a4ab, type: 3}
+  - {fileID: 8532148909468855240, guid: fa59734dad0822242b84af5610430e9e, type: 3}
   - {fileID: 0}
   currentGold: 0
+  isLoad: 0
+  canSpawn: 1
 --- !u!114 &2100758605270493501
 MonoBehaviour:
   m_ObjectHideFlags: 0
